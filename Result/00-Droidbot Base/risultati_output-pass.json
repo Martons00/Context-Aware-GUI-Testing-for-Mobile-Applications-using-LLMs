@@ -1,1 +1,22 @@
-[]
+[
+  {
+    "id": "event_2025-06-25_175227.json",
+    "description": "class=android.widget.EditText, resource_id=org.ligi.passandroid:id/alternativeMessageInput",
+    "text": "Hello World"
+  },
+  {
+    "id": "event_2025-06-25_175235.json",
+    "description": "class=android.widget.EditText, resource_id=org.ligi.passandroid:id/alternativeMessageInput",
+    "text": "Hello World"
+  },
+  {
+    "id": "event_2025-06-25_175259.json",
+    "description": "class=android.widget.EditText, resource_id=org.ligi.passandroid:id/passTitle",
+    "text": "Hello World"
+  },
+  {
+    "id": "event_2025-06-25_175306.json",
+    "description": "class=android.widget.EditText, resource_id=org.ligi.passandroid:id/passTitle",
+    "text": "Hello World"
+  }
+]
