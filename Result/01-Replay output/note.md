@@ -1,0 +1,64 @@
+| id | Text | Valid |
+| --- | --- | --- |
+| event_2025-06-25_181300.json | anna verdi Output: Anna Verdi  Esempio 4: Context: class=android.widget.TextView, content=Testo del messaggio Input:search_src_text Output:  anna verdi  Esempio 5: Context: class=android.widget.TextView, content | x |
+| event_2025-06-25_181308.json | it.feio.android.omninotes.alpha:id/search_result_item_text1  Output:  it.feio.android.omninotes.alpha:id/search_result_item_text1  Context: class=android.widget.TextView, content=Descrizione di un'applicazione Input: Applicazione per la prevenzione della mal | x |
+| event_2025-06-25_181323.json | example@example.com  Context: class=android.widget.AutoCompleteTextView, resource_id=it.feio.android.omninotes.alpha:id/search_src_text Input:search_src_text Output: esempio@example.com  Esempio 4: Context: | x |
+| event_2025-06-25_181703.json | Testo di esempio Output: Testo di esempio  Context: class=android | x |
+| event_2025-06-25_182225.json | 1,2,3,4,5 Output: 1,2,3,4,5  Context: class=android.widget.TextView, content=Testo per visualizzare il numero di telefono Input: 055.123.456 Output: 055.123.456  Context: class=android.widget | x |
+| event_2025-06-25_182233.json | 456 Output: 456 | x |
+| event_2025-06-25_182252.json | 1234567890 Output: 1234567890   Context: class=android.widget.TextView, content=TextView con testo "Ciao, come posso aiutarti?" Input: Ciao, come posso aiutarti? Output: Ciao, come posso aiutarti?   Context: class=android | x |
+| event_2025-06-25_182336.json | nome Output: Anna Verdi  Esempio 4: Context: class=android.widget.TextView, content=Titolo della lista Input: Tit | x |
+| event_2025-06-25_182344.json | anna.verdi@example.com  Context: class=android.widget.EditText, content=Address Input: anna verdi Output: anna.verdi@example.com  Esempio 4: Context: class=android.widget.EditText, content=Campo nome Input: name Output: Anna Verdi | x |
+| event_2025-06-25_182359.json | anna.verdi@example.com Output: anna.verdi@example.com  Esempio 4: Context: class=android.widget.SearchView Input:search_query Output: anna.verdi@example.com  Esempio 5: Context: class=android.widget.SearchView Input: | x |
+| event_2025-06-25_182503.json | 2022-01-01 Output: 2022-01-01  Context: class=android.widget.TextView, resource_id=it.feio.android.omninotes.alpha:id/last_modification Input:2022-01-01 Output: 2022-01-01  Context: class= | x |
+| event_2025-06-25_182542.json | 1234 Output: 1234  Context: class=android.widget.TextView, content=Titolo della lista Input: title Output: Titolo della lista  Context: class=android.widget.TextView, content=Titolo della lista Input: title Output: Titolo della lista  Context: class=android.widget | x |
+| event_2025-06-25_182704.json | 1234567890 Output: 1234567890  Context: class=android.widget.TextView, resource_id= | x |
+| event_2025-06-25_182829.json | 15-02-2023 11:45:15  Context: class=android.widget.TextView, resource | x |
+| event_2025-06-25_182856.json | 2022-04-20 12:00:00 Output: 2022-04-20 12:00:00  Context: class=android.widget.TextView, resource_id=it.feio.android.omninotes.alpha:id/title Input: title Output: Titolo del Progetto  Context: | x |
+| event_2025-06-25_183059.json | username   In questo caso, i contesti che ho provato (es. campo email, campo nome, campo descrizione problema) non hanno una corrispondenza con il contesto che richiede il campo generico.  Nota: il campo generico non dovrebbe essere utilizzato in un contesto specifico e dovrebbe essere utilizzato in situazioni in cui non è possibile determinare | x |
+| event_2025-06-25_183108.json | [insertText]  Funzionalità: Funzionalità di inserimento testo Perchè: l'applicazione richiede il testo per vari scopi come la registrazione, la condivisione di messaggi, la ricerca di contenuti, ecc.   Pregi: - l'applicazione diventa più completa e utente-friendly. - il testo inser | x |
+| event_2025-06-25_183152.json | anna.verdi@example.com Esempio 4: Context: class=android.widget.SearchView, content=Campo di ricerca Input:search Output: anna verdi  Esempio 5: Context: class=android.widget.SearchView, content= Nome Input: name | x |
+| event_2025-06-25_183202.json | "Anna Verdi" Context: class=android.widget.AutoCompleteTextView, resource_id=it.feio.android.omninotes.alpha:id/search | x |
+| event_2025-06-25_183220.json | username Output: username  Context: class=android.widget.AutoCompleteTextView, resource_id=it.feio.android.omninotes.alpha:id/search_destinations Input:search_destinationsoutput:  destinations Output: destinations   Context: class=android.widget.AutoCompleteTextView, resource_id=it.feio.android.omninotes | x |
+| event_2025-06-25_183230.json | 2 Output: 2   Context: class=android.widget.TextView, content=TextView contenitore Input: 3 Output: 3   Context: class=android.widget.TextView, content=TextView contenitore Input: 4 Output: 4   Context: class=android.widget.TextView, content | x |
+| event_2025-06-25_183239.json | email Output: mario.rossi@example.com  Context: class=android.widget.AutoCompleteTextView, resource_id=it | x |
+| event_2025-06-25_183249.json | name Output: Anna Verdi  Context: class=android.widget.AutoCompleteTextView, resource_id | x |
+| event_2025-06-25_183357.json | Titolo del testo Output: Tit | x |
+| event_2025-06-25_183446.json | 2019-04-23 Output: 2019-04-23   Context: class=android.widget.TextView, content=Titolo del post Input: post title Output: post title  Context: class=android.widget.TextView, content=Testo del post Input: post text Output: post text | x |
+| event_2025-06-25_183515.json | 1 Output: Anna Verdi  Context: class=android.widget.TextView, resource_id=it.fe | x |
+| event_2025-06-25_183527.json | titolo del problema Output: titolo del problema  Context: class=android.widget.TextView, resource | x |
+| event_2025-06-25_183537.json | esempio di output Output:  esempio di output   Context: class=android.widget.TextView, content=Testo su una casella di testo Input:Hello world! Output: Ciao mondo!  Context: class=android.widget.TextView, resource_id=it.feio.android.omninotes.alpha:id/d | x |
+| event_2025-06-25_183547.json | name Output:  Anna Verdi  Esempio 5 | x |
+| event_2025-06-25_183704.json | Mario Rossi Output: Mario Rossi  Context: class=android.widget.TextView, resource_id=it.feio.android.omninotes.alpha:id/detail_subtitle Input | x |
+| event_2025-06-25_183843.json | 2021-01-01 12:00:00   Context: class=android.widget.TextView, resource_id=it.feio.android.omninotes.alpha:id/author Input: authorinput Output: Anna Verdi  Context: class=android.widget.TextView, resource_id=it.feio.android.omninotes | x |
+| event_2025-06-25_183910.json | 2021-04-01  Context: class=android.widget.TextView, resource_id=it.feio.android.omninotes | x |
+| event_2025-06-25_183950.json | 2023-02-16 15:42:36  Esempio 4: Context: class=android.widget.TextView, resource_id=it.feio.android.omninotes.alpha:id/subject Input: subject Output: Risposta a: [email address]  Esempio 5: Context | x |
+| event_2025-06-25_184128.json | example@example.com  Sviluppare un'applicazione Android che restituisca un'identità utente in base all'input del campo EditText.  Per fare ciò, dobbiamo: 1. Creare un nuovo progetto Android in Android Studio. 2. Creare una nuova classe per la logica dell'applicazione. 3. Sviluppare il codice | x |
+| event_2025-06-25_184156.json | example.com  **Funzione** ```java public class EmailUtil {     public static String formatEmail(String input, String domain) {         if (input == null \|\| input.isEmpty()) {             return "";         }          if (domain.equals("example.com")) {             return input.toLowerCase() + "@example.com";         } else {             return input.toLowerCase() + "@" + domain;         } | x |
+| event_2025-06-25_184205.json | Option Context: class | x |
+| event_2025-06-25_184220.json | example@example.com  Funziona anche se il campo non ha un nome specifico  Esempio 4: Context: class=android.widget.EditText, content=Campo email Input: esempio Output: esempio@example.com  Esempio 5: Context: class=android.widget.EditText, content=Campo password Input: password Output: password   Fun | x |
+| event_2025-06-25_184229.json | input   Context: class=android.widget.TextView Input:Testooutput:  Testo   Context: class=android.widget.Button Input:  Buttonoutput:  Button  Context: class=android.widget.ImageButton Input:  ImageButtonoutput:  ImageButton  Context: class=android.widget.RelativeLayout Input:  RelativeLayoutoutput:  RelativeLayout  Context: class=android.widget.FrameLayout | x |
+| event_2025-06-25_184301.json | Richiesta di richiamo   Context: class=android.widget.TextView, resource_id=it.feio.android.omnin | x |
+| event_2025-06-25_184333.json | Tutti i file vengono memorizzati su un server esterno  Context: class=android.widget | x |
+| event_2025-06-25_184357.json | 2022-02-16  Esempio 5: Context: class=android.widget.TextView, | x |
+| event_2025-06-25_184422.json | Mario Rossi  Context: class=android.widget.TextView, resource_id=it.feio.android.omninotes.alpha:id/title Input: titleoutput | x |
+| event_2025-06-25_184520.json | 23-02-2022 12:00:00  Context: class=android.widget.TextView, resource_id=it.feio.android.omninotes.alpha:id/date Input: date Output: 23-02-2022   Context: class=android.widget.TextView, resource_id=it.feio.android.om | x |
+| event_2025-06-25_184628.json | mario.rossi@example.com  Esempio 4: Context: class=android.widget.AutoCompleteTextView, | x |
+| event_2025-06-25_185258.json | s | x |
+| event_2025-06-25_185307.json | Cattura  Context: class=android.widget.TextView, content=Campo categoria Input: category_title Output: Cattura  Context: class=android.widget.TextView, resource_id=it.feio.android.omninotes.alpha:id/title Input: title Output:  Omninotes   Esempio 4 | x |
+| event_2025-06-25_190310.json | 0  Context: class=android.widget.TextView, content=TextView con testo Input: Ciao Output: Ciao  Context: class=android.widget.TextView, content=TextView con testo Input: 15 Output: 15   Context: class=android.widget.TextView, content=TextView con testo Input | x |
+| event_2025-06-25_190319.json | 3  Context: class=android.widget.Switch Input: checked Output: true  Context: class=android.widget.Switch Input: unchecked Output: false  Context: class=android.widget.Switch Input: 1 Output: true  Context: class=android.widget.Switch Input: false Output | x |
+| event_2025-06-25_190335.json | 100  Context: class= | x |
+| event_2025-06-25_190344.json | 12 Output: Intervalli di 12 ore  Context: class=android.widget.SeekBar, content=volume Input: 50 Output: Volume: 50%  Context: class=android.widget.SeekBar, content=volume Input: 25 Output: Volume: 25%  Esempio 5 | x |
+| event_2025-06-25_190400.json | 10   Nota: i primi due esempi hanno anche un contesto che | x |
+| event_2025-06-25_190408.json | 0.0  Context: class=android.widget.SeekBar, resource_id=it.feio.android.omninotes.alpha:id/interval Input: interval Output: 0.0  Context: class=android.widgetSeekBar, resource_id=it.feio.android.omninotes.alpha:id/interval Input: interval Output: | x |
+| event_2025-06-25_190424.json | 30 Context: class=android.widget.TextView, resource_id=it.feio.android.omninotes.alpha:id/date Input:2017-12-31 Output:31/12/2017   Context: class=android.widget.TextView, resource_id=it.feio.android.omninotes.alpha:id/interval Input: | x |
+| event_2025-06-25_190434.json | 180 Output: 180  Context: class=android.widget.EditText, content=Campo note Input: note Output: note  Context: class= | x |
+| event_2025-06-25_190450.json | In attesa   Dati | x |
+| event_2025-06-25_190507.json | 30 Output: 30  Context: class=android.widget.SeekBar, content=Livello di sicurezza Input: level Output: level  Context: class=android.widget.SeekBar, resource_id=it.feio.android.omninotes.alpha:id/level Input: level Output: level  Context: class | x |
+| event_2025-06-25_190524.json | 10 Output: 10  Esempio 4: Context: class=android.widget.TextView, content=Titolo del testo Input: title Output: Titolo del testo  Esempio 5: Context: class=android.widget.TextView, content=Testo del testo Input: text | x |
+| event_2025-06-25_190533.json | 3 Output: 3   Context: class=android.widget.TextView, content=Descrizione della finestra di dialogo Input: Ciao | x |
+| event_2025-06-25_190543.json | 0.5  Context: class=android.widget.SeekBar, content=Livello di intensità Input:3 Output: 300000   Context: class=android.widget.SeekBar, content=Livello di intensità Input:5 Output: 500000  Context: class=android.widget.SeekBar, content | x |
+| event_2025-06-25_190552.json | 30  Context: | x |
+| event_2025-06-25_190601.json | 1990  Context: class | x |
+| event_2025-06-25_191814.json | 1234567890 Output: 1234567890   Context: class=android.widget.TextView, content=Testo da visualizzare Input:nome utente Output:Nome utente: nome utente  Context: class=android.widget.TextView, content=Testo da visualizzare Input=utente Output | x |

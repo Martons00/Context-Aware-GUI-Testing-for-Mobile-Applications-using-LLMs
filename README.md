@@ -5,7 +5,7 @@
 | App         | DroidBot base | DroidBot Replay output | DroidBot + LLAMA | DroidBot + LLAMA + Scelta | Humanoid base | Humanoid Replay output | Humanoid + LLAMA |
 |-------------|:-------------:|:---------------------:|:----------------:|:-------------------------:|:-------------:|:----------------------:|:----------------:|
 | PassAndroid |      RM       |          ✔️           |        RM        |           ✔️              |      MR       |          ✔️            |       ✔️         |
-| TFA         |      ✔️       |          ✔️           |        ✔️        |           ✔️              |      MR       |          ✔️            |       ✔️         |
+| TFA         |      GM       |          GM           |        ✔️        |           ✔️              |      MR       |          ✔️            |       ✔️         |
 | Omni-Nets   |      MR       |          ✔️           |        RM        |           ✔️              |      MR       |          ✔️            |       ✔️         |
 
 ## Cose da fare: 

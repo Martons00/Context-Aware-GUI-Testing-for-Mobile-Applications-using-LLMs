@@ -1,0 +1,507 @@
+[
+  {
+    "id": "event_2025-05-18_210019.json",
+    "description": "class=android.widget.EditText, resource_id=net.thunderbird.android.debug:id/to",
+    "text": "Hello World!"
+  },
+  {
+    "id": "event_2025-05-18_210036.json",
+    "description": "class=android.widget.EditText, resource_id=net.thunderbird.android.debug:id/subject",
+    "text": "Hello World!"
+  },
+  {
+    "id": "event_2025-05-18_210057.json",
+    "description": "class=android.widget.EditText, resource_id=net.thunderbird.android.debug:id/message_content",
+    "text": "Hello World!"
+  },
+  {
+    "id": "event_2025-05-18_210144.json",
+    "description": "class=android.widget.EditText, resource_id=net.thunderbird.android.debug:id/subject",
+    "text": "Hello World!"
+  },
+  {
+    "id": "event_2025-05-18_210252.json",
+    "description": "class=android.widget.EditText, resource_id=net.thunderbird.android.debug:id/subject",
+    "text": "Hello World!"
+  },
+  {
+    "id": "event_2025-05-18_210613.json",
+    "description": "class=android.widget.EditText, resource_id=net.thunderbird.android.debug:id/subject",
+    "text": "Hello World!"
+  },
+  {
+    "id": "event_2025-05-18_210651.json",
+    "description": "class=android.widget.EditText, resource_id=net.thunderbird.android.debug:id/subject",
+    "text": "Hello World!"
+  },
+  {
+    "id": "event_2025-05-18_210736.json",
+    "description": "class=android.widget.EditText, resource_id=net.thunderbird.android.debug:id/to",
+    "text": "Hello World!"
+  },
+  {
+    "id": "event_2025-05-18_210800.json",
+    "description": "class=android.widget.EditText, resource_id=net.thunderbird.android.debug:id/subject",
+    "text": "Hello World!"
+  },
+  {
+    "id": "event_2025-05-18_210805.json",
+    "description": "class=android.widget.EditText, resource_id=net.thunderbird.android.debug:id/subject",
+    "text": "Hello World!"
+  },
+  {
+    "id": "event_2025-05-18_210810.json",
+    "description": "class=android.widget.EditText, resource_id=net.thunderbird.android.debug:id/message_content",
+    "text": "Hello World!"
+  },
+  {
+    "id": "event_2025-05-18_210832.json",
+    "description": "class=android.widget.EditText, resource_id=net.thunderbird.android.debug:id/subject",
+    "text": "Hello World!"
+  },
+  {
+    "id": "event_2025-05-18_211925.json",
+    "description": "class=android.widget.EditText, resource_id=net.thunderbird.android.debug:id/message_content",
+    "text": "Hello World!"
+  },
+  {
+    "id": "event_2025-05-18_212054.json",
+    "description": "class=android.widget.EditText, resource_id=net.thunderbird.android.debug:id/message_content",
+    "text": "Hello World!"
+  },
+  {
+    "id": "event_2025-05-18_212132.json",
+    "description": "class=android.widget.EditText, resource_id=net.thunderbird.android.debug:id/message_content",
+    "text": "Hello World!"
+  },
+  {
+    "id": "event_2025-05-18_212217.json",
+    "description": "class=android.widget.EditText, resource_id=net.thunderbird.android.debug:id/to",
+    "text": "Hello World!"
+  },
+  {
+    "id": "event_2025-05-18_212238.json",
+    "description": "class=android.widget.EditText, resource_id=net.thunderbird.android.debug:id/message_content",
+    "text": "Hello World!"
+  },
+  {
+    "id": "event_2025-05-18_212244.json",
+    "description": "class=android.widget.EditText, resource_id=net.thunderbird.android.debug:id/subject",
+    "text": "Hello World!"
+  },
+  {
+    "id": "event_2025-05-18_212414.json",
+    "description": "class=android.widget.EditText, resource_id=net.thunderbird.android.debug:id/message_content",
+    "text": "Hello World!"
+  },
+  {
+    "id": "event_2025-05-18_212420.json",
+    "description": "class=android.widget.EditText, resource_id=net.thunderbird.android.debug:id/message_content",
+    "text": "Hello World!"
+  },
+  {
+    "id": "event_2025-05-18_212450.json",
+    "description": "class=android.widget.EditText, resource_id=net.thunderbird.android.debug:id/subject",
+    "text": "Hello World!"
+  },
+  {
+    "id": "event_2025-05-18_212909.json",
+    "description": "class=android.widget.EditText, resource_id=net.thunderbird.android.debug:id/to",
+    "text": "Hello World!"
+  },
+  {
+    "id": "event_2025-05-18_213718.json",
+    "description": "class=android.widget.EditText, resource_id=net.thunderbird.android.debug:id/to",
+    "text": "Hello World!"
+  },
+  {
+    "id": "event_2025-05-18_213725.json",
+    "description": "class=android.widget.EditText, resource_id=net.thunderbird.android.debug:id/subject",
+    "text": "Hello World!"
+  },
+  {
+    "id": "event_2025-05-18_213730.json",
+    "description": "class=android.widget.EditText, resource_id=net.thunderbird.android.debug:id/message_content",
+    "text": "Hello World!"
+  },
+  {
+    "id": "event_2025-05-18_220229.json",
+    "description": "class=android.widget.EditText, resource_id=net.thunderbird.android.debug:id/to",
+    "text": "Hello World!"
+  },
+  {
+    "id": "event_2025-05-18_220236.json",
+    "description": "class=android.widget.EditText, resource_id=net.thunderbird.android.debug:id/subject",
+    "text": "Hello World!"
+  },
+  {
+    "id": "event_2025-05-18_220241.json",
+    "description": "class=android.widget.EditText, resource_id=net.thunderbird.android.debug:id/message_content",
+    "text": "Hello World!"
+  },
+  {
+    "id": "event_2025-05-18_220529.json",
+    "description": "class=android.widget.EditText, resource_id=net.thunderbird.android.debug:id/to",
+    "text": "Hello World!"
+  },
+  {
+    "id": "event_2025-05-18_220535.json",
+    "description": "class=android.widget.EditText, resource_id=net.thunderbird.android.debug:id/subject",
+    "text": "Hello World!"
+  },
+  {
+    "id": "event_2025-05-18_220541.json",
+    "description": "class=android.widget.EditText, resource_id=net.thunderbird.android.debug:id/message_content",
+    "text": "Hello World!"
+  },
+  {
+    "id": "event_2025-05-18_220819.json",
+    "description": "class=android.widget.EditText, resource_id=net.thunderbird.android.debug:id/search_src_text",
+    "text": "Hello World!"
+  },
+  {
+    "id": "event_2025-05-18_221624.json",
+    "description": "class=android.widget.EditText, resource_id=net.thunderbird.android.debug:id/to",
+    "text": "Hello World!"
+  },
+  {
+    "id": "event_2025-05-18_222158.json",
+    "description": "class=android.widget.EditText, resource_id=net.thunderbird.android.debug:id/search_src_text",
+    "text": "Hello World!"
+  },
+  {
+    "id": "event_2025-05-18_222243.json",
+    "description": "class=android.widget.EditText, resource_id=net.thunderbird.android.debug:id/subject",
+    "text": "Hello World!"
+  },
+  {
+    "id": "event_2025-05-18_222857.json",
+    "description": "class=android.widget.EditText, resource_id=net.thunderbird.android.debug:id/to",
+    "text": "Hello World!"
+  },
+  {
+    "id": "event_2025-05-18_223509.json",
+    "description": "class=android.widget.EditText, resource_id=net.thunderbird.android.debug:id/to",
+    "text": "Hello World!"
+  },
+  {
+    "id": "event_2025-05-18_223515.json",
+    "description": "class=android.widget.EditText, resource_id=net.thunderbird.android.debug:id/subject",
+    "text": "Hello World!"
+  },
+  {
+    "id": "event_2025-05-18_223521.json",
+    "description": "class=android.widget.EditText, resource_id=net.thunderbird.android.debug:id/message_content",
+    "text": "Hello World!"
+  },
+  {
+    "id": "event_2025-05-18_224137.json",
+    "description": "class=android.widget.EditText, resource_id=net.thunderbird.android.debug:id/to",
+    "text": "Hello World!"
+  },
+  {
+    "id": "event_2025-05-18_224144.json",
+    "description": "class=android.widget.EditText, resource_id=net.thunderbird.android.debug:id/subject",
+    "text": "Hello World!"
+  },
+  {
+    "id": "event_2025-05-18_224150.json",
+    "description": "class=android.widget.EditText, resource_id=net.thunderbird.android.debug:id/message_content",
+    "text": "Hello World!"
+  },
+  {
+    "id": "event_2025-05-18_224637.json",
+    "description": "class=android.widget.EditText, resource_id=net.thunderbird.android.debug:id/message_content",
+    "text": "Hello World!"
+  },
+  {
+    "id": "event_2025-05-18_225251.json",
+    "description": "class=android.widget.EditText, resource_id=net.thunderbird.android.debug:id/to",
+    "text": "Hello World!"
+  },
+  {
+    "id": "event_2025-05-18_225904.json",
+    "description": "class=android.widget.EditText, resource_id=net.thunderbird.android.debug:id/to",
+    "text": "Hello World!"
+  },
+  {
+    "id": "event_2025-05-18_225910.json",
+    "description": "class=android.widget.EditText, resource_id=net.thunderbird.android.debug:id/subject",
+    "text": "Hello World!"
+  },
+  {
+    "id": "event_2025-05-18_230209.json",
+    "description": "class=android.widget.EditText, resource_id=net.thunderbird.android.debug:id/reply_to",
+    "text": "Hello World!"
+  },
+  {
+    "id": "event_2025-05-18_230711.json",
+    "description": "class=android.widget.EditText, resource_id=net.thunderbird.android.debug:id/reply_to",
+    "text": "Hello World!"
+  },
+  {
+    "id": "event_2025-05-18_230717.json",
+    "description": "class=android.widget.EditText, resource_id=net.thunderbird.android.debug:id/to",
+    "text": "Hello World!"
+  },
+  {
+    "id": "event_2025-05-18_230723.json",
+    "description": "class=android.widget.EditText, resource_id=net.thunderbird.android.debug:id/subject",
+    "text": "Hello World!"
+  },
+  {
+    "id": "event_2025-05-18_230729.json",
+    "description": "class=android.widget.EditText, resource_id=net.thunderbird.android.debug:id/message_content",
+    "text": "Hello World!"
+  },
+  {
+    "id": "event_2025-05-18_231036.json",
+    "description": "class=android.widget.EditText, resource_id=net.thunderbird.android.debug:id/reply_to",
+    "text": "Hello World!"
+  },
+  {
+    "id": "event_2025-05-18_231042.json",
+    "description": "class=android.widget.EditText, resource_id=net.thunderbird.android.debug:id/to",
+    "text": "Hello World!"
+  },
+  {
+    "id": "event_2025-05-18_231048.json",
+    "description": "class=android.widget.EditText, resource_id=net.thunderbird.android.debug:id/cc",
+    "text": "Hello World!"
+  },
+  {
+    "id": "event_2025-05-18_231614.json",
+    "description": "class=android.widget.EditText, resource_id=net.thunderbird.android.debug:id/reply_to",
+    "text": "Hello World!"
+  },
+  {
+    "id": "event_2025-05-18_231620.json",
+    "description": "class=android.widget.EditText, resource_id=net.thunderbird.android.debug:id/to",
+    "text": "Hello World!"
+  },
+  {
+    "id": "event_2025-05-18_231626.json",
+    "description": "class=android.widget.EditText, resource_id=net.thunderbird.android.debug:id/cc",
+    "text": "Hello World!"
+  },
+  {
+    "id": "event_2025-05-18_231632.json",
+    "description": "class=android.widget.EditText, resource_id=net.thunderbird.android.debug:id/subject",
+    "text": "Hello World!"
+  },
+  {
+    "id": "event_2025-05-18_231638.json",
+    "description": "class=android.widget.EditText, resource_id=net.thunderbird.android.debug:id/message_content",
+    "text": "Hello World!"
+  },
+  {
+    "id": "event_2025-05-18_231952.json",
+    "description": "class=android.widget.EditText, resource_id=net.thunderbird.android.debug:id/reply_to",
+    "text": "Hello World!"
+  },
+  {
+    "id": "event_2025-05-18_231958.json",
+    "description": "class=android.widget.EditText, resource_id=net.thunderbird.android.debug:id/to",
+    "text": "Hello World!"
+  },
+  {
+    "id": "event_2025-05-18_232004.json",
+    "description": "class=android.widget.EditText, resource_id=net.thunderbird.android.debug:id/cc",
+    "text": "Hello World!"
+  },
+  {
+    "id": "event_2025-05-18_232010.json",
+    "description": "class=android.widget.EditText, resource_id=net.thunderbird.android.debug:id/bcc",
+    "text": "Hello World!"
+  },
+  {
+    "id": "event_2025-05-18_232404.json",
+    "description": "class=android.widget.EditText, resource_id=net.thunderbird.android.debug:id/reply_to",
+    "text": "Hello World!"
+  },
+  {
+    "id": "event_2025-05-18_232410.json",
+    "description": "class=android.widget.EditText, resource_id=net.thunderbird.android.debug:id/to",
+    "text": "Hello World!"
+  },
+  {
+    "id": "event_2025-05-18_232416.json",
+    "description": "class=android.widget.EditText, resource_id=net.thunderbird.android.debug:id/cc",
+    "text": "Hello World!"
+  },
+  {
+    "id": "event_2025-05-18_232422.json",
+    "description": "class=android.widget.EditText, resource_id=net.thunderbird.android.debug:id/bcc",
+    "text": "Hello World!"
+  },
+  {
+    "id": "event_2025-05-18_232428.json",
+    "description": "class=android.widget.EditText, resource_id=net.thunderbird.android.debug:id/subject",
+    "text": "Hello World!"
+  },
+  {
+    "id": "event_2025-05-18_232434.json",
+    "description": "class=android.widget.EditText, resource_id=net.thunderbird.android.debug:id/message_content",
+    "text": "Hello World!"
+  },
+  {
+    "id": "event_2025-05-18_232959.json",
+    "description": "class=android.widget.EditText, resource_id=net.thunderbird.android.debug:id/reply_to",
+    "text": "Hello World!"
+  },
+  {
+    "id": "event_2025-05-18_233005.json",
+    "description": "class=android.widget.EditText, resource_id=net.thunderbird.android.debug:id/to",
+    "text": "Hello World!"
+  },
+  {
+    "id": "event_2025-05-18_233011.json",
+    "description": "class=android.widget.EditText, resource_id=net.thunderbird.android.debug:id/cc",
+    "text": "Hello World!"
+  },
+  {
+    "id": "event_2025-05-18_233016.json",
+    "description": "class=android.widget.EditText, resource_id=net.thunderbird.android.debug:id/bcc",
+    "text": "Hello World!"
+  },
+  {
+    "id": "event_2025-05-18_233022.json",
+    "description": "class=android.widget.EditText, resource_id=net.thunderbird.android.debug:id/subject",
+    "text": "Hello World!"
+  },
+  {
+    "id": "event_2025-05-18_233028.json",
+    "description": "class=android.widget.EditText, resource_id=net.thunderbird.android.debug:id/message_content",
+    "text": "Hello World!"
+  },
+  {
+    "id": "event_2025-05-18_233357.json",
+    "description": "class=android.widget.EditText, resource_id=net.thunderbird.android.debug:id/reply_to",
+    "text": "Hello World!"
+  },
+  {
+    "id": "event_2025-05-18_233403.json",
+    "description": "class=android.widget.EditText, resource_id=net.thunderbird.android.debug:id/to",
+    "text": "Hello World!"
+  },
+  {
+    "id": "event_2025-05-18_233409.json",
+    "description": "class=android.widget.EditText, resource_id=net.thunderbird.android.debug:id/cc",
+    "text": "Hello World!"
+  },
+  {
+    "id": "event_2025-05-18_233415.json",
+    "description": "class=android.widget.EditText, resource_id=net.thunderbird.android.debug:id/bcc",
+    "text": "Hello World!"
+  },
+  {
+    "id": "event_2025-05-18_233420.json",
+    "description": "class=android.widget.EditText, resource_id=net.thunderbird.android.debug:id/subject",
+    "text": "Hello World!"
+  },
+  {
+    "id": "event_2025-05-18_233426.json",
+    "description": "class=android.widget.EditText, resource_id=net.thunderbird.android.debug:id/message_content",
+    "text": "Hello World!"
+  },
+  {
+    "id": "event_2025-05-18_233758.json",
+    "description": "class=android.widget.EditText, resource_id=net.thunderbird.android.debug:id/subject",
+    "text": "Hello World!"
+  },
+  {
+    "id": "event_2025-05-18_233803.json",
+    "description": "class=android.widget.EditText, resource_id=net.thunderbird.android.debug:id/subject",
+    "text": "Hello World!"
+  },
+  {
+    "id": "event_2025-05-18_233809.json",
+    "description": "class=android.widget.EditText, resource_id=net.thunderbird.android.debug:id/message_content",
+    "text": "Hello World!"
+  },
+  {
+    "id": "event_2025-05-18_234425.json",
+    "description": "class=android.widget.EditText, resource_id=net.thunderbird.android.debug:id/to",
+    "text": "Hello World!"
+  },
+  {
+    "id": "event_2025-05-18_234727.json",
+    "description": "class=android.widget.EditText, resource_id=net.thunderbird.android.debug:id/to",
+    "text": "Hello World!"
+  },
+  {
+    "id": "event_2025-05-18_234733.json",
+    "description": "class=android.widget.EditText, resource_id=net.thunderbird.android.debug:id/cc",
+    "text": "Hello World!"
+  },
+  {
+    "id": "event_2025-05-18_235443.json",
+    "description": "class=android.widget.EditText, resource_id=net.thunderbird.android.debug:id/to",
+    "text": "Hello World!"
+  },
+  {
+    "id": "event_2025-05-18_235449.json",
+    "description": "class=android.widget.EditText, resource_id=net.thunderbird.android.debug:id/cc",
+    "text": "Hello World!"
+  },
+  {
+    "id": "event_2025-05-18_235455.json",
+    "description": "class=android.widget.EditText, resource_id=net.thunderbird.android.debug:id/subject",
+    "text": "Hello World!"
+  },
+  {
+    "id": "event_2025-05-18_235501.json",
+    "description": "class=android.widget.EditText, resource_id=net.thunderbird.android.debug:id/message_content",
+    "text": "Hello World!"
+  },
+  {
+    "id": "event_2025-05-18_235731.json",
+    "description": "class=android.widget.EditText, resource_id=net.thunderbird.android.debug:id/to",
+    "text": "Hello World!"
+  },
+  {
+    "id": "event_2025-05-18_235738.json",
+    "description": "class=android.widget.EditText, resource_id=net.thunderbird.android.debug:id/cc",
+    "text": "Hello World!"
+  },
+  {
+    "id": "event_2025-05-18_235744.json",
+    "description": "class=android.widget.EditText, resource_id=net.thunderbird.android.debug:id/bcc",
+    "text": "Hello World!"
+  },
+  {
+    "id": "event_2025-05-19_000644.json",
+    "description": "class=android.widget.EditText, resource_id=net.thunderbird.android.debug:id/to",
+    "text": "Hello World!"
+  },
+  {
+    "id": "event_2025-05-19_000650.json",
+    "description": "class=android.widget.EditText, resource_id=net.thunderbird.android.debug:id/cc",
+    "text": "Hello World!"
+  },
+  {
+    "id": "event_2025-05-19_000656.json",
+    "description": "class=android.widget.EditText, resource_id=net.thunderbird.android.debug:id/bcc",
+    "text": "Hello World!"
+  },
+  {
+    "id": "event_2025-05-19_000701.json",
+    "description": "class=android.widget.EditText, resource_id=net.thunderbird.android.debug:id/subject",
+    "text": "Hello World!"
+  },
+  {
+    "id": "event_2025-05-19_000707.json",
+    "description": "class=android.widget.EditText, resource_id=net.thunderbird.android.debug:id/message_content",
+    "text": "Hello World!"
+  },
+  {
+    "id": "event_2025-05-19_000918.json",
+    "description": "class=android.widget.EditText, resource_id=net.thunderbird.android.debug:id/reply_to",
+    "text": "Hello World!"
+  },
+  {
+    "id": "event_2025-05-19_001441.json",
+    "description": "class=android.widget.EditText, resource_id=com.microsoft.skydrive:id/authentication_input_text",
+    "text": "Hello World!"
+  }
+]
