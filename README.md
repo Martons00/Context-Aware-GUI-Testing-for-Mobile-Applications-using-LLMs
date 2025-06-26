@@ -5,8 +5,8 @@
 | App         | DroidBot base | DroidBot Replay output | DroidBot + LLAMA | DroidBot + LLAMA + Scelta | Humanoid base | Humanoid Replay output | Humanoid + LLAMA |
 |-------------|:-------------:|:---------------------:|:----------------:|:-------------------------:|:-------------:|:----------------------:|:----------------:|
 | PassAndroid |      RM       |          GM           |        RM        |           ✔️              |      MR       |          ✔️            |       ✔️         |
-| TFA pre-log       |      GM       |          GM           |        ✔️        |           ✔️              |      MR       |          ✔️            |       ✔️         |
-| TFA post-log     |      GM       |          GM           |        ✔️        |           ✔️              |      MR       |          ✔️            |       ✔️         |
+| TFA pre-log       |      ✔️       |          ✔️           |        ✔️        |           ✔️              |      MR       |          ✔️            |       ✔️         |
+| TFA post-log     |      GM       |          GM           |        ✔️        |           ✔️              |        ✔️     |          ✔️            |       ✔️         |
 | Omni-Nets   |      MR       |          GM           |        RM        |           ✔️              |      MR       |          ✔️            |       ✔️         |
 
 ## Cose da fare: 
