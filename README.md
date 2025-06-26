@@ -13,4 +13,3 @@
     - Scrivere lo script per fare una tabella da cui valutare i set text umanamente
     - Overleaf
     - PowerPoint di presentazione  
-    - Rifare i test perchè sono tutti senza set_text, bisogna aumentare le probabilità 
