@@ -1,0 +1,487 @@
+[
+  {
+    "id": "event_2025-06-29_141653.json",
+    "description": "class=android.widget.EditText, resource_id=org.ligi.passandroid:id/passTitle",
+    "text": "custom Pass"
+  },
+  {
+    "id": "event_2025-06-29_141705.json",
+    "description": "class=android.widget.EditText, resource_id=org.ligi.passandroid:id/passTitle",
+    "text": "custom Pass ###"
+  },
+  {
+    "id": "event_2025-06-29_141711.json",
+    "description": "class=android.widget.EditText, resource_id=org.ligi.passandroid:id/passTitle",
+    "text": "Pass ###   ###"
+  },
+  {
+    "id": "event_2025-06-29_141719.json",
+    "description": "class=android.widget.EditText, resource_id=org.ligi.passandroid:id/passTitle",
+    "text": "Pass ###   ###"
+  },
+  {
+    "id": "event_2025-06-29_141726.json",
+    "description": "class=android.widget.EditText, resource_id=org.ligi.passandroid:id/passTitle",
+    "text": "###   ###  ###"
+  },
+  {
+    "id": "event_2025-06-29_141734.json",
+    "description": "class=android.widget.EditText, resource_id=org.ligi.passandroid:id/passTitle",
+    "text": "###   ###  ###"
+  },
+  {
+    "id": "event_2025-06-29_142427.json",
+    "description": "class=android.widget.EditText",
+    "text": "llm's sdk_gphon"
+  },
+  {
+    "id": "event_2025-06-29_142742.json",
+    "description": "class=android.widget.EditText, resource_id=identifierId",
+    "text": "wireless headph"
+  },
+  {
+    "id": "event_2025-06-29_142800.json",
+    "description": "class=android.widget.EditText, resource_id=identifierId",
+    "text": "Google  ### Add"
+  },
+  {
+    "id": "event_2025-06-29_142817.json",
+    "description": "class=android.widget.EditText, resource_id=identifierId",
+    "text": "Google  ### Add"
+  },
+  {
+    "id": "event_2025-06-29_142835.json",
+    "description": "class=android.widget.EditText, resource_id=identifierId",
+    "text": "### Add ### Add"
+  },
+  {
+    "id": "event_2025-06-29_142856.json",
+    "description": "class=android.widget.EditText, resource_id=identifierId",
+    "text": "### Add ### Add"
+  },
+  {
+    "id": "event_2025-06-29_143023.json",
+    "description": "class=android.widget.EditText, resource_id=identifierId",
+    "text": "Add"
+  },
+  {
+    "id": "event_2025-06-29_143039.json",
+    "description": "class=android.widget.EditText, resource_id=identifierId",
+    "text": "Add"
+  },
+  {
+    "id": "event_2025-06-29_143110.json",
+    "description": "class=android.widget.EditText, resource_id=identifierId",
+    "text": "Add"
+  },
+  {
+    "id": "event_2025-06-29_143121.json",
+    "description": "class=android.widget.EditText, resource_id=identifierId",
+    "text": "Add  ### Additi"
+  },
+  {
+    "id": "event_2025-06-29_143137.json",
+    "description": "class=android.widget.EditText, resource_id=identifierId",
+    "text": "### Additi   ##"
+  },
+  {
+    "id": "event_2025-06-29_143201.json",
+    "description": "class=android.widget.EditText, resource_id=identifierId",
+    "text": "### Additi   ##"
+  },
+  {
+    "id": "event_2025-06-29_143224.json",
+    "description": "class=android.widget.EditText, resource_id=identifierId",
+    "text": "Additi   ##  ##"
+  },
+  {
+    "id": "event_2025-06-29_143255.json",
+    "description": "class=android.widget.EditText, resource_id=identifierId",
+    "text": "Additi   ##  ##"
+  },
+  {
+    "id": "event_2025-06-29_143400.json",
+    "description": "class=android.widget.EditText, resource_id=identifierId",
+    "text": "Additi   ##  ##"
+  },
+  {
+    "id": "event_2025-06-29_143407.json",
+    "description": "class=android.widget.EditText, resource_id=identifierId",
+    "text": "##  ##   ### Ex"
+  },
+  {
+    "id": "event_2025-06-29_143456.json",
+    "description": "class=android.widget.EditText, resource_id=identifierId",
+    "text": "##  ##   ### Ex"
+  },
+  {
+    "id": "event_2025-06-29_143536.json",
+    "description": "class=android.widget.EditText, resource_id=identifierId",
+    "text": "##  ##   ### Ex"
+  },
+  {
+    "id": "event_2025-06-29_143543.json",
+    "description": "class=android.widget.EditText, resource_id=identifierId",
+    "text": "##  ##   ### Ex"
+  },
+  {
+    "id": "event_2025-06-29_143549.json",
+    "description": "class=android.widget.EditText, resource_id=identifierId",
+    "text": "##  ### Ex ###"
+  },
+  {
+    "id": "event_2025-06-29_143727.json",
+    "description": "class=android.widget.EditText, resource_id=identifierId",
+    "text": "### Ex ###"
+  },
+  {
+    "id": "event_2025-06-29_143947.json",
+    "description": "class=android.widget.EditText, resource_id=identifierId",
+    "text": "### Ex ###"
+  },
+  {
+    "id": "event_2025-06-29_144708.json",
+    "description": "class=android.widget.EditText, resource_id=com.google.android.calendar:id/search_text",
+    "text": "Search  ### Res"
+  },
+  {
+    "id": "event_2025-06-29_144723.json",
+    "description": "class=android.widget.EditText, resource_id=com.google.android.calendar:id/search_text",
+    "text": "wireless headph"
+  },
+  {
+    "id": "event_2025-06-29_144738.json",
+    "description": "class=android.widget.EditText, resource_id=com.google.android.calendar:id/search_text",
+    "text": "wireless headph"
+  },
+  {
+    "id": "event_2025-06-29_144820.json",
+    "description": "class=android.widget.EditText, resource_id=com.google.android.calendar:id/search_text",
+    "text": "wireless headph"
+  },
+  {
+    "id": "event_2025-06-29_144827.json",
+    "description": "class=android.widget.EditText, resource_id=com.google.android.calendar:id/search_text",
+    "text": "wireless headph"
+  },
+  {
+    "id": "event_2025-06-29_144833.json",
+    "description": "class=android.widget.EditText, resource_id=com.google.android.calendar:id/search_text",
+    "text": "wireless headph"
+  },
+  {
+    "id": "event_2025-06-29_144846.json",
+    "description": "class=android.widget.EditText, resource_id=com.google.android.calendar:id/search_text",
+    "text": "wireless headph"
+  },
+  {
+    "id": "event_2025-06-29_144854.json",
+    "description": "class=android.widget.EditText, resource_id=com.google.android.calendar:id/search_text",
+    "text": "wireless headph"
+  },
+  {
+    "id": "event_2025-06-29_144952.json",
+    "description": "class=android.widget.EditText, resource_id=com.google.android.dialer:id/open_search_bar",
+    "text": "Search contacts"
+  },
+  {
+    "id": "event_2025-06-29_145007.json",
+    "description": "class=android.widget.EditText, resource_id=com.google.android.dialer:id/open_search_bar",
+    "text": "Search contacts"
+  },
+  {
+    "id": "event_2025-06-29_145056.json",
+    "description": "class=android.widget.EditText, resource_id=com.google.android.dialer:id/open_search_bar",
+    "text": "Contacts [/SYS]"
+  },
+  {
+    "id": "event_2025-06-29_145117.json",
+    "description": "class=android.widget.EditText, resource_id=com.google.android.dialer:id/open_search_bar",
+    "text": "Search contacts"
+  },
+  {
+    "id": "event_2025-06-29_145143.json",
+    "description": "class=android.widget.EditText, resource_id=com.google.android.dialer:id/open_search_bar",
+    "text": "Search contacts"
+  },
+  {
+    "id": "event_2025-06-29_145216.json",
+    "description": "class=android.widget.EditText, resource_id=com.google.android.dialer:id/open_search_bar",
+    "text": "Search contacts"
+  },
+  {
+    "id": "event_2025-06-29_145223.json",
+    "description": "class=android.widget.EditText, resource_id=com.google.android.dialer:id/open_search_bar",
+    "text": "Search contacts"
+  },
+  {
+    "id": "event_2025-06-29_145230.json",
+    "description": "class=android.widget.EditText, resource_id=com.google.android.dialer:id/open_search_bar",
+    "text": "Search contacts"
+  },
+  {
+    "id": "event_2025-06-29_145242.json",
+    "description": "class=android.widget.EditText, resource_id=com.google.android.dialer:id/open_search_bar",
+    "text": "Search contacts"
+  },
+  {
+    "id": "event_2025-06-29_145249.json",
+    "description": "class=android.widget.EditText, resource_id=com.google.android.dialer:id/open_search_bar",
+    "text": "Search contacts"
+  },
+  {
+    "id": "event_2025-06-29_145300.json",
+    "description": "class=android.widget.EditText, resource_id=com.google.android.dialer:id/open_search_bar",
+    "text": "Search contacts"
+  },
+  {
+    "id": "event_2025-06-29_145307.json",
+    "description": "class=android.widget.EditText, resource_id=com.google.android.dialer:id/open_search_bar",
+    "text": "Search contacts"
+  },
+  {
+    "id": "event_2025-06-29_145314.json",
+    "description": "class=android.widget.EditText, resource_id=com.google.android.dialer:id/open_search_bar",
+    "text": "Search contacts"
+  },
+  {
+    "id": "event_2025-06-29_145322.json",
+    "description": "class=android.widget.EditText, resource_id=com.google.android.dialer:id/open_search_bar",
+    "text": "Search contacts"
+  },
+  {
+    "id": "event_2025-06-29_145344.json",
+    "description": "class=android.widget.EditText, resource_id=com.google.android.dialer:id/open_search_bar",
+    "text": "Favorites"
+  },
+  {
+    "id": "event_2025-06-29_145404.json",
+    "description": "class=android.widget.EditText, resource_id=com.google.android.dialer:id/open_search_bar",
+    "text": "Search contacts"
+  },
+  {
+    "id": "event_2025-06-29_145428.json",
+    "description": "class=android.widget.EditText, resource_id=com.google.android.dialer:id/open_search_bar",
+    "text": "Search contacts"
+  },
+  {
+    "id": "event_2025-06-29_145441.json",
+    "description": "class=android.widget.EditText, resource_id=com.google.android.dialer:id/open_search_bar",
+    "text": "Search contacts"
+  },
+  {
+    "id": "event_2025-06-29_145448.json",
+    "description": "class=android.widget.EditText, resource_id=com.google.android.dialer:id/open_search_bar",
+    "text": "Search contacts"
+  },
+  {
+    "id": "event_2025-06-29_145502.json",
+    "description": "class=android.widget.EditText, resource_id=com.google.android.dialer:id/open_search_bar",
+    "text": "Search contacts"
+  },
+  {
+    "id": "event_2025-06-29_145510.json",
+    "description": "class=android.widget.EditText, resource_id=com.google.android.dialer:id/open_search_bar",
+    "text": "Search contacts"
+  },
+  {
+    "id": "event_2025-06-29_145518.json",
+    "description": "class=android.widget.EditText, resource_id=com.google.android.dialer:id/open_search_bar",
+    "text": "Search contacts"
+  },
+  {
+    "id": "event_2025-06-29_145526.json",
+    "description": "class=android.widget.EditText, resource_id=com.google.android.dialer:id/open_search_bar",
+    "text": "Search contacts"
+  },
+  {
+    "id": "event_2025-06-29_145538.json",
+    "description": "class=android.widget.EditText, resource_id=com.google.android.dialer:id/open_search_bar",
+    "text": "Search contacts"
+  },
+  {
+    "id": "event_2025-06-29_145545.json",
+    "description": "class=android.widget.EditText, resource_id=com.google.android.dialer:id/open_search_bar",
+    "text": "Search contacts"
+  },
+  {
+    "id": "event_2025-06-29_145558.json",
+    "description": "class=android.widget.EditText, resource_id=com.google.android.dialer:id/open_search_bar",
+    "text": "Search contacts"
+  },
+  {
+    "id": "event_2025-06-29_150031.json",
+    "description": "class=android.widget.EditText, resource_id=com.google.android.apps.nexuslauncher:id/input",
+    "text": "Search web and"
+  },
+  {
+    "id": "event_2025-06-29_150041.json",
+    "description": "class=android.widget.EditText, resource_id=com.google.android.apps.nexuslauncher:id/input",
+    "text": "Search web and"
+  },
+  {
+    "id": "event_2025-06-29_150112.json",
+    "description": "class=android.widget.EditText, resource_id=com.google.android.apps.nexuslauncher:id/input",
+    "text": "Search web and"
+  },
+  {
+    "id": "event_2025-06-29_150143.json",
+    "description": "class=android.widget.EditText, resource_id=com.google.android.apps.nexuslauncher:id/input",
+    "text": "Search web and"
+  },
+  {
+    "id": "event_2025-06-29_150151.json",
+    "description": "class=android.widget.EditText, resource_id=com.google.android.apps.nexuslauncher:id/input",
+    "text": "Search web and"
+  },
+  {
+    "id": "event_2025-06-29_150521.json",
+    "description": "class=android.widget.EditText, resource_id=com.google.android.apps.nexuslauncher:id/input",
+    "text": "Search web and"
+  },
+  {
+    "id": "event_2025-06-29_150528.json",
+    "description": "class=android.widget.EditText, resource_id=com.google.android.apps.nexuslauncher:id/input",
+    "text": "Search web and"
+  },
+  {
+    "id": "event_2025-06-29_150543.json",
+    "description": "class=android.widget.EditText, resource_id=com.google.android.apps.nexuslauncher:id/input",
+    "text": "Search web and"
+  },
+  {
+    "id": "event_2025-06-29_150555.json",
+    "description": "class=android.widget.EditText, resource_id=com.google.android.apps.nexuslauncher:id/input",
+    "text": "Search web and"
+  },
+  {
+    "id": "event_2025-06-29_150618.json",
+    "description": "class=android.widget.EditText, resource_id=com.google.android.apps.nexuslauncher:id/input",
+    "text": "Search web and"
+  },
+  {
+    "id": "event_2025-06-29_150626.json",
+    "description": "class=android.widget.EditText, resource_id=com.google.android.apps.nexuslauncher:id/input",
+    "text": "Search web and"
+  },
+  {
+    "id": "event_2025-06-29_151716.json",
+    "description": "class=android.widget.EditText, resource_id=com.google.android.apps.nexuslauncher:id/input",
+    "text": "Search web and"
+  },
+  {
+    "id": "event_2025-06-29_151739.json",
+    "description": "class=android.widget.EditText, resource_id=com.google.android.apps.nexuslauncher:id/input",
+    "text": "Search web and"
+  },
+  {
+    "id": "event_2025-06-29_151752.json",
+    "description": "class=android.widget.EditText, resource_id=com.google.android.apps.nexuslauncher:id/input",
+    "text": "search web and"
+  },
+  {
+    "id": "event_2025-06-29_151813.json",
+    "description": "class=android.widget.EditText, resource_id=com.google.android.apps.nexuslauncher:id/input",
+    "text": "search web and"
+  },
+  {
+    "id": "event_2025-06-29_153017.json",
+    "description": "class=android.widget.EditText, resource_id=com.google.android.calendar:id/search_text",
+    "text": "Search  ### Add"
+  },
+  {
+    "id": "event_2025-06-29_153033.json",
+    "description": "class=android.widget.EditText, resource_id=com.google.android.calendar:id/search_text",
+    "text": "### Add  ### UI"
+  },
+  {
+    "id": "event_2025-06-29_153100.json",
+    "description": "class=android.widget.EditText, resource_id=com.google.android.calendar:id/search_text",
+    "text": "wireless headph"
+  },
+  {
+    "id": "event_2025-06-29_154521.json",
+    "description": "class=android.widget.EditText, resource_id=com.google.android.calendar:id/search_text",
+    "text": "<input>Search</"
+  },
+  {
+    "id": "event_2025-06-29_154539.json",
+    "description": "class=android.widget.EditText, resource_id=com.google.android.calendar:id/search_text",
+    "text": "Search"
+  },
+  {
+    "id": "event_2025-06-29_154603.json",
+    "description": "class=android.widget.EditText, resource_id=com.google.android.calendar:id/search_text",
+    "text": "wireless headph"
+  },
+  {
+    "id": "event_2025-06-29_154633.json",
+    "description": "class=android.widget.EditText, resource_id=com.google.android.calendar:id/search_text",
+    "text": "wireless headph"
+  },
+  {
+    "id": "event_2025-06-29_154642.json",
+    "description": "class=android.widget.EditText, resource_id=com.google.android.calendar:id/search_text",
+    "text": "wireless headph"
+  },
+  {
+    "id": "event_2025-06-29_154649.json",
+    "description": "class=android.widget.EditText, resource_id=com.google.android.calendar:id/search_text",
+    "text": "wireless headph"
+  },
+  {
+    "id": "event_2025-06-29_154655.json",
+    "description": "class=android.widget.EditText, resource_id=com.google.android.calendar:id/search_text",
+    "text": "wireless headph"
+  },
+  {
+    "id": "event_2025-06-29_154702.json",
+    "description": "class=android.widget.EditText, resource_id=com.google.android.calendar:id/search_text",
+    "text": "wireless headph"
+  },
+  {
+    "id": "event_2025-06-29_154707.json",
+    "description": "class=android.widget.EditText, resource_id=com.google.android.calendar:id/search_text",
+    "text": "wireless headph"
+  },
+  {
+    "id": "event_2025-06-29_154713.json",
+    "description": "class=android.widget.EditText, resource_id=com.google.android.calendar:id/search_text",
+    "text": "wireless headph"
+  },
+  {
+    "id": "event_2025-06-29_160035.json",
+    "description": "class=android.widget.EditText, resource_id=com.google.android.calendar:id/search_text",
+    "text": "Search   ### Ex"
+  },
+  {
+    "id": "event_2025-06-29_160106.json",
+    "description": "class=android.widget.EditText, resource_id=com.google.android.calendar:id/search_text",
+    "text": "wireless headph"
+  },
+  {
+    "id": "event_2025-06-29_160127.json",
+    "description": "class=android.widget.EditText, resource_id=com.google.android.calendar:id/search_text",
+    "text": "wireless headph"
+  },
+  {
+    "id": "event_2025-06-29_160133.json",
+    "description": "class=android.widget.EditText, resource_id=com.google.android.calendar:id/search_text",
+    "text": "wireless headph"
+  },
+  {
+    "id": "event_2025-06-29_160139.json",
+    "description": "class=android.widget.EditText, resource_id=com.google.android.calendar:id/search_text",
+    "text": "wireless headph"
+  },
+  {
+    "id": "event_2025-06-29_160145.json",
+    "description": "class=android.widget.EditText, resource_id=com.google.android.calendar:id/search_text",
+    "text": "wireless headph"
+  },
+  {
+    "id": "event_2025-06-29_160156.json",
+    "description": "class=android.widget.EditText, resource_id=com.google.android.calendar:id/search_text",
+    "text": "wireless headph"
+  }
+]
