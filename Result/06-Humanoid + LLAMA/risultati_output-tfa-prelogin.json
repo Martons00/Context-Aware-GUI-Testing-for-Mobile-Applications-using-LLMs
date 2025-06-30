@@ -93,13 +93,13 @@
     "id": "event_2025-06-27_155658.json",
     "description": "class=android.widget.EditText",
     "text": "appcrawler3@gmail.com",
-    "correct": false
+    "correct": true
   },
   {
     "id": "event_2025-06-27_155704.json",
     "description": "class=android.widget.EditText",
     "text": "appcrawler3@gmail.com",
-    "correct": false
+    "correct": true
   },
   {
     "id": "event_2025-06-27_155738.json",
