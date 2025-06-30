@@ -1,0 +1,47 @@
+[
+  {
+    "id": "event_2025-05-18_171328.json",
+    "description": "class=android.widget.EditText",
+    "text": "1234567890"
+  },
+  {
+    "id": "event_2025-05-18_171437.json",
+    "description": "class=android.widget.EditText",
+    "text": "example@example.com\n\n\n## Class: class\n### Description:\nReturns a class name identifier.\n\n## Parameters:\n- class (str): Class name identifier.\n\n## Returns:"
+  },
+  {
+    "id": "event_2025-05-18_171552.json",
+    "description": "class=android.widget.EditText",
+    "text": "myname\n\n\nContext: class=android.widget.EditText, content=Campo username\nInput: username\nOutput: mario.rossi\n\nContext: class=android"
+  },
+  {
+    "id": "event_2025-05-18_171603.json",
+    "description": "class=android.widget.EditText",
+    "text": "123-456-7890\n\nContext: class=android.widget.EditText, content=Campo email per login\nInput: to\n\nContext: class=android.widget.EditText"
+  },
+  {
+    "id": "event_2025-05-18_171642.json",
+    "description": "class=android.widget.EditText",
+    "text": "12345\n\nContext: class=android.widget.EditText, content=Campo codice fiscale\nInput:CF\n\nContext: class=android.widget.EditText, content="
+  },
+  {
+    "id": "event_2025-05-18_171756.json",
+    "description": "class=android.widget.EditText",
+    "text": "123 Main St, Apt 101\nOutput: 123 Main St, Apt 101\n\nContext: class=android.widget.EditText, content=Campo codice fis"
+  },
+  {
+    "id": "event_2025-05-18_171815.json",
+    "description": "class=android.widget.EditText",
+    "text": "12345\n\n\nContext: class=android.widget.Button\nInput:Click\nOutput:Click\n\nContext: class=android.widget.TextView\nInput:Testo\nOutput"
+  },
+  {
+    "id": "event_2025-05-18_171854.json",
+    "description": "class=android.widget.EditText",
+    "text": "Benvenuto\n\n\nContext: class=android.widget.Button\nInput:C"
+  },
+  {
+    "id": "event_2025-05-18_171913.json",
+    "description": "class=android.widget.EditText",
+    "text": "12345\n\nContext: class=android.widget.EditText, content=Campo ID\nInput: id\nOutput: 1234\n\nContext: class=android.widget.EditText"
+  }
+]

@@ -4,10 +4,10 @@
 
 | App         | DroidBot base | DroidBot Replay output | DroidBot + LLAMA | DroidBot + LLAMA + Scelta | Humanoid base | Humanoid Replay output | Humanoid + LLAMA |
 |-------------|:-------------:|:---------------------:|:----------------:|:-------------------------:|:-------------:|:----------------------:|:----------------:|
-| PassAndroid |      RM       |          GM           |        RM        |           RM              |      MR       |          X            |       RM         |
-| TFA pre-log       |      X       |          X           |        RM        |           RM              |      MR       |          X            |       RM         |
-| TFA post-log     |      GM       |          GM           |        RM        |           RM              |        X     |          X            |       RM         |
-| Omni-Nets   |      MR       |          GM           |        RM        |           RM              |      MR       |          X            |       RM         |
+| PassAndroid |      RM       |          GM           |        RM        |           RM              |      MR       |          GM            |       RM         |
+| TFA pre-log       |      X       |          X           |        RM        |           RM              |      MR       |          GM            |       RM         |
+| TFA post-log     |      GM       |          GM           |        RM        |           RM              |        x     |          X            |       RM         |
+| Omni-Notes   |      MR       |          GM           |        RM        |           RM              |      MR       |          GM            |       RM         |
 
 ## Cose da fare: 
     - Finire di fare i test di qui sopra

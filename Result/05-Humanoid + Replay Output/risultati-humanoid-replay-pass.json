@@ -1,0 +1,262 @@
+[
+  {
+    "id": "event_2025-05-23_111045.json",
+    "description": "class=android.widget.EditText, resource_id=org.ligi.passandroid:id/passTitle",
+    "text": "Passo 1: iniziare il login\nOutput: Passo 1: iniziare il"
+  },
+  {
+    "id": "event_2025-05-23_111442.json",
+    "description": "class=android.widget.EditText, resource_id=org.ligi.passandroid:id/label_field_edit",
+    "text": "anna verdi\nContext: class=android.widget.EditText, resource_id=org.ligi"
+  },
+  {
+    "id": "event_2025-05-23_111506.json",
+    "description": "class=android.widget.EditText, resource_id=org.ligi.passandroid:id/passTitle",
+    "text": "12345\nOutput: Passaggio 12345\n\nContext: class=android.widget.EditText, resource_id="
+  },
+  {
+    "id": "event_2025-05-23_111524.json",
+    "description": "class=android.widget.EditText, resource_id=org.ligi.passandroid:id/value_field_edit",
+    "text": "1234567890\n\nContext: class=android.widget.TextView, content=Titolo della lista\nInput"
+  },
+  {
+    "id": "event_2025-05-23_111657.json",
+    "description": "class=android.widget.EditText, resource_id=org.ligi.passandroid:id/value_field_edit",
+    "text": "mario.rossi@example.com\n\nContext: class=android.widget.EditText, content=Campo email"
+  },
+  {
+    "id": "event_2025-05-23_111710.json",
+    "description": "class=android.widget.EditText, resource_id=org.ligi.passandroid:id/value_field_edit",
+    "text": "mario.rossi@example.com\nOutput:  mario.rossi@example.com\nContext:"
+  },
+  {
+    "id": "event_2025-05-23_111807.json",
+    "description": "class=android.widget.EditText, resource_id=org.ligi.passandroid:id/value_field_edit",
+    "text": "12345\n\nContext: class=android.widget.EditText, resource_id=org.ligi.passandroid:id/email"
+  },
+  {
+    "id": "event_2025-05-23_111830.json",
+    "description": "class=android.widget.EditText, resource_id=org.ligi.passandroid:id/passTitle",
+    "text": "myPass\n\n\nContext: class=android.widget.TextView, resource_id=org.ligi.passandroid:id/passMessage"
+  },
+  {
+    "id": "event_2025-05-23_111840.json",
+    "description": "class=android.widget.EditText, resource_id=org.ligi.passandroid:id/value_field_edit",
+    "text": "to\nOutput:  mario.rossi@example.com\n\nContext: class=android.widget.EditText,"
+  },
+  {
+    "id": "event_2025-05-23_111918.json",
+    "description": "class=android.widget.EditText, resource_id=org.ligi.passandroid:id/passTitle",
+    "text": "1234\n\nContext: class=android.widget.TextView, content=Titolo del film\nInput:Movie Title"
+  },
+  {
+    "id": "event_2025-05-23_111924.json",
+    "description": "class=android.widget.EditText, resource_id=org.ligi.passandroid:id/label_field_edit",
+    "text": "mario.rossi@example.com\nContext: class=android.widget.EditText, resource_id="
+  },
+  {
+    "id": "event_2025-05-23_112053.json",
+    "description": "class=android.widget.EditText, resource_id=org.ligi.passandroid:id/label_field_edit",
+    "text": "12\n\nContext: class=android.widget.TextView, content=Titolo del libro\nInput:"
+  },
+  {
+    "id": "event_2025-05-23_112105.json",
+    "description": "class=android.widget.EditText, resource_id=org.ligi.passandroid:id/passTitle",
+    "text": "1234567890\n\nContext: class=android.widget.EditText, resource_id=org.ligi.passandroid:id"
+  },
+  {
+    "id": "event_2025-05-23_112132.json",
+    "description": "class=android.widget.EditText, resource_id=org.ligi.passandroid:id/value_field_edit",
+    "text": "mario.rossi@example.com\n\nContext: class=android.widget.EditText, resource_id=org.l"
+  },
+  {
+    "id": "event_2025-05-23_112149.json",
+    "description": "class=android.widget.EditText, resource_id=org.ligi.passandroid:id/value_field_edit",
+    "text": "12345\nContext: class=android.widget.EditText, resource_id=org.ligi.passandroid:id/email"
+  },
+  {
+    "id": "event_2025-05-23_112836.json",
+    "description": "class=android.widget.EditText, resource_id=org.ligi.passandroid:id/passTitle",
+    "text": "12345\n\n\nContext: class=android.widget.Button, content=Conferma\nInput:ok\n\nContext"
+  },
+  {
+    "id": "event_2025-05-23_113529.json",
+    "description": "class=android.widget.EditText, resource_id=org.ligi.passandroid:id/passTitle",
+    "text": "password\n\nContext: class=android.widget.EditText, content=Campo codice di accesso\nInput:pass"
+  },
+  {
+    "id": "event_2025-05-23_113640.json",
+    "description": "class=android.widget.EditText, resource_id=org.ligi.passandroid:id/value_field_edit",
+    "text": "mario.rossi@example.com\n\nContext: class=android.widget.EditText, resource_id=org.l"
+  },
+  {
+    "id": "event_2025-05-23_113812.json",
+    "description": "class=android.widget.EditText, resource_id=org.ligi.passandroid:id/passTitle",
+    "text": "password\nContext: class=org.ligi.passandroid.views.PasswordView, resource_id=org.ligi.pass"
+  },
+  {
+    "id": "event_2025-05-23_113837.json",
+    "description": "class=android.widget.EditText, resource_id=org.ligi.passandroid:id/value_field_edit",
+    "text": "giuseppe.bianchi@example.com\n\nContext: class=android.widget.EditText, resource_id=org.l"
+  },
+  {
+    "id": "event_2025-05-23_113842.json",
+    "description": "class=android.widget.EditText, resource_id=org.ligi.passandroid:id/label_field_edit",
+    "text": "12\nOutput: : 12\n\nContext: class=android.widget.EditText, content=Campo"
+  },
+  {
+    "id": "event_2025-05-23_113924.json",
+    "description": "class=android.widget.EditText, resource_id=org.ligi.passandroid:id/passTitle",
+    "text": "myPass\nContext: class=android.widget.TextView, content=Testo di conferma\nInput:confirm"
+  },
+  {
+    "id": "event_2025-05-23_113943.json",
+    "description": "class=android.widget.EditText, resource_id=org.ligi.passandroid:id/label_field_edit",
+    "text": "mario.rossi@example.com\n\nContext: class=android.widget.TextView, resource_id="
+  },
+  {
+    "id": "event_2025-05-23_113948.json",
+    "description": "class=android.widget.EditText, resource_id=org.ligi.passandroid:id/value_field_edit",
+    "text": "mario.rossi@example.com\n\nContext: class=android.widget.EditText, resource_id=org.l"
+  },
+  {
+    "id": "event_2025-05-23_114021.json",
+    "description": "class=android.widget.EditText, resource_id=org.ligi.passandroid:id/label_field_edit",
+    "text": "1234567890\n\nContext"
+  },
+  {
+    "id": "event_2025-05-23_114031.json",
+    "description": "class=android.widget.EditText, resource_id=org.ligi.passandroid:id/value_field_edit",
+    "text": "mario.rossi@example.com\nOutput: mario.rossi@example.com\n\n\nContext: class"
+  },
+  {
+    "id": "event_2025-05-23_114040.json",
+    "description": "class=android.widget.EditText, resource_id=org.ligi.passandroid:id/label_field_edit",
+    "text": "1234\nOutput: : 1234\n\nContext: class=android.widget.EditText, content"
+  },
+  {
+    "id": "event_2025-05-23_114051.json",
+    "description": "class=android.widget.EditText, resource_id=org.ligi.passandroid:id/label_field_edit",
+    "text": "01-01-1970\n\n\nContext: class=android.widget.EditText, content=Campo cod"
+  },
+  {
+    "id": "event_2025-05-23_114147.json",
+    "description": "class=android.widget.EditText, resource_id=org.ligi.passandroid:id/label_field_edit",
+    "text": "12345\nContext: class=android.widget.TextView, content=Titolo\nInput:Title"
+  },
+  {
+    "id": "event_2025-05-23_114152.json",
+    "description": "class=android.widget.EditText, resource_id=org.ligi.passandroid:id/value_field_edit",
+    "text": "mario.rossi@example.com\n\nContext: class=android.widget.EditText, resource_id=org.l"
+  },
+  {
+    "id": "event_2025-05-23_114218.json",
+    "description": "class=android.widget.EditText, resource_id=org.ligi.passandroid:id/passTitle",
+    "text": "12345\nOutput: 12345\n\nContext: class=android.widget.EditText, content=Campo username"
+  },
+  {
+    "id": "event_2025-05-23_114224.json",
+    "description": "class=android.widget.EditText, resource_id=org.ligi.passandroid:id/value_field_edit",
+    "text": "1234567890\nOutput: 1234567890\n\nContext: class=android.widget.EditText,"
+  },
+  {
+    "id": "event_2025-05-23_114254.json",
+    "description": "class=android.widget.EditText, resource_id=org.ligi.passandroid:id/passTitle",
+    "text": "1234567890\nOutput: Passcode\n\n\nContext: class=android.widget.EditText, content=Campo username"
+  },
+  {
+    "id": "event_2025-05-23_114518.json",
+    "description": "class=android.widget.EditText, resource_id=org.ligi.passandroid:id/value_field_edit",
+    "text": "mario.rossi@example.com\n\nContext: class=android.widget.EditText, resource_id=org.l"
+  },
+  {
+    "id": "event_2025-05-23_114529.json",
+    "description": "class=android.widget.EditText, resource_id=org.ligi.passandroid:id/label_field_edit",
+    "text": "Giovanni Mancini\n\n\nContext: class=android.widget.Button, content=Bottono di"
+  },
+  {
+    "id": "event_2025-05-23_114552.json",
+    "description": "class=android.widget.EditText, resource_id=org.ligi.passandroid:id/value_field_edit",
+    "text": "to\nOutput: mario.rossi@example.com\n\n\nContext: class=android.widget.EditText, content"
+  },
+  {
+    "id": "event_2025-05-23_114904.json",
+    "description": "class=android.widget.EditText, resource_id=org.ligi.passandroid:id/value_field_edit",
+    "text": "2\n\nContext: class=android.widget.EditText, resource_id=org.ligi.passandroid:id/value"
+  },
+  {
+    "id": "event_2025-05-23_114935.json",
+    "description": "class=android.widget.EditText, resource_id=org.ligi.passandroid:id/value_field_edit",
+    "text": "mario.rossi@example.com\nOutput:  mario.rossi@example.com\n\nContext:"
+  },
+  {
+    "id": "event_2025-05-23_115106.json",
+    "description": "class=android.widget.EditText, resource_id=org.ligi.passandroid:id/label_field_edit",
+    "text": "1234567890\nOutput: 1234567890\n\nContext: class=android.widget"
+  },
+  {
+    "id": "event_2025-05-23_124301.json",
+    "description": "class=android.widget.EditText, resource_id=org.ligi.passandroid:id/label_field_edit",
+    "text": "12345\n\nContext: class=android.widget.EditText, content=Campo indirizzo\nInput:"
+  },
+  {
+    "id": "event_2025-05-23_124306.json",
+    "description": "class=android.widget.EditText, resource_id=org.ligi.passandroid:id/value_field_edit",
+    "text": "mario.rossi@example.com\nOutput: mario.rossi@example.com\n\nContext: class"
+  },
+  {
+    "id": "event_2025-05-23_124430.json",
+    "description": "class=android.widget.EditText, resource_id=org.ligi.passandroid:id/label_field_edit",
+    "text": "1234567890\n\nContext: class=android.widget.TextView, content=Titolo\nInput"
+  },
+  {
+    "id": "event_2025-05-23_124504.json",
+    "description": "class=android.widget.EditText, resource_id=org.ligi.passandroid:id/value_field_edit",
+    "text": "luis.lopez@example.com\n\nContext: class=android.widget.EditText, content=Campo nome"
+  },
+  {
+    "id": "event_2025-05-23_124627.json",
+    "description": "class=android.widget.EditText, resource_id=org.ligi.passandroid:id/passTitle",
+    "text": "Password di accesso\nContext: class=android.widget.EditText, resource_id=org.ligi.passandroid:id"
+  },
+  {
+    "id": "event_2025-05-23_124825.json",
+    "description": "class=android.widget.EditText, resource_id=org.ligi.passandroid:id/value_field_edit",
+    "text": "10\n\nContext: class=android.widget.TextView, content=Titolo\nInput: title\nOutput:"
+  },
+  {
+    "id": "event_2025-05-23_124912.json",
+    "description": "class=android.widget.EditText, resource_id=org.ligi.passandroid:id/label_field_edit",
+    "text": "12345\n\nContext: class=android"
+  },
+  {
+    "id": "event_2025-05-23_125101.json",
+    "description": "class=android.widget.EditText, resource_id=org.ligi.passandroid:id/value_field_edit",
+    "text": "anna.verdi@example.com\nOutput: anna.verdi@example.com\n\nEsempio"
+  },
+  {
+    "id": "event_2025-05-23_125416.json",
+    "description": "class=android.widget.EditText, resource_id=org.ligi.passandroid:id/value_field_edit",
+    "text": "mario.rossi@example.com\n\nContext: class=android.widget.EditText, content=Campo email per"
+  },
+  {
+    "id": "event_2025-05-23_125437.json",
+    "description": "class=android.widget.EditText, resource_id=org.ligi.passandroid:id/label_field_edit",
+    "text": "1234\n\n\nContext: class=android.widget.EditText, content=Campo password\nInput: password"
+  },
+  {
+    "id": "event_2025-05-23_125442.json",
+    "description": "class=android.widget.EditText, resource_id=org.ligi.passandroid:id/label_field_edit",
+    "text": "10.0.0.1\n\nContext: class=android.widget.EditText, resource_id="
+  },
+  {
+    "id": "event_2025-05-23_125502.json",
+    "description": "class=android.widget.EditText, resource_id=org.ligi.passandroid:id/value_field_edit",
+    "text": "anna verdi\nContext: class=android.widget.EditText, resource_id=org.ligi.passandroid"
+  },
+  {
+    "id": "event_2025-05-23_125518.json",
+    "description": "class=android.widget.EditText, resource_id=org.ligi.passandroid:id/label_field_edit",
+    "text": "to\nOutput:  to\n\nContext: class=android.widget.TextView, resource_id=org"
+  }
+]
