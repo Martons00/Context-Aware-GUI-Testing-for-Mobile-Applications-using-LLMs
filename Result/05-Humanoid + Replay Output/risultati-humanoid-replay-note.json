@@ -2,861 +2,1033 @@
   {
     "id": "event_2025-04-23_180459.json",
     "description": "class=android.widget.EditText, resource_id=it.feio.android.omninotes.alpha:id/detail_title",
-    "text": "2022-01-01\n\nContext: class=android.widget.TextView, content=Titolo della"
+    "text": "2022-01-01\n\nContext: class=android.widget.TextView, content=Titolo della",
+    "correct": false
   },
   {
     "id": "event_2025-04-23_180542.json",
     "description": "class=android.widget.EditText, resource_id=it.feio.android.omninotes.alpha:id/detail_title",
-    "text": "2.0\n\nContext: class=android.widget.EditText, content=Campo email per l'inv"
+    "text": "2.0\n\nContext: class=android.widget.EditText, content=Campo email per l'inv",
+    "correct": false
   },
   {
     "id": "event_2025-04-23_180654.json",
     "description": "class=android.widget.EditText, resource_id=it.feio.android.omninotes.alpha:id/detail_title",
-    "text": "\"Titolo dettaglio\" \\n\n\nContext: class=android.widget.EditText, resource_id"
+    "text": "\"Titolo dettaglio\" \\n\n\nContext: class=android.widget.EditText, resource_id",
+    "correct": false
   },
   {
     "id": "event_2025-04-23_180715.json",
     "description": "class=android.widget.EditText, resource_id=it.feio.android.omninotes.alpha:id/detail_content",
-    "text": "10\n\nContext: class=android.widget.TextView, content"
+    "text": "10\n\nContext: class=android.widget.TextView, content",
+    "correct": false
   },
   {
     "id": "event_2025-04-23_181033.json",
     "description": "class=android.widget.EditText, resource_id=it.feio.android.omninotes.alpha:id/category_title",
-    "text": "Category 1\n\nContext: class=android.widget.EditText, resource_id=it.feio.android.om"
+    "text": "Category 1\n\nContext: class=android.widget.EditText, resource_id=it.feio.android.om",
+    "correct": false
   },
   {
     "id": "event_2025-04-23_181044.json",
     "description": "class=android.widget.EditText, resource_id=it.feio.android.omninotes.alpha:id/category_title",
-    "text": "\"Category Title\"\n\nContext: class=android.widget.TextView, content=Titolo del film\nInput"
+    "text": "\"Category Title\"\n\nContext: class=android.widget.TextView, content=Titolo del film\nInput",
+    "correct": false
   },
   {
     "id": "event_2025-04-23_181052.json",
     "description": "class=android.widget.EditText, resource_id=it.feio.android.omninotes.alpha:id/category_title",
-    "text": "\"category_title\"\n\nContext: class=android.widget.TextView, resource_id=it.feio.android.om"
+    "text": "\"category_title\"\n\nContext: class=android.widget.TextView, resource_id=it.feio.android.om",
+    "correct": false
   },
   {
     "id": "event_2025-04-23_181213.json",
     "description": "class=android.widget.EditText, resource_id=it.feio.android.omninotes.alpha:id/md_hexInput",
-    "text": "0x123456"
+    "text": "0x123456",
+    "correct": false
   },
   {
     "id": "event_2025-04-23_181451.json",
     "description": "class=android.widget.TextView",
-    "text": "0\n\nContext: class=android.widget.Button\nInput:OK\n\nContext: class=android.widget.EditText, content=Campo email per registrazione\nInput: email\nOutput"
+    "text": "0\n\nContext: class=android.widget.Button\nInput:OK\n\nContext: class=android.widget.EditText, content=Campo email per registrazione\nInput: email\nOutput",
+    "correct": false
   },
   {
     "id": "event_2025-04-23_181532.json",
     "description": "class=android.widget.TextView",
-    "text": "150\nOutput: 150\n\n\nContext: class=android.widget.Button\nInput:Clicca su\nOutput: Clicca su\n\n\nContext: class=android"
+    "text": "150\nOutput: 150\n\n\nContext: class=android.widget.Button\nInput:Clicca su\nOutput: Clicca su\n\n\nContext: class=android",
+    "correct": false
   },
   {
     "id": "event_2025-04-23_181737.json",
     "description": "class=android.widget.EditText, resource_id=it.feio.android.omninotes.alpha:id/md_hexInput",
-    "text": "1234567890abcdef\n\nContext: class=android.widget.EditText, resource_id=it"
+    "text": "1234567890abcdef\n\nContext: class=android.widget.EditText, resource_id=it",
+    "correct": false
   },
   {
     "id": "event_2025-04-23_181750.json",
     "description": "class=android.widget.EditText, resource_id=it.feio.android.omninotes.alpha:id/md_hexInput",
-    "text": "1234567890abcdef\n\nContext: class=android.widget.EditText, content=Campo cod"
+    "text": "1234567890abcdef\n\nContext: class=android.widget.EditText, content=Campo cod",
+    "correct": false
   },
   {
     "id": "event_2025-04-23_181848.json",
     "description": "class=android.widget.TextView",
-    "text": "1234\n\n\nContext: class=android.widget.Button\nInput:OK\n\n\nContext: class=android.widget.EditText\ncontent=Campo email per la registrazione\nInput:"
+    "text": "1234\n\n\nContext: class=android.widget.Button\nInput:OK\n\n\nContext: class=android.widget.EditText\ncontent=Campo email per la registrazione\nInput:",
+    "correct": false
   },
   {
     "id": "event_2025-04-23_182030.json",
     "description": "class=android.widget.EditText, resource_id=it.feio.android.omninotes.alpha:id/md_hexInput",
-    "text": "1234567890abcdef\n\nContext: class=android.widget.EditText, resource_id=it"
+    "text": "1234567890abcdef\n\nContext: class=android.widget.EditText, resource_id=it",
+    "correct": false
   },
   {
     "id": "event_2025-04-23_182044.json",
     "description": "class=android.widget.EditText, resource_id=it.feio.android.omninotes.alpha:id/md_hexInput",
-    "text": "1f2c6c3d\nOutput:1f2c6c3"
+    "text": "1f2c6c3d\nOutput:1f2c6c3",
+    "correct": false
   },
   {
     "id": "event_2025-04-23_182057.json",
     "description": "class=android.widget.TextView",
-    "text": "5\nOutput: Campo Generico output: 5\n\n\nContext: class=android.widget.Button\nInput:Clicca qui\nOutput: Click here\n\nContext:"
+    "text": "5\nOutput: Campo Generico output: 5\n\n\nContext: class=android.widget.Button\nInput:Clicca qui\nOutput: Click here\n\nContext:",
+    "correct": false
   },
   {
     "id": "event_2025-04-23_182104.json",
     "description": "class=android.widget.TextView",
-    "text": "(risposta a una domanda)\n\nContext: class=android.widget.Button\nInput:OK\n\nContext: class=android.widget.Button\ncontent=Button OK\nInput"
+    "text": "(risposta a una domanda)\n\nContext: class=android.widget.Button\nInput:OK\n\nContext: class=android.widget.Button\ncontent=Button OK\nInput",
+    "correct": false
   },
   {
     "id": "event_2025-04-23_182216.json",
     "description": "class=android.widget.EditText, resource_id=it.feio.android.omninotes.alpha:id/md_hexInput",
-    "text": "1234567890abcdef\n\nContext: class=android.widget.EditText, resource_id=it"
+    "text": "1234567890abcdef\n\nContext: class=android.widget.EditText, resource_id=it",
+    "correct": false
   },
   {
     "id": "event_2025-04-23_182424.json",
     "description": "class=android.widget.TextView",
-    "text": "0\n\nContext: class=android.widget.Button\nInput:Click me!\nOutput: Click me!\n\nContext: class="
+    "text": "0\n\nContext: class=android.widget.Button\nInput:Click me!\nOutput: Click me!\n\nContext: class=",
+    "correct": false
   },
   {
     "id": "event_2025-04-23_182451.json",
     "description": "class=android.widget.EditText, resource_id=it.feio.android.omninotes.alpha:id/md_hexInput",
-    "text": "1234567890abcdef\n\nContext: class=android.widget.EditText, resource_id=it"
+    "text": "1234567890abcdef\n\nContext: class=android.widget.EditText, resource_id=it",
+    "correct": false
   },
   {
     "id": "event_2025-04-23_182653.json",
     "description": "class=android.widget.EditText, resource_id=it.feio.android.omninotes.alpha:id/md_hexInput",
-    "text": "0x1234567890abcdef\n\nContext: class=android.widget.EditText, resource_id"
+    "text": "0x1234567890abcdef\n\nContext: class=android.widget.EditText, resource_id",
+    "correct": false
   },
   {
     "id": "event_2025-04-23_182942.json",
     "description": "class=android.widget.EditText, resource_id=it.feio.android.omninotes.alpha:id/md_hexInput",
-    "text": "1234567890abcdef\n\nContext: class=android.widget.EditText, resource_id=it"
+    "text": "1234567890abcdef\n\nContext: class=android.widget.EditText, resource_id=it",
+    "correct": false
   },
   {
     "id": "event_2025-04-23_183014.json",
     "description": "class=android.widget.EditText, resource_id=it.feio.android.omninotes.alpha:id/md_hexInput",
-    "text": "1234567890abcdef\n\nContext: class=android.widget.EditText, content=Campo ID"
+    "text": "1234567890abcdef\n\nContext: class=android.widget.EditText, content=Campo ID",
+    "correct": false
   },
   {
     "id": "event_2025-04-23_183100.json",
     "description": "class=android.widget.TextView",
-    "text": "[Name] [Last Name]\n\nContext: class=android.widget.TextView\nInput: Campo Generico output:  [Description]\n\nContext: class=android.widget.TextView"
+    "text": "[Name] [Last Name]\n\nContext: class=android.widget.TextView\nInput: Campo Generico output:  [Description]\n\nContext: class=android.widget.TextView",
+    "correct": false
   },
   {
     "id": "event_2025-04-23_183218.json",
     "description": "class=android.widget.EditText, resource_id=it.feio.android.omninotes.alpha:id/md_hexInput",
-    "text": "01234567890123456789012345678901\n\nContext: class=android.widget"
+    "text": "01234567890123456789012345678901\n\nContext: class=android.widget",
+    "correct": false
   },
   {
     "id": "event_2025-04-23_183244.json",
     "description": "class=android.widget.TextView",
-    "text": "Output: \n\n\nContext: class=android.widget.EditText"
+    "text": "Output: \n\n\nContext: class=android.widget.EditText",
+    "correct": false
   },
   {
     "id": "event_2025-04-23_183254.json",
     "description": "class=android.widget.EditText, resource_id=it.feio.android.omninotes.alpha:id/md_hexInput",
-    "text": "0x1234567890abcdef\n\nContext: class=android.widget.EditText, content="
+    "text": "0x1234567890abcdef\n\nContext: class=android.widget.EditText, content=",
+    "correct": false
   },
   {
     "id": "event_2025-04-23_183419.json",
     "description": "class=android.widget.TextView",
-    "text": "\\n\n\nContext: class=android.widget.TextView\nContent: Campo nome\nInput:Name\nContext: class=android.widget.TextView\nContent: Campo email\nInput"
+    "text": "\\n\n\nContext: class=android.widget.TextView\nContent: Campo nome\nInput:Name\nContext: class=android.widget.TextView\nContent: Campo email\nInput",
+    "correct": false
   },
   {
     "id": "event_2025-04-23_183533.json",
     "description": "class=android.widget.TextView",
-    "text": "1234\n\n\nContext: class=android.widget.TextView\nInput: Campo gener"
+    "text": "1234\n\n\nContext: class=android.widget.TextView\nInput: Campo gener",
+    "correct": false
   },
   {
     "id": "event_2025-04-23_183604.json",
     "description": "class=android.widget.EditText, resource_id=it.feio.android.omninotes.alpha:id/md_hexInput",
-    "text": "0x1234567890abcdef\n\nContext: class=android.widget.EditText, resource_id"
+    "text": "0x1234567890abcdef\n\nContext: class=android.widget.EditText, resource_id",
+    "correct": false
   },
   {
     "id": "event_2025-04-23_183736.json",
     "description": "class=android.widget.EditText, resource_id=it.feio.android.omninotes.alpha:id/md_hexInput",
-    "text": "1234567890abcdef\n\nContext: class=android.widget.EditText, content=Campo ID"
+    "text": "1234567890abcdef\n\nContext: class=android.widget.EditText, content=Campo ID",
+    "correct": false
   },
   {
     "id": "event_2025-04-23_183921.json",
     "description": "class=android.widget.EditText, resource_id=it.feio.android.omninotes.alpha:id/md_hexInput",
-    "text": "1234567890abcdef\n\nContext: class=android.widget.EditText, resource_id=it"
+    "text": "1234567890abcdef\n\nContext: class=android.widget.EditText, resource_id=it",
+    "correct": false
   },
   {
     "id": "event_2025-04-23_184227.json",
     "description": "class=android.widget.EditText, resource_id=it.feio.android.omninotes.alpha:id/md_hexInput",
-    "text": "1234567890abcdef\n\nContext: class=android.widget.EditText, content=Campo cod"
+    "text": "1234567890abcdef\n\nContext: class=android.widget.EditText, content=Campo cod",
+    "correct": false
   },
   {
     "id": "event_2025-04-23_184307.json",
     "description": "class=android.widget.EditText, resource_id=it.feio.android.omninotes.alpha:id/md_hexInput",
-    "text": "1234567890abcdef\n\nContext: class=android.widget.EditText, resource_id=it"
+    "text": "1234567890abcdef\n\nContext: class=android.widget.EditText, resource_id=it",
+    "correct": false
   },
   {
     "id": "event_2025-04-23_184329.json",
     "description": "class=android.widget.TextView",
-    "text": "Output: Campo Gener"
+    "text": "Output: Campo Gener",
+    "correct": false
   },
   {
     "id": "event_2025-04-23_184413.json",
     "description": "class=android.widget.EditText, resource_id=it.feio.android.omninotes.alpha:id/md_hexInput",
-    "text": "0x123456"
+    "text": "0x123456",
+    "correct": false
   },
   {
     "id": "event_2025-04-23_184430.json",
     "description": "class=android.widget.EditText, resource_id=it.feio.android.omninotes.alpha:id/md_hexInput",
-    "text": "0x12345678\n\nContext: class=android.widget.EditText, resource_id=it"
+    "text": "0x12345678\n\nContext: class=android.widget.EditText, resource_id=it",
+    "correct": false
   },
   {
     "id": "event_2025-04-23_184453.json",
     "description": "class=android.widget.TextView",
-    "text": "15\n\nContext: class=android.widget.TextView\nInput:Campo Genericooutput"
+    "text": "15\n\nContext: class=android.widget.TextView\nInput:Campo Genericooutput",
+    "correct": false
   },
   {
     "id": "event_2025-04-23_184510.json",
     "description": "class=android.widget.EditText, resource_id=it.feio.android.omninotes.alpha:id/md_hexInput",
-    "text": "0x12345678\n\nContext: class=android.widget.EditText, resource_id=it"
+    "text": "0x12345678\n\nContext: class=android.widget.EditText, resource_id=it",
+    "correct": false
   },
   {
     "id": "event_2025-04-23_184629.json",
     "description": "class=android.widget.EditText, resource_id=it.feio.android.omninotes.alpha:id/md_hexInput",
-    "text": "001122334455667788889999999\nOutput: 001122334455667"
+    "text": "001122334455667788889999999\nOutput: 001122334455667",
+    "correct": false
   },
   {
     "id": "event_2025-04-23_184707.json",
     "description": "class=android.widget.TextView",
-    "text": "1\n\nContext: class=android.widget.Button\nInput:OK\nOutput:OK\n\nContext: class=android.widget"
+    "text": "1\n\nContext: class=android.widget.Button\nInput:OK\nOutput:OK\n\nContext: class=android.widget",
+    "correct": false
   },
   {
     "id": "event_2025-04-23_184721.json",
     "description": "class=android.widget.EditText, resource_id=it.feio.android.omninotes.alpha:id/md_hexInput",
-    "text": "0x12345678\n\nContext: class=android.widget.EditText, resource_id=it"
+    "text": "0x12345678\n\nContext: class=android.widget.EditText, resource_id=it",
+    "correct": false
   },
   {
     "id": "event_2025-04-23_184754.json",
     "description": "class=android.widget.EditText, resource_id=it.feio.android.omninotes.alpha:id/md_hexInput",
-    "text": "1234567890abcdef\nOutput:1234567890abcdef\n\n\nContext: class="
+    "text": "1234567890abcdef\nOutput:1234567890abcdef\n\n\nContext: class=",
+    "correct": false
   },
   {
     "id": "event_2025-04-23_184811.json",
     "description": "class=android.widget.EditText, resource_id=it.feio.android.omninotes.alpha:id/md_hexInput",
-    "text": "1234567890abcdef\nOutput: 1234567890abcdef\n\n\nContext: class"
+    "text": "1234567890abcdef\nOutput: 1234567890abcdef\n\n\nContext: class",
+    "correct": false
   },
   {
     "id": "event_2025-04-23_184823.json",
     "description": "class=android.widget.TextView",
-    "text": "5\nOutput: Campo Gener"
+    "text": "5\nOutput: Campo Gener",
+    "correct": false
   },
   {
     "id": "event_2025-04-23_185138.json",
     "description": "class=android.widget.EditText, resource_id=it.feio.android.omninotes.alpha:id/md_hexInput",
-    "text": "1234567890abcdef\nOutput: 1234567890abcdef\n\nContext: class"
+    "text": "1234567890abcdef\nOutput: 1234567890abcdef\n\nContext: class",
+    "correct": false
   },
   {
     "id": "event_2025-04-23_185208.json",
     "description": "class=android.widget.EditText, resource_id=it.feio.android.omninotes.alpha:id/md_hexInput",
-    "text": "0x1234567890abcdef\n\nContext: class=android.widget.EditText, resource_id"
+    "text": "0x1234567890abcdef\n\nContext: class=android.widget.EditText, resource_id",
+    "correct": false
   },
   {
     "id": "event_2025-04-23_185306.json",
     "description": "class=android.widget.EditText, resource_id=it.feio.android.omninotes.alpha:id/md_hexInput",
-    "text": "1234567890abcdef\nOutput: 1234567890abcdef\n\nContext: class"
+    "text": "1234567890abcdef\nOutput: 1234567890abcdef\n\nContext: class",
+    "correct": false
   },
   {
     "id": "event_2025-04-23_185438.json",
     "description": "class=android.widget.EditText, resource_id=it.feio.android.omninotes.alpha:id/md_hexInput",
-    "text": "0x12345678\n\nContext: class=android.widget.EditText, resource_id="
+    "text": "0x12345678\n\nContext: class=android.widget.EditText, resource_id=",
+    "correct": false
   },
   {
     "id": "event_2025-04-23_185517.json",
     "description": "class=android.widget.EditText, resource_id=it.feio.android.omninotes.alpha:id/md_hexInput",
-    "text": "1234567890abcdef\n\nContext: class=android.widget.EditText, content=Campo numero"
+    "text": "1234567890abcdef\n\nContext: class=android.widget.EditText, content=Campo numero",
+    "correct": false
   },
   {
     "id": "event_2025-04-23_185554.json",
     "description": "class=android.widget.TextView",
-    "text": "2\n\nContext: class=android.widget.Button\nInput:OK\n\nContext: class=android.widget.TextView\ncontent=Titolo della pagina\nInput:Page Title"
+    "text": "2\n\nContext: class=android.widget.Button\nInput:OK\n\nContext: class=android.widget.TextView\ncontent=Titolo della pagina\nInput:Page Title",
+    "correct": false
   },
   {
     "id": "event_2025-04-23_185751.json",
     "description": "class=android.widget.TextView",
-    "text": "1\n\nContext: class=android.widget.Button\nInput:Ok\n\nContext: class=android.widget.Button\ncontent=Button pulsante per conferma\nInput:Con"
+    "text": "1\n\nContext: class=android.widget.Button\nInput:Ok\n\nContext: class=android.widget.Button\ncontent=Button pulsante per conferma\nInput:Con",
+    "correct": false
   },
   {
     "id": "event_2025-04-23_185929.json",
     "description": "class=android.widget.EditText, resource_id=it.feio.android.omninotes.alpha:id/md_hexInput",
-    "text": "0x12345678\nOutput: 12345678\n\nContext: class=android"
+    "text": "0x12345678\nOutput: 12345678\n\nContext: class=android",
+    "correct": false
   },
   {
     "id": "event_2025-04-23_190047.json",
     "description": "class=android.widget.TextView",
-    "text": "15:00\n\nContext: class=android.widget.EditText\nInput:Username\nOutput:username\n\n\nContext"
+    "text": "15:00\n\nContext: class=android.widget.EditText\nInput:Username\nOutput:username\n\n\nContext",
+    "correct": false
   },
   {
     "id": "event_2025-04-23_190114.json",
     "description": "class=android.widget.TextView",
-    "text": "123\n\n\nContext: class=android.widget.EditText, content=Campo codice fiscale\nInput: CF\nOutput:"
+    "text": "123\n\n\nContext: class=android.widget.EditText, content=Campo codice fiscale\nInput: CF\nOutput:",
+    "correct": false
   },
   {
     "id": "event_2025-04-23_190156.json",
     "description": "class=android.widget.EditText, resource_id=it.feio.android.omninotes.alpha:id/md_hexInput",
-    "text": "1234567890abcdef\n\nContext: class=android.widget.EditText, resource_id=it"
+    "text": "1234567890abcdef\n\nContext: class=android.widget.EditText, resource_id=it",
+    "correct": false
   },
   {
     "id": "event_2025-04-23_190336.json",
     "description": "class=android.widget.EditText, resource_id=it.feio.android.omninotes.alpha:id/md_hexInput",
-    "text": "0010 0110 1010 1101\n\nContext: class=android.widget"
+    "text": "0010 0110 1010 1101\n\nContext: class=android.widget",
+    "correct": false
   },
   {
     "id": "event_2025-04-23_190351.json",
     "description": "class=android.widget.EditText, resource_id=it.feio.android.omninotes.alpha:id/detail_content",
-    "text": "\\[email: mario.rossi@example.com\\]\n\nContext: class=android.widget.TextView"
+    "text": "\\[email: mario.rossi@example.com\\]\n\nContext: class=android.widget.TextView",
+    "correct": false
   },
   {
     "id": "event_2025-04-23_190610.json",
     "description": "class=android.widget.EditText, resource_id=it.feio.android.omninotes.alpha:id/detail_content",
-    "text": "1234567890\n\nContext: class=android.widget.TextView, resource_id=it.feio.android"
+    "text": "1234567890\n\nContext: class=android.widget.TextView, resource_id=it.feio.android",
+    "correct": false
   },
   {
     "id": "event_2025-04-23_190657.json",
     "description": "class=android.widget.EditText, resource_id=it.feio.android.omninotes.alpha:id/detail_content",
-    "text": "2\nOutput: 2\n\nContext: class=android.widget.EditText, resource_id=it.fe"
+    "text": "2\nOutput: 2\n\nContext: class=android.widget.EditText, resource_id=it.fe",
+    "correct": false
   },
   {
     "id": "event_2025-04-23_190757.json",
     "description": "class=android.widget.EditText, resource_id=it.feio.android.omninotes.alpha:id/category_title",
-    "text": "06/05/2020\n\nContext: class=android.widget.EditText, resource_id=it.fe"
+    "text": "06/05/2020\n\nContext: class=android.widget.EditText, resource_id=it.fe",
+    "correct": false
   },
   {
     "id": "event_2025-04-23_190911.json",
     "description": "class=android.widget.TextView",
-    "text": "[Anna Verdi, mario.rossi@example.com, anna.verdi@example.com"
+    "text": "[Anna Verdi, mario.rossi@example.com, anna.verdi@example.com",
+    "correct": false
   },
   {
     "id": "event_2025-04-23_190932.json",
     "description": "class=android.widget.EditText, resource_id=it.feio.android.omninotes.alpha:id/md_hexInput",
-    "text": "1234567890abcdef\n\nContext: class=android.widget.EditText, content=Campo cod"
+    "text": "1234567890abcdef\n\nContext: class=android.widget.EditText, content=Campo cod",
+    "correct": false
   },
   {
     "id": "event_2025-04-23_190951.json",
     "description": "class=android.widget.EditText, resource_id=it.feio.android.omninotes.alpha:id/md_hexInput",
-    "text": "0x1234567890abcdef\n\n\nContext: class=android.widget.EditText, resource_id"
+    "text": "0x1234567890abcdef\n\n\nContext: class=android.widget.EditText, resource_id",
+    "correct": false
   },
   {
     "id": "event_2025-04-23_191049.json",
     "description": "class=android.widget.EditText, resource_id=it.feio.android.omninotes.alpha:id/md_hexInput",
-    "text": "1234567890abcdef\n\n\nContext: class=android.widget.EditText, content=Campo password"
+    "text": "1234567890abcdef\n\n\nContext: class=android.widget.EditText, content=Campo password",
+    "correct": false
   },
   {
     "id": "event_2025-04-23_191131.json",
     "description": "class=android.widget.EditText, resource_id=it.feio.android.omninotes.alpha:id/md_hexInput",
-    "text": "0x12345678\n\nContext: class=android.widget.EditText, resource_id=it"
+    "text": "0x12345678\n\nContext: class=android.widget.EditText, resource_id=it",
+    "correct": false
   },
   {
     "id": "event_2025-04-23_191231.json",
     "description": "class=android.widget.EditText, resource_id=it.feio.android.omninotes.alpha:id/detail_title",
-    "text": "2\n\n\nContext: class=android.widget.TextView, content=Titolo\nInput: title\nOutput"
+    "text": "2\n\n\nContext: class=android.widget.TextView, content=Titolo\nInput: title\nOutput",
+    "correct": false
   },
   {
     "id": "event_2025-04-23_191625.json",
     "description": "class=android.widget.EditText, resource_id=it.feio.android.omninotes.alpha:id/detail_content",
-    "text": "123\n\n\nContext: class=android.widget.EditText, resource_id=it.feio.android.omninotes"
+    "text": "123\n\n\nContext: class=android.widget.EditText, resource_id=it.feio.android.omninotes",
+    "correct": false
   },
   {
     "id": "event_2025-04-23_191650.json",
     "description": "class=android.widget.EditText, resource_id=it.feio.android.omninotes.alpha:id/detail_content",
-    "text": "1234567890\n\nContext: class"
+    "text": "1234567890\n\nContext: class",
+    "correct": false
   },
   {
     "id": "event_2025-04-23_191659.json",
     "description": "class=android.widget.TextView, resource_id=it.feio.android.omninotes.alpha:id/creation",
-    "text": "2020-01-01 00:00:00\n\nContext: class=android.widget.TextView,"
+    "text": "2020-01-01 00:00:00\n\nContext: class=android.widget.TextView,",
+    "correct": false
   },
   {
     "id": "event_2025-04-23_192151.json",
     "description": "class=android.widget.EditText",
-    "text": "1234567890\n\nContext: class=android.widget.TextView\nInput: Campo Titolooutput: Esempio 1\n\nContext: class=android.widget.Button"
+    "text": "1234567890\n\nContext: class=android.widget.TextView\nInput: Campo Titolooutput: Esempio 1\n\nContext: class=android.widget.Button",
+    "correct": false
   },
   {
     "id": "event_2025-04-23_192206.json",
     "description": "class=android.widget.TextView, resource_id=it.feio.android.omninotes.alpha:id/creation",
-    "text": "1\n\nContext: class=android.widget.TextView, resource_id=it.feio.android.omninotes.alpha"
+    "text": "1\n\nContext: class=android.widget.TextView, resource_id=it.feio.android.omninotes.alpha",
+    "correct": false
   },
   {
     "id": "event_2025-04-23_192220.json",
     "description": "class=android.widget.TextView, resource_id=it.feio.android.omninotes.alpha:id/creation",
-    "text": "2021-01-01 12:00:00\n\nContext: class=android.widget.TextView,"
+    "text": "2021-01-01 12:00:00\n\nContext: class=android.widget.TextView,",
+    "correct": false
   },
   {
     "id": "event_2025-04-23_192333.json",
     "description": "class=android.widget.EditText",
-    "text": "my_name\n\nContext: class=android.widget.EditText, content=Campo email\nInput:example@domain.com\n\nContext: class=android.widget.EditText, content=Campo"
+    "text": "my_name\n\nContext: class=android.widget.EditText, content=Campo email\nInput:example@domain.com\n\nContext: class=android.widget.EditText, content=Campo",
+    "correct": false
   },
   {
     "id": "event_2025-04-23_192343.json",
     "description": "class=android.widget.EditText",
-    "text": "2022-01-01\n\nContext: class="
+    "text": "2022-01-01\n\nContext: class=",
+    "correct": false
   },
   {
     "id": "event_2025-04-23_192706.json",
     "description": "class=android.widget.EditText, resource_id=it.feio.android.omninotes.alpha:id/detail_title",
-    "text": "(Titolo dettagli)\n\n\nContext: class=android.widget.TextView, resource_id=it.fe"
+    "text": "(Titolo dettagli)\n\n\nContext: class=android.widget.TextView, resource_id=it.fe",
+    "correct": false
   },
   {
     "id": "event_2025-04-23_192814.json",
     "description": "class=android.widget.EditText",
-    "text": "[ name ]\n\n\n\n## Code\n\n```python\nimport random\n\n# Predefined names, surnames, and emails\nnames = [\"Anna\", \"Mario\", \""
+    "text": "[ name ]\n\n\n\n## Code\n\n```python\nimport random\n\n# Predefined names, surnames, and emails\nnames = [\"Anna\", \"Mario\", \"",
+    "correct": false
   },
   {
     "id": "event_2025-04-23_192838.json",
     "description": "class=android.widget.TextView, resource_id=it.feio.android.omninotes.alpha:id/creation",
-    "text": "5\n\nContext: class=android.widget.TextView, resource_id="
+    "text": "5\n\nContext: class=android.widget.TextView, resource_id=",
+    "correct": false
   },
   {
     "id": "event_2025-04-23_192911.json",
     "description": "class=android.widget.TextView, resource_id=it.feio.android.omninotes.alpha:id/creation",
-    "text": "2021-12-15\n\nContext: class=android.widget.TextView, resource_id=it.feio"
+    "text": "2021-12-15\n\nContext: class=android.widget.TextView, resource_id=it.feio",
+    "correct": false
   },
   {
     "id": "event_2025-04-23_192916.json",
     "description": "class=android.widget.EditText",
-    "text": "2023-02-20 12:00:00\n\nContext: class=android.widget.Button\nInput: Click\n\n\nContext: class=android.widget.EditText, content"
+    "text": "2023-02-20 12:00:00\n\nContext: class=android.widget.Button\nInput: Click\n\n\nContext: class=android.widget.EditText, content",
+    "correct": false
   },
   {
     "id": "event_2025-04-23_193315.json",
     "description": "class=android.widget.EditText, resource_id=it.feio.android.omninotes.alpha:id/detail_title",
-    "text": "\"Titolo del dettaglio\"  ::  \"Titolo del dettaglio\""
+    "text": "\"Titolo del dettaglio\"  ::  \"Titolo del dettaglio\"",
+    "correct": false
   },
   {
     "id": "event_2025-04-23_193408.json",
     "description": "class=android.widget.AutoCompleteTextView, resource_id=it.feio.android.omninotes.alpha:id/search_src_text",
-    "text": "\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\"
+    "text": "\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\",
+    "correct": false
   },
   {
     "id": "event_2025-04-23_193413.json",
     "description": "class=android.widget.AutoCompleteTextView, resource_id=it.feio.android.omninotes.alpha:id/search_src_text",
-    "text": "\"Cerca qui\" \\n  search_src_textinput :  \"Cerca"
+    "text": "\"Cerca qui\" \\n  search_src_textinput :  \"Cerca",
+    "correct": false
   },
   {
     "id": "event_2025-04-23_193622.json",
     "description": "class=android.widget.EditText, resource_id=it.feio.android.omninotes.alpha:id/detail_content",
-    "text": "12345\n\n\nContext: class=android.widget.EditText, resource_id=it.feio.android.omnin"
+    "text": "12345\n\n\nContext: class=android.widget.EditText, resource_id=it.feio.android.omnin",
+    "correct": false
   },
   {
     "id": "event_2025-04-23_193809.json",
     "description": "class=android.widget.EditText, resource_id=it.feio.android.omninotes.alpha:id/detail_content",
-    "text": "10\n\nContext: class=android.widget.TextView, resource_id=it.feio.android.omninotes"
+    "text": "10\n\nContext: class=android.widget.TextView, resource_id=it.feio.android.omninotes",
+    "correct": false
   },
   {
     "id": "event_2025-04-23_193830.json",
     "description": "class=android.widget.TextView, resource_id=it.feio.android.omninotes.alpha:id/last_modification",
-    "text": "15/03/2024\n\nContext: class=android.widget.TextView, resource_id="
+    "text": "15/03/2024\n\nContext: class=android.widget.TextView, resource_id=",
+    "correct": false
   },
   {
     "id": "event_2025-04-23_193912.json",
     "description": "class=android.widget.EditText, resource_id=it.feio.android.omninotes.alpha:id/detail_title",
-    "text": "Anna Verdi\n\n\nContext: class=android.widget.EditText, resource_id=it.feio.android.om"
+    "text": "Anna Verdi\n\n\nContext: class=android.widget.EditText, resource_id=it.feio.android.om",
+    "correct": false
   },
   {
     "id": "event_2025-04-23_193922.json",
     "description": "class=android.widget.EditText, resource_id=it.feio.android.omninotes.alpha:id/detail_title",
-    "text": "Example App\n\nContext: class=android.widget.EditText, resource_id=it.feio.android.omnin"
+    "text": "Example App\n\nContext: class=android.widget.EditText, resource_id=it.feio.android.omnin",
+    "correct": false
   },
   {
     "id": "event_2025-04-23_194003.json",
     "description": "class=android.widget.TextView, resource_id=it.feio.android.omninotes.alpha:id/last_modification",
-    "text": "23/02/2023 12:00:00\n\nContext: class=android"
+    "text": "23/02/2023 12:00:00\n\nContext: class=android",
+    "correct": false
   },
   {
     "id": "event_2025-04-23_194103.json",
     "description": "class=android.widget.TextView, resource_id=it.feio.android.omninotes.alpha:id/creation",
-    "text": "2014-03-16 14:01:42\nOutput: 2014-03-"
+    "text": "2014-03-16 14:01:42\nOutput: 2014-03-",
+    "correct": false
   },
   {
     "id": "event_2025-04-23_194215.json",
     "description": "class=android.widget.TextView, resource_id=it.feio.android.omninotes.alpha:id/creation",
-    "text": "2022-01-01\n\nContext: class=android.widget.TextView, content=Data di fine di"
+    "text": "2022-01-01\n\nContext: class=android.widget.TextView, content=Data di fine di",
+    "correct": false
   },
   {
     "id": "event_2025-04-23_194219.json",
     "description": "class=android.widget.EditText, resource_id=it.feio.android.omninotes.alpha:id/detail_title",
-    "text": "Example - Anna Verdi\n\n\nContext: class=android.widget.TextView, content=Titolo della not"
+    "text": "Example - Anna Verdi\n\n\nContext: class=android.widget.TextView, content=Titolo della not",
+    "correct": false
   },
   {
     "id": "event_2025-04-23_194224.json",
     "description": "class=android.widget.TextView, resource_id=it.feio.android.omninotes.alpha:id/creation",
-    "text": "2023-03-08\n\nContext: class=android.widget.TextView, resource_id=it.feio"
+    "text": "2023-03-08\n\nContext: class=android.widget.TextView, resource_id=it.feio",
+    "correct": false
   },
   {
     "id": "event_2025-04-23_194250.json",
     "description": "class=android.widget.TextView, resource_id=it.feio.android.omninotes.alpha:id/creation",
-    "text": "5\n\nContext: class=android.widget.TextView, resource_id=it.feio.android.omninotes.alpha"
+    "text": "5\n\nContext: class=android.widget.TextView, resource_id=it.feio.android.omninotes.alpha",
+    "correct": false
   },
   {
     "id": "event_2025-04-23_194502.json",
     "description": "class=android.widget.AutoCompleteTextView, resource_id=it.feio.android.omninotes.alpha:id/search_src_text",
-    "text": "[search_query]\n\n\nContext: class=android.widget.TextView, content=Campo titolo"
+    "text": "[search_query]\n\n\nContext: class=android.widget.TextView, content=Campo titolo",
+    "correct": false
   },
   {
     "id": "event_2025-05-13_232448.json",
     "description": "class=android.widget.EditText, resource_id=it.feio.android.omninotes.alpha:id/detail_content",
-    "text": "1234\n\nContext: class=android.widget.EditText, resource_id=it.feio.android.omnin"
+    "text": "1234\n\nContext: class=android.widget.EditText, resource_id=it.feio.android.omnin",
+    "correct": false
   },
   {
     "id": "event_2025-05-13_232455.json",
     "description": "class=android.widget.EditText, resource_id=it.feio.android.omninotes.alpha:id/detail_title",
-    "text": "Anna Verdi\n\nContext: class=android.widget.EditText, resource_id=it.feio.android.om"
+    "text": "Anna Verdi\n\nContext: class=android.widget.EditText, resource_id=it.feio.android.om",
+    "correct": false
   },
   {
     "id": "event_2025-05-13_232551.json",
     "description": "class=android.widget.EditText, resource_id=it.feio.android.omninotes.alpha:id/detail_content",
-    "text": "123\n\n\nContext: class=android.widget.EditText, content=Campo numero di telefono\nInput:phone"
+    "text": "123\n\n\nContext: class=android.widget.EditText, content=Campo numero di telefono\nInput:phone",
+    "correct": false
   },
   {
     "id": "event_2025-05-13_232635.json",
     "description": "class=android.widget.TextView, resource_id=it.feio.android.omninotes.alpha:id/creation",
-    "text": "2023-02-20\n\nContext: class=android.widget.Button, content=Aggiungi nuovo"
+    "text": "2023-02-20\n\nContext: class=android.widget.Button, content=Aggiungi nuovo",
+    "correct": false
   },
   {
     "id": "event_2025-05-13_232820.json",
     "description": "class=android.widget.EditText, resource_id=it.feio.android.omninotes.alpha:id/detail_content",
-    "text": "12345\n\nContext: class=android.widget.TextView, resource_id=it.feio.android.omnin"
+    "text": "12345\n\nContext: class=android.widget.TextView, resource_id=it.feio.android.omnin",
+    "correct": false
   },
   {
     "id": "event_2025-05-13_232945.json",
     "description": "class=android.widget.EditText, resource_id=it.feio.android.omninotes.alpha:id/detail_title",
-    "text": "Titolo del Progetto\nOutput:  Progetto Manutenzione\n\nContext: class=android"
+    "text": "Titolo del Progetto\nOutput:  Progetto Manutenzione\n\nContext: class=android",
+    "correct": false
   },
   {
     "id": "event_2025-05-13_233006.json",
     "description": "class=android.widget.EditText, resource_id=it.feio.android.omninotes.alpha:id/detail_title",
-    "text": "2.0.0\n\nContext: class=android.widget.TextView, content=Titolo"
+    "text": "2.0.0\n\nContext: class=android.widget.TextView, content=Titolo",
+    "correct": false
   },
   {
     "id": "event_2025-05-13_233040.json",
     "description": "class=android.widget.EditText, resource_id=it.feio.android.omninotes.alpha:id/question",
-    "text": "What is your name?\nOutput: What is your name?\n\nContext: class=android.widget.EditText, resource_id"
+    "text": "What is your name?\nOutput: What is your name?\n\nContext: class=android.widget.EditText, resource_id",
+    "correct": false
   },
   {
     "id": "event_2025-05-13_233107.json",
     "description": "class=android.widget.EditText, resource_id=it.feio.android.omninotes.alpha:id/answer_check",
-    "text": "2016-11-22\n\nContext: class=android.widget.EditText, resource_id=it"
+    "text": "2016-11-22\n\nContext: class=android.widget.EditText, resource_id=it",
+    "correct": false
   },
   {
     "id": "event_2025-05-13_233111.json",
     "description": "class=android.widget.EditText, resource_id=it.feio.android.omninotes.alpha:id/password_check",
-    "text": "123456\n\nContext: class=android.widget.EditText, resource_id=it.feio.android.omnin"
+    "text": "123456\n\nContext: class=android.widget.EditText, resource_id=it.feio.android.omnin",
+    "correct": false
   },
   {
     "id": "event_2025-05-13_233142.json",
     "description": "class=android.widget.EditText, resource_id=it.feio.android.omninotes.alpha:id/answer_check",
-    "text": "123\n\nContext: class=android.widget.EditText, resource_id=it.feio.android.omnin"
+    "text": "123\n\nContext: class=android.widget.EditText, resource_id=it.feio.android.omnin",
+    "correct": false
   },
   {
     "id": "event_2025-05-13_233147.json",
     "description": "class=android.widget.EditText, resource_id=it.feio.android.omninotes.alpha:id/answer",
-    "text": "123\n\nContext: class=android.widget.EditText, resource_id"
+    "text": "123\n\nContext: class=android.widget.EditText, resource_id",
+    "correct": false
   },
   {
     "id": "event_2025-05-13_233156.json",
     "description": "class=android.widget.EditText, resource_id=it.feio.android.omninotes.alpha:id/answer_check",
-    "text": "0\n\nContext: class=android.widget.TextView, content=Titolo della pagina\nInput:"
+    "text": "0\n\nContext: class=android.widget.TextView, content=Titolo della pagina\nInput:",
+    "correct": false
   },
   {
     "id": "event_2025-05-13_233223.json",
     "description": "class=android.widget.EditText, resource_id=it.feio.android.omninotes.alpha:id/password",
-    "text": "123456\n\n\nContext: class=android.widget.EditText, resource_id=it.feio.android.omninotes.alpha"
+    "text": "123456\n\n\nContext: class=android.widget.EditText, resource_id=it.feio.android.omninotes.alpha",
+    "correct": false
   },
   {
     "id": "event_2025-05-13_233238.json",
     "description": "class=android.widget.EditText, resource_id=it.feio.android.omninotes.alpha:id/answer",
-    "text": "\"answer\"\n\nContext: class=android.widget.TextView, content=Titolo della lista\nInput: list"
+    "text": "\"answer\"\n\nContext: class=android.widget.TextView, content=Titolo della lista\nInput: list",
+    "correct": false
   },
   {
     "id": "event_2025-05-13_233314.json",
     "description": "class=android.widget.EditText, resource_id=it.feio.android.omninotes.alpha:id/password_check",
-    "text": "password\n\nContext: class=android.widget.EditText, resource_id=it.feio.android.omninotes"
+    "text": "password\n\nContext: class=android.widget.EditText, resource_id=it.feio.android.omninotes",
+    "correct": false
   },
   {
     "id": "event_2025-05-13_233337.json",
     "description": "class=android.widget.EditText, resource_id=it.feio.android.omninotes.alpha:id/question",
-    "text": "0\nOutput: What is your name?\n\nContext: class=android.widget.EditText, resource_id=it.fe"
+    "text": "0\nOutput: What is your name?\n\nContext: class=android.widget.EditText, resource_id=it.fe",
+    "correct": false
   },
   {
     "id": "event_2025-05-13_233343.json",
     "description": "class=android.widget.EditText, resource_id=it.feio.android.omninotes.alpha:id/password_check",
-    "text": "123456\nContext: class=android.widget.EditText, resource_id=it.feio.android.omnin"
+    "text": "123456\nContext: class=android.widget.EditText, resource_id=it.feio.android.omnin",
+    "correct": false
   },
   {
     "id": "event_2025-05-13_233414.json",
     "description": "class=android.widget.EditText, resource_id=it.feio.android.omninotes.alpha:id/answer_check",
-    "text": "1\n\nContext: class=android.widget.TextView, resource_id=it.feio.android.omnin"
+    "text": "1\n\nContext: class=android.widget.TextView, resource_id=it.feio.android.omnin",
+    "correct": false
   },
   {
     "id": "event_2025-05-13_233436.json",
     "description": "class=android.widget.EditText, resource_id=it.feio.android.omninotes.alpha:id/answer",
-    "text": "8\n\nContext: class=android.widget.EditText, resource_id=it.feio.android.omninotes.alpha"
+    "text": "8\n\nContext: class=android.widget.EditText, resource_id=it.feio.android.omninotes.alpha",
+    "correct": false
   },
   {
     "id": "event_2025-05-13_233500.json",
     "description": "class=android.widget.EditText, resource_id=it.feio.android.omninotes.alpha:id/password",
-    "text": "123456\n\nContext: class=android.widget.EditText, resource_id=it.feio.android.omninotes.alpha"
+    "text": "123456\n\nContext: class=android.widget.EditText, resource_id=it.feio.android.omninotes.alpha",
+    "correct": false
   },
   {
     "id": "event_2025-05-13_233624.json",
     "description": "class=android.widget.EditText, resource_id=it.feio.android.omninotes.alpha:id/detail_content",
-    "text": "2019-11-20 15:14:02\n\nContext: class=android.widget.TextView"
+    "text": "2019-11-20 15:14:02\n\nContext: class=android.widget.TextView",
+    "correct": false
   },
   {
     "id": "event_2025-05-13_234034.json",
     "description": "class=android.widget.EditText, resource_id=it.feio.android.omninotes.alpha:id/detail_content",
-    "text": "12345\n\nContext: class=android.widget.EditText, resource_id=it.feio.android.omnin"
+    "text": "12345\n\nContext: class=android.widget.EditText, resource_id=it.feio.android.omnin",
+    "correct": false
   },
   {
     "id": "event_2025-05-13_234331.json",
     "description": "class=android.widget.EditText, resource_id=it.feio.android.omninotes.alpha:id/detail_title",
-    "text": "123\n\n\nContext: class=android.widget.TextView, content=Titolo\nInput:Title\nOutput"
+    "text": "123\n\n\nContext: class=android.widget.TextView, content=Titolo\nInput:Title\nOutput",
+    "correct": false
   },
   {
     "id": "event_2025-05-13_234547.json",
     "description": "class=android.widget.EditText, resource_id=it.feio.android.omninotes.alpha:id/detail_content",
-    "text": "12345\n\nContext: class=android.widget.EditText, content=Campo email\nInput: email"
+    "text": "12345\n\nContext: class=android.widget.EditText, content=Campo email\nInput: email",
+    "correct": false
   },
   {
     "id": "event_2025-05-13_234729.json",
     "description": "class=android.widget.EditText, resource_id=it.feio.android.omninotes.alpha:id/detail_content",
-    "text": "15\n\nContext: class=android.widget.TextView, content=Titolo\nInput:Title\nOutput"
+    "text": "15\n\nContext: class=android.widget.TextView, content=Titolo\nInput:Title\nOutput",
+    "correct": false
   },
   {
     "id": "event_2025-05-13_234739.json",
     "description": "class=android.widget.EditText, resource_id=it.feio.android.omninotes.alpha:id/detail_title",
-    "text": "\"Anna Verdi\"\nContext: class=android.widget.EditText, resource_id=it.feio.android"
+    "text": "\"Anna Verdi\"\nContext: class=android.widget.EditText, resource_id=it.feio.android",
+    "correct": false
   },
   {
     "id": "event_2025-05-13_234834.json",
     "description": "class=android.widget.TextView, resource_id=it.feio.android.omninotes.alpha:id/creation",
-    "text": "2022-01-01\n\nContext"
+    "text": "2022-01-01\n\nContext",
+    "correct": false
   },
   {
     "id": "event_2025-05-13_235021.json",
     "description": "class=android.widget.EditText, resource_id=it.feio.android.omninotes.alpha:id/category_title",
-    "text": "Categorie\n\n\nContext: class=android.widget.EditText, resource_id=it.feio.android.omnin"
+    "text": "Categorie\n\n\nContext: class=android.widget.EditText, resource_id=it.feio.android.omnin",
+    "correct": false
   },
   {
     "id": "event_2025-05-13_235122.json",
     "description": "class=android.widget.EditText, resource_id=it.feio.android.omninotes.alpha:id/category_title",
-    "text": "01-01-2021\n\nContext: class=android.widget.TextView, content=Titolo dell"
+    "text": "01-01-2021\n\nContext: class=android.widget.TextView, content=Titolo dell",
+    "correct": false
   },
   {
     "id": "event_2025-05-13_235425.json",
     "description": "class=android.widget.AutoCompleteTextView, resource_id=it.feio.android.omninotes.alpha:id/search_src_text",
-    "text": "\"search query\"\n\nContext: class=android.widget.AutoCompleteTextView, resource_id=it"
+    "text": "\"search query\"\n\nContext: class=android.widget.AutoCompleteTextView, resource_id=it",
+    "correct": false
   },
   {
     "id": "event_2025-05-13_235502.json",
     "description": "class=android.widget.EditText, resource_id=it.feio.android.omninotes.alpha:id/password_request",
-    "text": "mypassword\n\nContext: class=android.widget.EditText, content=Campo password\nInput: password"
+    "text": "mypassword\n\nContext: class=android.widget.EditText, content=Campo password\nInput: password",
+    "correct": false
   },
   {
     "id": "event_2025-05-13_235508.json",
     "description": "class=android.widget.EditText, resource_id=it.feio.android.omninotes.alpha:id/password_request",
-    "text": "123456\n\nContext: class=android.widget.EditText, resource_id=it.feio.android.omnin"
+    "text": "123456\n\nContext: class=android.widget.EditText, resource_id=it.feio.android.omnin",
+    "correct": false
   },
   {
     "id": "event_2025-05-13_235548.json",
     "description": "class=android.widget.EditText, resource_id=it.feio.android.omninotes.alpha:id/reset_password_answer",
-    "text": "12345678\n\nContext: class=android.widget.EditText, resource_id=it.feio"
+    "text": "12345678\n\nContext: class=android.widget.EditText, resource_id=it.feio",
+    "correct": false
   },
   {
     "id": "event_2025-05-13_235613.json",
     "description": "class=android.widget.EditText, resource_id=it.feio.android.omninotes.alpha:id/detail_content",
-    "text": "1\n\nContext: class=android.widget.TextView, resource_id=it.feio.android.omninotes"
+    "text": "1\n\nContext: class=android.widget.TextView, resource_id=it.feio.android.omninotes",
+    "correct": false
   },
   {
     "id": "event_2025-05-13_235700.json",
     "description": "class=android.widget.EditText, resource_id=it.feio.android.omninotes.alpha:id/detail_content",
-    "text": "23,34,45,56,67,78,89,01,23,34"
+    "text": "23,34,45,56,67,78,89,01,23,34",
+    "correct": false
   },
   {
     "id": "event_2025-05-13_235923.json",
     "description": "class=android.widget.EditText, resource_id=it.feio.android.omninotes.alpha:id/detail_title",
-    "text": "12345\n\nContext: class=android.widget.EditText, resource_id=it.feio.android.omnin"
+    "text": "12345\n\nContext: class=android.widget.EditText, resource_id=it.feio.android.omnin",
+    "correct": false
   },
   {
     "id": "event_2025-05-14_000102.json",
     "description": "class=android.widget.EditText, resource_id=it.feio.android.omninotes.alpha:id/detail_content",
-    "text": "1\n\nContext: class=android.widget.EditText, resource_id=it.feio.android.omninotes"
+    "text": "1\n\nContext: class=android.widget.EditText, resource_id=it.feio.android.omninotes",
+    "correct": false
   },
   {
     "id": "event_2025-05-14_000113.json",
     "description": "class=android.widget.EditText, resource_id=it.feio.android.omninotes.alpha:id/detail_content",
-    "text": "5\n\nContext: class=android.widget.TextView, content=Titolo\nInput:Title\nOutput"
+    "text": "5\n\nContext: class=android.widget.TextView, content=Titolo\nInput:Title\nOutput",
+    "correct": false
   },
   {
     "id": "event_2025-05-14_000343.json",
     "description": "class=android.widget.EditText, resource_id=it.feio.android.omninotes.alpha:id/detail_title",
-    "text": "Detail Title\n\nContext: class=android.widget.TextView, resource_id=it.feio.android.omnin"
+    "text": "Detail Title\n\nContext: class=android.widget.TextView, resource_id=it.feio.android.omnin",
+    "correct": false
   },
   {
     "id": "event_2025-05-14_000455.json",
     "description": "class=android.widget.EditText, resource_id=it.feio.android.omninotes.alpha:id/detail_content",
-    "text": "1\nOutput: 1\nContext: class=android.widget.TextView, content=Titolo"
+    "text": "1\nOutput: 1\nContext: class=android.widget.TextView, content=Titolo",
+    "correct": false
   },
   {
     "id": "event_2025-05-14_000540.json",
     "description": "class=android.widget.EditText, resource_id=it.feio.android.omninotes.alpha:id/question",
-    "text": "1.1.0\nOutput: Question: 1.1.0\n\nContext: class=android"
+    "text": "1.1.0\nOutput: Question: 1.1.0\n\nContext: class=android",
+    "correct": false
   },
   {
     "id": "event_2025-05-14_000545.json",
     "description": "class=android.widget.EditText, resource_id=it.feio.android.omninotes.alpha:id/answer",
-    "text": "3\n\nContext: class=android.widget.EditText, resource_id=it.feio.android.omninotes.alpha"
+    "text": "3\n\nContext: class=android.widget.EditText, resource_id=it.feio.android.omninotes.alpha",
+    "correct": false
   },
   {
     "id": "event_2025-05-14_000550.json",
     "description": "class=android.widget.EditText, resource_id=it.feio.android.omninotes.alpha:id/password",
-    "text": "123456\n\n\nContext: class=android.widget.TextView, content=Titolo della lista\nInput:titleoutput"
+    "text": "123456\n\n\nContext: class=android.widget.TextView, content=Titolo della lista\nInput:titleoutput",
+    "correct": false
   },
   {
     "id": "event_2025-05-14_000609.json",
     "description": "class=android.widget.EditText, resource_id=it.feio.android.omninotes.alpha:id/password_check",
-    "text": "123456\nContext: class=android.widget.EditText, resource_id=it.feio.android.omnin"
+    "text": "123456\nContext: class=android.widget.EditText, resource_id=it.feio.android.omnin",
+    "correct": false
   },
   {
     "id": "event_2025-05-14_000620.json",
     "description": "class=android.widget.EditText, resource_id=it.feio.android.omninotes.alpha:id/answer_check",
-    "text": "3\n\nContext: class=android.widget.EditText, resource_id=it.feio.android.omnin"
+    "text": "3\n\nContext: class=android.widget.EditText, resource_id=it.feio.android.omnin",
+    "correct": false
   },
   {
     "id": "event_2025-05-14_000729.json",
     "description": "class=android.widget.EditText, resource_id=it.feio.android.omninotes.alpha:id/detail_title",
-    "text": "123\n\nContext: class=android.widget.EditText, resource_id=it.feio.android.omninotes"
+    "text": "123\n\nContext: class=android.widget.EditText, resource_id=it.feio.android.omninotes",
+    "correct": false
   },
   {
     "id": "event_2025-05-14_000814.json",
     "description": "class=android.widget.EditText, resource_id=it.feio.android.omninotes.alpha:id/detail_title",
-    "text": "12345\n\nContext: class=android.widget.TextView, content=Testo della pagina di benven"
+    "text": "12345\n\nContext: class=android.widget.TextView, content=Testo della pagina di benven",
+    "correct": false
   },
   {
     "id": "event_2025-05-14_001015.json",
     "description": "class=android.widget.EditText",
-    "text": "[name] Campo\n\nContext: class=android.widget.EditText, content=Campo email per login\nInput: to\n\nContext: class=android.widget.EditText, content="
+    "text": "[name] Campo\n\nContext: class=android.widget.EditText, content=Campo email per login\nInput: to\n\nContext: class=android.widget.EditText, content=",
+    "correct": false
   },
   {
     "id": "event_2025-05-14_001122.json",
     "description": "class=android.widget.EditText",
-    "text": "\\[inserisci il testo qui]\n\nContext: class=android.widget.Button\nInput:Click\n\n\nContext: class=android.widget.TextView\nInput: \\["
+    "text": "\\[inserisci il testo qui]\n\nContext: class=android.widget.Button\nInput:Click\n\n\nContext: class=android.widget.TextView\nInput: \\[",
+    "correct": false
   },
   {
     "id": "event_2025-05-14_001214.json",
     "description": "class=android.widget.EditText",
-    "text": "Il primo ministro britannico \u00e8 Boris Johnson.\n\nContext: class="
+    "text": "Il primo ministro britannico \u00e8 Boris Johnson.\n\nContext: class=",
+    "correct": false
   },
   {
     "id": "event_2025-05-14_001252.json",
     "description": "class=android.widget.EditText",
-    "text": "1\n\nContext: class=android.widget.EditText, content=Campo nome\nInput:nome\nOutput:Anna Verdi\n\n\nContext: class=android.widget.EditText, content"
+    "text": "1\n\nContext: class=android.widget.EditText, content=Campo nome\nInput:nome\nOutput:Anna Verdi\n\n\nContext: class=android.widget.EditText, content",
+    "correct": false
   },
   {
     "id": "event_2025-05-14_001309.json",
     "description": "class=android.widget.EditText",
-    "text": "[name]\nOutput: Button Generico"
+    "text": "[name]\nOutput: Button Generico",
+    "correct": false
   },
   {
     "id": "event_2025-05-14_001313.json",
     "description": "class=android.widget.EditText",
-    "text": "Nome del Titolo\n\nContext: class=android.widget.TextView\nInput"
+    "text": "Nome del Titolo\n\nContext: class=android.widget.TextView\nInput",
+    "correct": false
   },
   {
     "id": "event_2025-05-14_001330.json",
     "description": "class=android.widget.EditText",
-    "text": "123 Main St, Anytown, USA\n\n\nContext: class=android.widget.EditText, content=Campo email\nInput: example\n\n\nContext: class=android.widget.EditText,"
+    "text": "123 Main St, Anytown, USA\n\n\nContext: class=android.widget.EditText, content=Campo email\nInput: example\n\n\nContext: class=android.widget.EditText,",
+    "correct": false
   },
   {
     "id": "event_2025-05-14_001453.json",
     "description": "class=android.widget.EditText, resource_id=it.feio.android.omninotes.alpha:id/detail_title",
-    "text": "Mario Rossi\n\nContext: class=android.widget.EditText, resource_id=it.feio.android.omnin"
+    "text": "Mario Rossi\n\nContext: class=android.widget.EditText, resource_id=it.feio.android.omnin",
+    "correct": false
   },
   {
     "id": "event_2025-05-14_001633.json",
     "description": "class=android.widget.EditText, resource_id=it.feio.android.omninotes.alpha:id/detail_content",
-    "text": "3\n\n\nContext: class=android.widget.TextView, content=Titolo del post\nInput: title"
+    "text": "3\n\n\nContext: class=android.widget.TextView, content=Titolo del post\nInput: title",
+    "correct": false
   },
   {
     "id": "event_2025-05-14_001638.json",
     "description": "class=android.widget.EditText, resource_id=it.feio.android.omninotes.alpha:id/detail_title",
-    "text": "1\nOutput: 1\n\n\nContext: class=android.widget.EditText, resource_id=it.fe"
+    "text": "1\nOutput: 1\n\n\nContext: class=android.widget.EditText, resource_id=it.fe",
+    "correct": false
   },
   {
     "id": "event_2025-05-14_002225.json",
     "description": "class=android.widget.EditText, resource_id=it.feio.android.omninotes.alpha:id/reset_password_answer",
-    "text": "mario.rossi@exmaple.com\n\nContext: class=android.widget.EditText"
+    "text": "mario.rossi@exmaple.com\n\nContext: class=android.widget.EditText",
+    "correct": false
   },
   {
     "id": "event_2025-05-14_002230.json",
     "description": "class=android.widget.EditText, resource_id=it.feio.android.omninotes.alpha:id/reset_password_answer",
-    "text": "1234567890\n\nContext: class=android.widget.EditText, content=Campo codice"
+    "text": "1234567890\n\nContext: class=android.widget.EditText, content=Campo codice",
+    "correct": false
   },
   {
     "id": "event_2025-05-14_002242.json",
     "description": "class=android.widget.EditText, resource_id=it.feio.android.omninotes.alpha:id/reset_password_answer",
-    "text": "123456\n\nContext: class=android.widget.EditText, resource_id=it.feio.android"
+    "text": "123456\n\nContext: class=android.widget.EditText, resource_id=it.feio.android",
+    "correct": false
   },
   {
     "id": "event_2025-05-14_002330.json",
     "description": "class=android.widget.EditText, resource_id=it.feio.android.omninotes.alpha:id/reset_password_answer",
-    "text": "123456\nContext: class=android.widget.EditText, resource_id=it.feio.android"
+    "text": "123456\nContext: class=android.widget.EditText, resource_id=it.feio.android",
+    "correct": false
   },
   {
     "id": "event_2025-05-14_002400.json",
     "description": "class=android.widget.EditText, resource_id=it.feio.android.omninotes.alpha:id/reset_password_answer",
-    "text": "example@example.com\n\nContext: class=android.widget.EditText, content=Campo password\nInput"
+    "text": "example@example.com\n\nContext: class=android.widget.EditText, content=Campo password\nInput",
+    "correct": false
   },
   {
     "id": "event_2025-05-14_002452.json",
     "description": "class=android.widget.TextView, resource_id=it.feio.android.omninotes.alpha:id/last_modification",
-    "text": "2022-02-19 12:00:00\n\nContext: class=android"
+    "text": "2022-02-19 12:00:00\n\nContext: class=android",
+    "correct": false
   },
   {
     "id": "event_2025-05-14_002744.json",
     "description": "class=android.widget.EditText",
-    "text": "\"Hello world!\"\n\n\n\nContext: class=android.widget.TextView\nInput:Titolooutput:  \"Welcome to our App!\"\n\n\n\nContext: class=android.widget.Button"
+    "text": "\"Hello world!\"\n\n\n\nContext: class=android.widget.TextView\nInput:Titolooutput:  \"Welcome to our App!\"\n\n\n\nContext: class=android.widget.Button",
+    "correct": false
   },
   {
     "id": "event_2025-05-14_002843.json",
     "description": "class=android.widget.EditText, resource_id=it.feio.android.omninotes.alpha:id/detail_title",
-    "text": "23 Giugno\n\nContext: class=android.widget.EditText, content=Campo codice postale"
+    "text": "23 Giugno\n\nContext: class=android.widget.EditText, content=Campo codice postale",
+    "correct": false
   },
   {
     "id": "event_2025-05-14_002915.json",
     "description": "class=android.widget.EditText, resource_id=it.feio.android.omninotes.alpha:id/detail_title",
-    "text": "Detail Title\n\n\nContext: class=android.widget.EditText, content=Campo codice fiscale\nInput"
+    "text": "Detail Title\n\n\nContext: class=android.widget.EditText, content=Campo codice fiscale\nInput",
+    "correct": false
   },
   {
     "id": "event_2025-05-14_003015.json",
     "description": "class=android.widget.EditText, resource_id=it.feio.android.omninotes.alpha:id/detail_title",
-    "text": "Ciao, Maria!\n\nContext: class=android.widget.TextView, content=Titolo della lista"
+    "text": "Ciao, Maria!\n\nContext: class=android.widget.TextView, content=Titolo della lista",
+    "correct": false
   },
   {
     "id": "event_2025-05-14_003114.json",
     "description": "class=android.widget.EditText, resource_id=it.feio.android.omninotes.alpha:id/detail_content",
-    "text": "3\nOutput:dettagli 3\n\nContext: class=android.widget.EditText, resource_id"
+    "text": "3\nOutput:dettagli 3\n\nContext: class=android.widget.EditText, resource_id",
+    "correct": false
   },
   {
     "id": "event_2025-05-14_003446.json",
     "description": "class=android.widget.EditText, resource_id=it.feio.android.omninotes.alpha:id/detail_title",
-    "text": "1234567890\n\n\nContext: class=android.widget.EditText, resource_id=it.feio.android"
+    "text": "1234567890\n\n\nContext: class=android.widget.EditText, resource_id=it.feio.android",
+    "correct": false
   },
   {
     "id": "event_2025-05-14_003609.json",
     "description": "class=android.widget.EditText, resource_id=it.feio.android.omninotes.alpha:id/detail_content",
-    "text": "20.06.2023 15:41:25\n\nContext: class=android.widget.TextView"
+    "text": "20.06.2023 15:41:25\n\nContext: class=android.widget.TextView",
+    "correct": false
   },
   {
     "id": "event_2025-05-14_003659.json",
     "description": "class=android.widget.EditText, resource_id=it.feio.android.omninotes.alpha:id/detail_content",
-    "text": "10\nOutput: 10\n\nContext: class=android.widget.EditText, content=Campo stato"
+    "text": "10\nOutput: 10\n\nContext: class=android.widget.EditText, content=Campo stato",
+    "correct": false
   },
   {
     "id": "event_2025-05-14_003741.json",
     "description": "class=android.widget.EditText, resource_id=it.feio.android.omninotes.alpha:id/detail_title",
-    "text": "title\n\nContext: class=android.widget.TextView, resource_id=it.feio.android.omninotes"
+    "text": "title\n\nContext: class=android.widget.TextView, resource_id=it.feio.android.omninotes",
+    "correct": false
   },
   {
     "id": "event_2025-05-14_043336.json",
     "description": "class=android.widget.TextView, resource_id=it.feio.android.omninotes.alpha:id/last_modification",
-    "text": "2022-04-08 15:15:50\n\nContext: class=android"
+    "text": "2022-04-08 15:15:50\n\nContext: class=android",
+    "correct": false
   },
   {
     "id": "event_2025-05-14_043626.json",
     "description": "class=android.widget.TextView, resource_id=it.feio.android.omninotes.alpha:id/creation",
-    "text": "10/04/"
+    "text": "10/04/",
+    "correct": false
   },
   {
     "id": "event_2025-05-14_043739.json",
     "description": "class=android.widget.TextView, resource_id=it.feio.android.omninotes.alpha:id/creation",
-    "text": "2022-01-01 12:00:00\n\nContext: class=android.widget.TextView,"
+    "text": "2022-01-01 12:00:00\n\nContext: class=android.widget.TextView,",
+    "correct": false
   },
   {
     "id": "event_2025-05-14_043806.json",
     "description": "class=android.widget.EditText, resource_id=it.feio.android.omninotes.alpha:id/detail_title",
-    "text": "\"Titolo dettaglio\"  :  \"Titolo dettaglio\"\nOutput: Tit"
+    "text": "\"Titolo dettaglio\"  :  \"Titolo dettaglio\"\nOutput: Tit",
+    "correct": false
   }
 ]
