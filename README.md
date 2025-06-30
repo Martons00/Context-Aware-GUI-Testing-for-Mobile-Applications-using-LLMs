@@ -12,5 +12,6 @@
 ## Cose da fare: 
     - Finire di fare i test di qui sopra
     - Scrivere lo script per fare una tabella da cui valutare i set text umanamente
+    - Valutare umanamente la tabella (aggiungere v al nome)
     - Overleaf
     - PowerPoint di presentazione  
