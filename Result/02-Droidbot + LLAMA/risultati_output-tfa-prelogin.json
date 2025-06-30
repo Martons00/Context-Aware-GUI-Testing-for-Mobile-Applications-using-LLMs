@@ -2,51 +2,61 @@
   {
     "id": "event_2025-06-27_104304.json",
     "description": "class=android.widget.EditText",
-    "text": "wireless headph"
+    "text": "wireless headph",
+    "correct": false
   },
   {
     "id": "event_2025-06-27_104309.json",
     "description": "class=android.widget.EditText",
-    "text": "john.doe@exampl"
+    "text": "john.doe@exampl",
+    "correct": false
   },
   {
     "id": "event_2025-06-27_104315.json",
     "description": "class=android.widget.EditText",
-    "text": "john.doe@exampl"
+    "text": "john.doe@exampl",
+    "correct": false
   },
   {
     "id": "event_2025-06-27_104448.json",
     "description": "class=android.widget.EditText",
-    "text": "Email address"
+    "text": "Email address",
+    "correct": false
   },
   {
     "id": "event_2025-06-27_104453.json",
     "description": "class=android.widget.EditText",
-    "text": "Email address"
+    "text": "Email address",
+    "correct": false
   },
   {
     "id": "event_2025-06-27_104459.json",
     "description": "class=android.widget.EditText",
-    "text": "john.doe@exampl"
+    "text": "john.doe@exampl",
+    "correct": false
   },
   {
     "id": "event_2025-06-27_104629.json",
     "description": "class=android.widget.EditText",
-    "text": "Email address"
+    "text": "Email address",
+    "correct": false
   },
   {
     "id": "event_2025-06-27_104634.json",
     "description": "class=android.widget.EditText",
-    "text": "wireless headph"
+    "text": "wireless headph",
+    "correct": false
   },
   {
     "id": "event_2025-06-27_104640.json",
     "description": "class=android.widget.EditText",
-    "text": "wireless headph"
+    "text": "wireless headph",
+    "correct": false
   },
   {
     "id": "event_2025-06-27_104718.json",
     "description": "class=android.widget.EditText",
-    "text": "Email address <"
+    "text": "Email address ",
+    "correct": false
   }
 ]
