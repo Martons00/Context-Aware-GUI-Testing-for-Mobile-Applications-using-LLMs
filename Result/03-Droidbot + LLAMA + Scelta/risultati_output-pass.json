@@ -45,7 +45,7 @@
     "id": "event_2025-06-29_142742.json",
     "description": "class=android.widget.EditText, resource_id=identifierId",
     "text": "wireless headph",
-    "correct": false
+    "correct": true
   },
   {
     "id": "event_2025-06-29_142800.json",
@@ -177,37 +177,37 @@
     "id": "event_2025-06-29_144723.json",
     "description": "class=android.widget.EditText, resource_id=com.google.android.calendar:id/search_text",
     "text": "wireless headph",
-    "correct": false
+    "correct": true
   },
   {
     "id": "event_2025-06-29_144738.json",
     "description": "class=android.widget.EditText, resource_id=com.google.android.calendar:id/search_text",
     "text": "wireless headph",
-    "correct": false
+    "correct": true
   },
   {
     "id": "event_2025-06-29_144820.json",
     "description": "class=android.widget.EditText, resource_id=com.google.android.calendar:id/search_text",
     "text": "wireless headph",
-    "correct": false
+    "correct": true
   },
   {
     "id": "event_2025-06-29_144827.json",
     "description": "class=android.widget.EditText, resource_id=com.google.android.calendar:id/search_text",
     "text": "wireless headph",
-    "correct": false
+    "correct": true
   },
   {
     "id": "event_2025-06-29_144833.json",
     "description": "class=android.widget.EditText, resource_id=com.google.android.calendar:id/search_text",
     "text": "wireless headph",
-    "correct": false
+    "correct": true
   },
   {
     "id": "event_2025-06-29_144846.json",
     "description": "class=android.widget.EditText, resource_id=com.google.android.calendar:id/search_text",
     "text": "wireless headph",
-    "correct": false
+    "correct": true
   },
   {
     "id": "event_2025-06-29_144854.json",

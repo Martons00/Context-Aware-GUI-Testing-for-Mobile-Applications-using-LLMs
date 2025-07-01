@@ -123,7 +123,7 @@
     "id": "event_2025-06-27_140126.json",
     "description": "class=android.widget.EditText, resource_id=org.ligi.passandroid:id/value_field_edit",
     "text": "appcrawler6@gmail.com",
-    "correct": false
+    "correct": true
   },
   {
     "id": "event_2025-06-27_140254.json",
@@ -147,7 +147,7 @@
     "id": "event_2025-06-27_140512.json",
     "description": "class=android.widget.EditText, resource_id=org.ligi.passandroid:id/value_field_edit",
     "text": "samizafy@yahoo.fr",
-    "correct": false
+    "correct": true
   },
   {
     "id": "event_2025-06-27_140519.json",
@@ -213,7 +213,7 @@
     "id": "event_2025-06-27_140655.json",
     "description": "class=android.widget.EditText, resource_id=org.ligi.passandroid:id/value_field_edit",
     "text": "Crowd3116",
-    "correct": false
+    "correct": true
   },
   {
     "id": "event_2025-06-27_140704.json",
@@ -225,7 +225,7 @@
     "id": "event_2025-06-27_140821.json",
     "description": "class=android.widget.EditText, resource_id=org.ligi.passandroid:id/passTitle",
     "text": "6",
-    "correct": false
+    "correct": true
   },
   {
     "id": "event_2025-06-27_140833.json",
@@ -303,13 +303,13 @@
     "id": "event_2025-06-27_141006.json",
     "description": "class=android.widget.EditText, resource_id=org.ligi.passandroid:id/passTitle",
     "text": "Male",
-    "correct": false
+    "correct": true
   },
   {
     "id": "event_2025-06-27_141013.json",
     "description": "class=android.widget.EditText, resource_id=org.ligi.passandroid:id/passTitle",
     "text": "2017",
-    "correct": false
+    "correct": true
   },
   {
     "id": "event_2025-06-27_141019.json",
@@ -363,7 +363,7 @@
     "id": "event_2025-06-27_141115.json",
     "description": "class=android.widget.EditText, resource_id=org.ligi.passandroid:id/passTitle",
     "text": "san fran",
-    "correct": false
+    "correct": true
   },
   {
     "id": "event_2025-06-27_141122.json",
@@ -705,7 +705,7 @@
     "id": "event_2025-06-27_144009.json",
     "description": "class=android.widget.EditText, resource_id=org.ligi.passandroid:id/passTitle",
     "text": "4153402067",
-    "correct": false
+    "correct": true
   },
   {
     "id": "event_2025-06-27_144015.json",
