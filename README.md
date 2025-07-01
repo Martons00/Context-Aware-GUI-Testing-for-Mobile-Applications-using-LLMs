@@ -52,7 +52,7 @@ Activity coverage e Valid set text in frazioni
 | UTG state           |      41       |          44           |       47         |           49              |      43       |          45            |      48          |
 | UTG edge            |      52       |          55           |       58         |           60              |      54       |          56            |      59          |
 | Activity coverage   |      75       |          78           |       80         |           83              |      77       |          79            |      82          |
-| Valid set text      |      23       |          25           |       27         |           29              |      24       |          26            |      28          |
+| Valid set text      |      80.65% (50/62)       |          38.71% (24/62)           |       80.65% (25/31)         |           36.47% (31/85)              |      52.91% (91/172)       |          58.14% (100/172)           |       46.84% (74/158)          |
 
 ## Limitazioni
 
