@@ -1,6 +1,10 @@
 # Project_LLM_A3
 
-Ecco la tabella con il formato corretto, mantenendo intatto il contenuto:
+## TO-DO
+    - Compilare i json
+    - Compilare le tabelle
+    - Scrivere i i paragrafi su OverLeaf 
+    
 
 ## Cose Fatte
 
