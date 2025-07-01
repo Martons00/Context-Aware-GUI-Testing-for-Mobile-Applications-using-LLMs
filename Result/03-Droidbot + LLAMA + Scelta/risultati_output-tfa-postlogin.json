@@ -21,31 +21,29 @@
     "id": "event_2025-06-29_123701.json",
     "description": "class=android.widget.AutoCompleteTextView, resource_id=com.fsck.k9.debug:id/search_src_text",
     "text": "ExaFi wirelessl",
-    "correct": false
+    "correct": true
   },
   {
     "id": "event_2025-06-29_123707.json",
     "description": "class=android.widget.AutoCompleteTextView, resource_id=com.fsck.k9.debug:id/search_src_text",
     "text": "ExaFi wirelessl",
-    "correct": false
+    "correct": true
   },
   {
     "id": "event_2025-06-29_123718.json",
     "description": "class=android.widget.AutoCompleteTextView, resource_id=com.fsck.k9.debug:id/search_src_text",
     "text": "wireless headph",
-    "correct": false
-  },
+    "correct": true  },
   {
     "id": "event_2025-06-29_123723.json",
     "description": "class=android.widget.AutoCompleteTextView, resource_id=com.fsck.k9.debug:id/search_src_text",
     "text": "wireless headph",
-    "correct": false
-  },
+    "correct": true  },
   {
     "id": "event_2025-06-29_123806.json",
     "description": "class=android.widget.AutoCompleteTextView, resource_id=com.fsck.k9.debug:id/search_src_text",
     "text": "Search",
-    "correct": false
+    "correct": true
   },
   {
     "id": "event_2025-06-29_123812.json",
@@ -63,13 +61,12 @@
     "id": "event_2025-06-29_123902.json",
     "description": "class=android.widget.AutoCompleteTextView, resource_id=com.fsck.k9.debug:id/search_src_text",
     "text": "wireless headph",
-    "correct": false
-  },
+    "correct": true  },
   {
     "id": "event_2025-06-29_123937.json",
     "description": "class=android.widget.AutoCompleteTextView, resource_id=com.fsck.k9.debug:id/search_src_text",
     "text": "Search",
-    "correct": false
+    "correct": true
   },
   {
     "id": "event_2025-06-29_123944.json",
@@ -87,13 +84,12 @@
     "id": "event_2025-06-29_123956.json",
     "description": "class=android.widget.AutoCompleteTextView, resource_id=com.fsck.k9.debug:id/search_src_text",
     "text": "wireless headph",
-    "correct": false
-  },
+    "correct": true  },
   {
     "id": "event_2025-06-29_124032.json",
     "description": "class=android.widget.AutoCompleteTextView, resource_id=com.fsck.k9.debug:id/search_src_text",
     "text": "Search",
-    "correct": false
+    "correct": true
   },
   {
     "id": "event_2025-06-29_124038.json",
@@ -105,20 +101,18 @@
     "id": "event_2025-06-29_124044.json",
     "description": "class=android.widget.AutoCompleteTextView, resource_id=com.fsck.k9.debug:id/search_src_text",
     "text": "wireless headph",
-    "correct": false
-  },
+    "correct": true  },
   {
     "id": "event_2025-06-29_124121.json",
     "description": "class=android.widget.AutoCompleteTextView, resource_id=com.fsck.k9.debug:id/search_src_text",
     "text": "Search",
-    "correct": false
+    "correct": true
   },
   {
     "id": "event_2025-06-29_124127.json",
     "description": "class=android.widget.AutoCompleteTextView, resource_id=com.fsck.k9.debug:id/search_src_text",
     "text": "wireless headph",
-    "correct": false
-  },
+    "correct": true  },
   {
     "id": "event_2025-06-29_124208.json",
     "description": "class=android.widget.AutoCompleteTextView, resource_id=com.fsck.k9.debug:id/search_src_text",
@@ -129,8 +123,7 @@
     "id": "event_2025-06-29_124216.json",
     "description": "class=android.widget.AutoCompleteTextView, resource_id=com.fsck.k9.debug:id/search_src_text",
     "text": "wireless headph",
-    "correct": false
-  },
+    "correct": true  },
   {
     "id": "event_2025-06-29_124251.json",
     "description": "class=android.widget.AutoCompleteTextView, resource_id=com.fsck.k9.debug:id/search_src_text",
@@ -159,8 +152,7 @@
     "id": "event_2025-06-29_124355.json",
     "description": "class=android.widget.AutoCompleteTextView, resource_id=com.fsck.k9.debug:id/search_src_text",
     "text": "wireless headph",
-    "correct": false
-  },
+    "correct": true  },
   {
     "id": "event_2025-06-29_124433.json",
     "description": "class=android.widget.AutoCompleteTextView, resource_id=com.fsck.k9.debug:id/search_src_text",
@@ -171,8 +163,7 @@
     "id": "event_2025-06-29_124438.json",
     "description": "class=android.widget.AutoCompleteTextView, resource_id=com.fsck.k9.debug:id/search_src_text",
     "text": "wireless headph",
-    "correct": false
-  },
+    "correct": true  },
   {
     "id": "event_2025-06-29_124516.json",
     "description": "class=android.widget.AutoCompleteTextView, resource_id=com.fsck.k9.debug:id/search_src_text",
@@ -189,7 +180,7 @@
     "id": "event_2025-06-29_124532.json",
     "description": "class=android.widget.AutoCompleteTextView, resource_id=com.fsck.k9.debug:id/search_src_text",
     "text": "wireless headph",
-    "correct": false
+    "correct": true
   },
   {
     "id": "event_2025-06-29_124609.json",
@@ -225,7 +216,7 @@
     "id": "event_2025-06-29_124645.json",
     "description": "class=android.widget.AutoCompleteTextView, resource_id=com.fsck.k9.debug:id/search_src_text",
     "text": "wireless headph",
-    "correct": false
+    "correct": true
   },
   {
     "id": "event_2025-06-29_124723.json",
@@ -333,25 +324,25 @@
     "id": "event_2025-06-29_125047.json",
     "description": "class=android.widget.AutoCompleteTextView, resource_id=com.fsck.k9.debug:id/search_src_text",
     "text": "wireless headph",
-    "correct": false
+    "correct": true
   },
   {
     "id": "event_2025-06-29_125125.json",
     "description": "class=android.widget.AutoCompleteTextView, resource_id=com.fsck.k9.debug:id/search_src_text",
     "text": "Search   Note:",
-    "correct": false
+    "correct": true
   },
   {
     "id": "event_2025-06-29_125131.json",
     "description": "class=android.widget.AutoCompleteTextView, resource_id=com.fsck.k9.debug:id/search_src_text",
     "text": "Search   Note:",
-    "correct": false
+    "correct": true
   },
   {
     "id": "event_2025-06-29_125159.json",
     "description": "class=android.widget.AutoCompleteTextView, resource_id=com.fsck.k9.debug:id/search_src_text",
     "text": "search  Note:",
-    "correct": false
+    "correct": true
   },
   {
     "id": "event_2025-06-29_125205.json",
@@ -375,7 +366,7 @@
     "id": "event_2025-06-29_125227.json",
     "description": "class=android.widget.AutoCompleteTextView, resource_id=com.fsck.k9.debug:id/search_src_text",
     "text": "wireless headph",
-    "correct": false
+    "correct": true
   },
   {
     "id": "event_2025-06-29_125305.json",
@@ -399,7 +390,7 @@
     "id": "event_2025-06-29_125323.json",
     "description": "class=android.widget.AutoCompleteTextView, resource_id=com.fsck.k9.debug:id/search_src_text",
     "text": "wireless headph",
-    "correct": false
+    "correct": true
   },
   {
     "id": "event_2025-06-29_125400.json",
@@ -435,7 +426,7 @@
     "id": "event_2025-06-29_125501.json",
     "description": "class=android.widget.AutoCompleteTextView, resource_id=com.fsck.k9.debug:id/search_src_text",
     "text": "wireless headph",
-    "correct": false
+    "correct": true
   },
   {
     "id": "event_2025-06-29_125537.json",
@@ -453,13 +444,13 @@
     "id": "event_2025-06-29_125615.json",
     "description": "class=android.widget.EditText, resource_id=com.fsck.k9.debug:id/message_content",
     "text": "wireless headph",
-    "correct": false
+    "correct": true
   },
   {
     "id": "event_2025-06-29_125622.json",
     "description": "class=android.widget.EditText, resource_id=com.fsck.k9.debug:id/message_content",
     "text": "wireless headph",
-    "correct": false
+    "correct": true
   },
   {
     "id": "event_2025-06-29_125702.json",
@@ -471,37 +462,37 @@
     "id": "event_2025-06-29_125708.json",
     "description": "class=android.widget.AutoCompleteTextView, resource_id=com.fsck.k9.debug:id/search_src_text",
     "text": "wireless headph",
-    "correct": false
+    "correct": true
   },
   {
     "id": "event_2025-06-29_125742.json",
     "description": "class=android.widget.AutoCompleteTextView, resource_id=com.fsck.k9.debug:id/search_src_text",
     "text": "Search   Note:",
-    "correct": false
+    "correct": true
   },
   {
     "id": "event_2025-06-29_125748.json",
     "description": "class=android.widget.AutoCompleteTextView, resource_id=com.fsck.k9.debug:id/search_src_text",
     "text": "search  Note:",
-    "correct": false
+    "correct": true
   },
   {
     "id": "event_2025-06-29_125755.json",
     "description": "class=android.widget.AutoCompleteTextView, resource_id=com.fsck.k9.debug:id/search_src_text",
     "text": "Note:",
-    "correct": false
+    "correct": true
   },
   {
     "id": "event_2025-06-29_125802.json",
     "description": "class=android.widget.AutoCompleteTextView, resource_id=com.fsck.k9.debug:id/search_src_text",
     "text": "Note:",
-    "correct": false
+    "correct": true
   },
   {
     "id": "event_2025-06-29_125809.json",
     "description": "class=android.widget.AutoCompleteTextView, resource_id=com.fsck.k9.debug:id/search_src_text",
     "text": "wireless headph",
-    "correct": false
+    "correct": true
   },
   {
     "id": "event_2025-06-29_125851.json",
@@ -531,30 +522,30 @@
     "id": "event_2025-06-29_125915.json",
     "description": "class=android.widget.AutoCompleteTextView, resource_id=com.fsck.k9.debug:id/search_src_text",
     "text": "wireless headph",
-    "correct": false
+    "correct": true
   },
   {
     "id": "event_2025-06-29_125949.json",
     "description": "class=android.widget.AutoCompleteTextView, resource_id=com.fsck.k9.debug:id/search_src_text",
     "text": "Search   Note:",
-    "correct": false
+    "correct": true
   },
   {
     "id": "event_2025-06-29_125955.json",
     "description": "class=android.widget.AutoCompleteTextView, resource_id=com.fsck.k9.debug:id/search_src_text",
     "text": "search  Note:",
-    "correct": false
+    "correct": true
   },
   {
     "id": "event_2025-06-29_130002.json",
     "description": "class=android.widget.AutoCompleteTextView, resource_id=com.fsck.k9.debug:id/search_src_text",
     "text": "search  Note:",
-    "correct": false
+    "correct": true
   },
   {
     "id": "event_2025-06-29_130009.json",
     "description": "class=android.widget.AutoCompleteTextView, resource_id=com.fsck.k9.debug:id/search_src_text",
     "text": "wireless headph",
-    "correct": false
+    "correct": true
   }
 ]

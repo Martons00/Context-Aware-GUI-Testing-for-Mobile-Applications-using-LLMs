@@ -2,1261 +2,1261 @@
   {
     "id": "event_2025-07-01_121839.json",
     "description": "class=android.widget.AutoCompleteTextView, resource_id=com.fsck.k9.debug:id/search_src_text",
-    "text": "1985-03-20",
-    "correct": true
+    "text": "Anna Verdi\n\nContext: class=android.widget.TextView, content=Campo nome\nInput: name",
+    "correct" : false
   },
   {
     "id": "event_2025-07-01_122336.json",
     "description": "class=android.widget.AutoCompleteTextView, resource_id=com.fsck.k9.debug:id/reply_to",
-    "text": "food",
-    "correct": false
+    "text": "12345\n\nContext: class=android.widget.EditText, content=Campo indirizzo\nInput:street",
+    "correct" : false
   },
   {
     "id": "event_2025-07-01_122341.json",
     "description": "class=android.widget.AutoCompleteTextView, resource_id=com.fsck.k9.debug:id/reply_to",
-    "text": "",
-    "correct": false
+    "text": "1234567890\n\n\nContext: class=android.widget.EditText, content=Campo codice fiscale",
+    "correct" : false
   },
   {
     "id": "event_2025-07-01_122417.json",
     "description": "class=android.widget.AutoCompleteTextView, resource_id=com.fsck.k9.debug:id/to",
-    "text": "San Francisco CA",
-    "correct": false
+    "text": "1.10.0\n\nContext: class=android.widget.TextView, content=Titolo\nInput: title\nOutput",
+    "correct" : false
   },
   {
     "id": "event_2025-07-01_122427.json",
     "description": "class=android.widget.AutoCompleteTextView, resource_id=com.fsck.k9.debug:id/to",
-    "text": "sdsad",
-    "correct": false
+    "text": "12.02.2022\n\nContext: class=android.widget.TextView, content=Nome dell'utente",
+    "correct" : false
   },
   {
     "id": "event_2025-07-01_122503.json",
     "description": "class=android.widget.AutoCompleteTextView, resource_id=com.fsck.k9.debug:id/reply_to",
-    "text": "appcrawler4@gmail.com",
-    "correct": true
+    "text": "12345\n\nContext: class=android.widget.EditText, content=Campo password\nInput: password\nOutput",
+    "correct" : false
   },
   {
     "id": "event_2025-07-01_122514.json",
     "description": "class=android.widget.AutoCompleteTextView, resource_id=com.fsck.k9.debug:id/reply_to",
-    "text": "1",
-    "correct": false
+    "text": "john.doe@example.com\n\nContext: class=android.widget.TextView, content=Titolo\nInput:",
+    "correct" : false
   },
   {
     "id": "event_2025-07-01_122559.json",
     "description": "class=android.widget.AutoCompleteTextView, resource_id=com.fsck.k9.debug:id/cc",
-    "text": "appcrawler5@gmail.com",
-    "correct": true
+    "text": "anna.verdi@example.com\n\nContext: class=android.widget.TextView, content=Titolo\nInput:Title",
+    "correct" : false
   },
   {
     "id": "event_2025-07-01_122604.json",
     "description": "class=android.widget.AutoCompleteTextView, resource_id=com.fsck.k9.debug:id/bcc",
-    "text": "appcrawler3116",
-    "correct": false
+    "text": "anna.verdi@domain.com\n\nContext: class=android.widget.EditText, content=Campo indirizzo email",
+    "correct" : false
   },
   {
     "id": "event_2025-07-01_122610.json",
     "description": "class=android.widget.AutoCompleteTextView, resource_id=com.fsck.k9.debug:id/to",
-    "text": "appcrawler3116",
-    "correct": false
+    "text": "",
+    "correct" : false
   },
   {
     "id": "event_2025-07-01_122621.json",
     "description": "class=android.widget.AutoCompleteTextView, resource_id=com.fsck.k9.debug:id/cc",
-    "text": "appcrawler6@gmail.com",
-    "correct": true
+    "text": "anna.verdi@example.com\n\nContext: class=android.widget.EditText, content=Campo cognome\nInput: surname",
+    "correct" : false
   },
   {
     "id": "event_2025-07-01_123040.json",
     "description": "class=android.widget.EditText, resource_id=com.fsck.k9.debug:id/message_content",
-    "text": "appcrawler3@gmail.com",
-    "correct": false
+    "text": "Il tuo account \u00e8 stato creato con successo. Clicca sul link per accedere.\n\n\nContext: class=",
+    "correct" : true
   },
   {
     "id": "event_2025-07-01_123237.json",
     "description": "class=android.widget.EditText, resource_id=com.fsck.k9.debug:id/subject",
-    "text": "f",
-    "correct": true
+    "text": "\"Testo del soggetto\"\n\nContext: class=android.widget.EditText, resource_id=com.fsck.k9.debug:id",
+    "correct" : false
   },
   {
     "id": "event_2025-07-01_123246.json",
     "description": "class=android.widget.EditText, resource_id=com.fsck.k9.debug:id/subject",
-    "text": "f",
-    "correct": true
+    "text": "Maria Rossi\n\nContext: class=android.widget.EditText, resource_id=com.fsck.k9.debug:id/email\nInput:",
+    "correct" : false
   },
   {
     "id": "event_2025-07-01_123251.json",
     "description": "class=android.widget.AutoCompleteTextView, resource_id=com.fsck.k9.debug:id/to",
-    "text": "f",
-    "correct": false
+    "text": "10\nContext: class=android.widget.EditText, content=Campo nome\nInput: name\nContext: class=android",
+    "correct" : false
   },
   {
     "id": "event_2025-07-01_123311.json",
     "description": "class=android.widget.EditText, resource_id=com.fsck.k9.debug:id/message_content",
-    "text": "",
-    "correct": false
+    "text": "Il messaggio di esempio: \"Il messaggio di esempio: Il messaggio di esempio",
+    "correct" : true
   },
   {
     "id": "event_2025-07-01_123426.json",
     "description": "class=android.widget.AutoCompleteTextView, resource_id=com.fsck.k9.debug:id/cc",
-    "text": "appcrawler3@gmail.com",
-    "correct": true
+    "text": "anna.verdi@example.com\n\nContext: class=android.widget.EditText, content=Campo email per l'invio",
+    "correct" : false
   },
   {
     "id": "event_2025-07-01_123625.json",
     "description": "class=android.widget.EditText, resource_id=com.fsck.k9.debug:id/subject",
-    "text": "4153402067",
-    "correct": true
+    "text": "Anna Verdi\n\nContext: class=android.widget.EditText, resource_id=com.fsck.k9.debug:id/subject,",
+    "correct" : false
   },
   {
     "id": "event_2025-07-01_123635.json",
     "description": "class=android.widget.EditText, resource_id=com.fsck.k9.debug:id/subject",
-    "text": "f",
-    "correct": true
+    "text": "Gatto\n\n\nContext: class=android.widget.EditText, resource_id=com.fsck.k9.debug:id/subject\nInput",
+    "correct" : false
   },
   {
     "id": "event_2025-07-01_123654.json",
     "description": "class=android.widget.EditText, resource_id=com.fsck.k9.debug:id/message_content",
-    "text": "f",
-    "correct": true
+    "text": "\"Il tuo account \u00e8 stato bloccato. Si prega di controllare la tua posta elettron",
+    "correct" : true
   },
   {
     "id": "event_2025-07-01_123704.json",
     "description": "class=android.widget.EditText, resource_id=com.fsck.k9.debug:id/message_content",
-    "text": "f",
-    "correct": true
+    "text": "Mario Rossi\nOutput:  Mario Rossi\n\nContext: class=android.widget.TextView, content=Titolo\nInput:",
+    "correct" : true
   },
   {
     "id": "event_2025-07-01_123752.json",
     "description": "class=android.widget.EditText, resource_id=com.fsck.k9.debug:id/message_content",
-    "text": "Raphael",
-    "correct": true
+    "text": "Il campo email non \u00e8 stato inserito correttamente. Per favore inserisci nuovamente.\n\nContext: class",
+    "correct" : true
   },
   {
     "id": "event_2025-07-01_124019.json",
     "description": "class=android.widget.EditText, resource_id=com.fsck.k9.debug:id/subject",
-    "text": "appcarwler1@gmail.com",
-    "correct": false
+    "text": "1234\n\nContext: class=android.widget.EditText, resource_id=com.fsck.k9.debug:id/message\nInput:",
+    "correct" : false
   },
   {
     "id": "event_2025-07-01_124029.json",
     "description": "class=android.widget.AutoCompleteTextView, resource_id=com.fsck.k9.debug:id/reply_to",
-    "text": "appcrawler3116",
-    "correct": false
+    "text": "12345\n\nContext: class=android.widget.AutoCompleteTextView, resource_id=com.fsck.k9.debug:id",
+    "correct" : false
   },
   {
     "id": "event_2025-07-01_124034.json",
     "description": "class=android.widget.EditText, resource_id=com.fsck.k9.debug:id/subject",
-    "text": "appcrawler6@gmail.com",
-    "correct": false
+    "text": "Subject : 123\n\n\nContext: class=android.widget.EditText, resource_id=com.fsck.k9.debug:id/email",
+    "correct" : false
   },
   {
     "id": "event_2025-07-01_124115.json",
     "description": "class=android.widget.AutoCompleteTextView, resource_id=com.fsck.k9.debug:id/to",
-    "text": "Orlando, FL",
-    "correct": false
+    "text": "mario.rossi@example.com\n\nContext: class=android.widget.EditText, content=Campo codice postale",
+    "correct" : false
   },
   {
     "id": "event_2025-07-01_124120.json",
     "description": "class=android.widget.AutoCompleteTextView, resource_id=com.fsck.k9.debug:id/to",
-    "text": "Orlando",
-    "correct": false
+    "text": "Mario Rossi\n\nContext: class=android.widget.EditText, content=Campo indirizzo\nInput:address\nOutput: Via",
+    "correct" : false
   },
   {
     "id": "event_2025-07-01_124150.json",
     "description": "class=android.widget.EditText, resource_id=com.fsck.k9.debug:id/subject",
-    "text": "4155791638",
-    "correct": true
+    "text": "Sviluppatore\n\n\nContext: class=android.widget.EditText, resource_id=com.fsck.k9.debug:id/",
+    "correct" : false
   },
   {
     "id": "event_2025-07-01_124200.json",
     "description": "class=android.widget.EditText, resource_id=com.fsck.k9.debug:id/subject",
-    "text": "appcrawler6@gmail.com",
-    "correct": false
+    "text": "John Doe\n\nContext: class=android.widget.EditText, content=Campo email per la registrazione\nInput: email\n\nContext",
+    "correct" : false
   },
   {
     "id": "event_2025-07-01_124206.json",
     "description": "class=android.widget.EditText, resource_id=com.fsck.k9.debug:id/subject",
-    "text": "appcrawler6@gmail.com",
-    "correct": false
+    "text": "Contattaci per eventuali problemi o suggerimenti\n\nContext: class=android.widget.EditText, resource_id=com",
+    "correct" : false
   },
   {
     "id": "event_2025-07-01_124211.json",
     "description": "class=android.widget.AutoCompleteTextView, resource_id=com.fsck.k9.debug:id/to",
-    "text": "4155791638",
-    "correct": false
+    "text": "mario.rossi@example.com\n\nContext: class=android.widget.TextView,",
+    "correct" : false
   },
   {
     "id": "event_2025-07-01_124221.json",
     "description": "class=android.widget.AutoCompleteTextView, resource_id=com.fsck.k9.debug:id/to",
-    "text": "4155791638",
-    "correct": false
+    "text": "mario.rossi@example.com\n\nContext: class=android.widget.TextView, content=Campo username\nInput: username",
+    "correct" : false
   },
   {
     "id": "event_2025-07-01_124231.json",
     "description": "class=android.widget.AutoCompleteTextView, resource_id=com.fsck.k9.debug:id/to",
-    "text": "appcrawler6@gmail.com",
-    "correct": true
+    "text": "mario.rossi@example.com\n\n\nContext: class=android.widget.EditText, content=Campo password\nInput: password",
+    "correct" : false
   },
   {
     "id": "event_2025-07-01_124241.json",
     "description": "class=android.widget.AutoCompleteTextView, resource_id=com.fsck.k9.debug:id/to",
-    "text": "4155791638",
-    "correct": false
+    "text": "mario.rossi@example.com\n\nContext: class=android.widget.TextView, resource_id=com.fsck.k9.debug",
+    "correct" : false
   },
   {
     "id": "event_2025-07-01_124307.json",
     "description": "class=android.widget.AutoCompleteTextView, resource_id=com.fsck.k9.debug:id/reply_to",
-    "text": "Brown",
-    "correct": false
+    "text": "12345\nContext: class=android.widget.EditText, content=Campo email destinatario\nInput:",
+    "correct" : false
   },
   {
     "id": "event_2025-07-01_124420.json",
     "description": "class=android.widget.EditText, resource_id=com.fsck.k9.debug:id/message_content",
-    "text": "appcrawler6@gmail.com",
-    "correct": true
+    "text": "\"Esempio 1:\nContext: class=android.widget.TextView, content=Titolo della pagina\nInput",
+    "correct" : true
   },
   {
     "id": "event_2025-07-01_124437.json",
     "description": "class=android.widget.AutoCompleteTextView, resource_id=com.fsck.k9.debug:id/to",
-    "text": "Crowd3116",
-    "correct": false
+    "text": "mario.rossi@example.com\n\nContext: class=android.widget.EditText, content=Campo indirizzo\nInput:",
+    "correct" : false
   },
   {
     "id": "event_2025-07-01_124556.json",
     "description": "class=android.widget.EditText, resource_id=com.fsck.k9.debug:id/subject",
-    "text": "",
-    "correct": false
+    "text": "Giornata 1\nOutput: Giornata 1\n\nContext: class=android.widget.EditText, content=",
+    "correct" : false
   },
   {
     "id": "event_2025-07-01_124601.json",
     "description": "class=android.widget.AutoCompleteTextView, resource_id=com.fsck.k9.debug:id/to",
-    "text": "appcrawler2@gmail.com",
-    "correct": true
+    "text": "123-456-7890\n\n\nContext: class=android.widget.EditText, content=Campo username\nInput:username",
+    "correct" : false
   },
   {
     "id": "event_2025-07-01_124657.json",
     "description": "class=android.widget.EditText, resource_id=com.fsck.k9.debug:id/message_content",
-    "text": "4153402067",
-    "correct": true
+    "text": "2017-02-14 17:34:41\n\nContext: class=android.widget.TextView, content=Test",
+    "correct" : false
   },
   {
     "id": "event_2025-07-01_124707.json",
     "description": "class=android.widget.AutoCompleteTextView, resource_id=com.fsck.k9.debug:id/to",
-    "text": "vets san franci",
-    "correct": false
+    "text": "to : Mario Rossi\n\n\nContext: class=android.widget.TextView, content=Campo email per login\nInput: email",
+    "correct" : false
   },
   {
     "id": "event_2025-07-01_124927.json",
     "description": "class=android.widget.AutoCompleteTextView, resource_id=com.fsck.k9.debug:id/to",
-    "text": "f",
-    "correct": false
+    "text": "luis.lopez@example.com\n\nContext: class=android.widget.TextView, content=Titolo del film\nInput",
+    "correct" : false
   },
   {
     "id": "event_2025-07-01_124932.json",
     "description": "class=android.widget.AutoCompleteTextView, resource_id=com.fsck.k9.debug:id/to",
-    "text": "f",
-    "correct": false
+    "text": "mario.rossi@example.com\n\n\nContext: class=android.widget.EditText, content=Campo indirizzo\nInput:",
+    "correct" : false
   },
   {
     "id": "event_2025-07-01_124947.json",
     "description": "class=android.widget.EditText, resource_id=com.fsck.k9.debug:id/subject",
-    "text": "f",
-    "correct": true
+    "text": "\"Il mio ordine non e' stato eseguito\"\nOutput: Il mio ordine non e' stato es",
+    "correct" : false
   },
   {
     "id": "event_2025-07-01_124957.json",
     "description": "class=android.widget.EditText, resource_id=com.fsck.k9.debug:id/subject",
-    "text": "f",
-    "correct": true
+    "text": "Maria\n\nContext: class=android.widget.EditText, resource_id=com.fsck.k9.debug:id/subject\nInput:",
+    "correct" : false
   },
   {
     "id": "event_2025-07-01_125009.json",
     "description": "class=android.widget.EditText, resource_id=com.fsck.k9.debug:id/message_content",
-    "text": "f",
-    "correct": true
+    "text": "1.0.0\nOutput: 1.0.0\n\n\nContext: class=android.widget.EditText, resource",
+    "correct" : true
   },
   {
     "id": "event_2025-07-01_125019.json",
     "description": "class=android.widget.EditText, resource_id=com.fsck.k9.debug:id/message_content",
-    "text": "f",
-    "correct": true
+    "text": "Il tuo account \u00e8 stato correttamente autorizzato.\n\nContext: class=android.widget.TextView, content=Titolo della",
+    "correct" : true
   },
   {
     "id": "event_2025-07-01_125109.json",
     "description": "class=android.widget.EditText, resource_id=com.fsck.k9.debug:id/message_content",
-    "text": "4153402067",
-    "correct": true
+    "text": "\"Error 500 - Interesse\"\n\nContext: class=android.widget.EditText, resource_id=com.fsck.k9.debug",
+    "correct" : true
   },
   {
     "id": "event_2025-07-01_125126.json",
     "description": "class=android.widget.EditText, resource_id=com.fsck.k9.debug:id/message_content",
-    "text": "f",
-    "correct": true
+    "text": "Ciao, non puoi accedere al tuo account. Per favore controlla le informazioni di accesso",
+    "correct" : true
   },
   {
     "id": "event_2025-07-01_125210.json",
     "description": "class=android.widget.EditText, resource_id=com.fsck.k9.debug:id/message_content",
-    "text": "Boston, MA (02108)",
-    "correct": true
+    "text": "23 giugno 2022\n\nContext: class=android.widget.TextView, resource_id=com.fsck.k9.debug",
+    "correct" : false
   },
   {
     "id": "event_2025-07-01_125220.json",
     "description": "class=android.widget.AutoCompleteTextView, resource_id=com.fsck.k9.debug:id/to",
-    "text": "4153402067",
-    "correct": false
+    "text": "example@domain.com\n\nContext: class=android.widget.TextView, content=Titolo del titolo\nInput:Title",
+    "correct" : false
   },
   {
     "id": "event_2025-07-01_125235.json",
     "description": "class=android.widget.AutoCompleteTextView, resource_id=com.fsck.k9.debug:id/to",
-    "text": "f",
-    "correct": false
+    "text": "123456789\n\nContext: class=android.widget.AutoCompleteTextView, resource_id=com.fsck.k9.debug:id/to",
+    "correct" : false
   },
   {
     "id": "event_2025-07-01_125240.json",
     "description": "class=android.widget.EditText, resource_id=com.fsck.k9.debug:id/message_content",
-    "text": "f",
-    "correct": true
+    "text": "\"Il tuo account \u00e8 stato bloccato per motivi di sicurezza. Per procedere, ripeti la",
+    "correct" : false
   },
   {
     "id": "event_2025-07-01_125329.json",
     "description": "class=android.widget.AutoCompleteTextView, resource_id=com.fsck.k9.debug:id/to",
-    "text": "Brown",
-    "correct": false
+    "text": "[mario.rossi@example.com](mailto:mario.rossi@example.com)\n\n\nContext: class=android.widget",
+    "correct" : false
   },
   {
     "id": "event_2025-07-01_125339.json",
     "description": "class=android.widget.AutoCompleteTextView, resource_id=com.fsck.k9.debug:id/to",
-    "text": "4153402067",
-    "correct": false
+    "text": "anna.verdi@example.com\n\nContext: class=android.widget.AutoCompleteTextView, resource_id=com.fsck.k9.debug",
+    "correct" : false
   },
   {
     "id": "event_2025-07-01_125427.json",
     "description": "class=android.widget.EditText, resource_id=com.fsck.k9.debug:id/subject",
-    "text": "",
-    "correct": false
+    "text": "001\n\nContext: class=android.widget.EditText, resource_id=com.fsck.k9.debug:id/subject\nInput:",
+    "correct" : false
   },
   {
     "id": "event_2025-07-01_125432.json",
     "description": "class=android.widget.AutoCompleteTextView, resource_id=com.fsck.k9.debug:id/to",
-    "text": "4153402067",
-    "correct": false
+    "text": "romeo.antonio@example.com\n\n\nContext: class=android.widget.AutoCompleteTextView, resource_id=com.fsck.k",
+    "correct" : false
   },
   {
     "id": "event_2025-07-01_125437.json",
     "description": "class=android.widget.EditText, resource_id=com.fsck.k9.debug:id/subject",
-    "text": "4153402067",
-    "correct": true
+    "text": "Titolo del messaggio\n\nContext: class=android.widget.EditText, resource_id=com.fsck.k9.debug:id/body",
+    "correct" : false
   },
   {
     "id": "event_2025-07-01_125447.json",
     "description": "class=android.widget.EditText, resource_id=com.fsck.k9.debug:id/subject",
-    "text": "f",
-    "correct": true
+    "text": "Subject\nOutput:  Subject\n\n\nContext: class=android.widget.EditText, content=Campo indirizzo email\nInput:",
+    "correct" : false
   },
   {
     "id": "event_2025-07-01_125528.json",
     "description": "class=android.widget.AutoCompleteTextView, resource_id=com.fsck.k9.debug:id/to",
-    "text": "New Orleans, LA (70130)",
-    "correct": false
+    "text": "mario.rossi@example.com\n\nContext: class=android.widget.EditText, content=Campo nome\nInput: name",
+    "correct" : false
   },
   {
     "id": "event_2025-07-01_125533.json",
     "description": "class=android.widget.EditText, resource_id=com.fsck.k9.debug:id/subject",
-    "text": "vets san franci",
-    "correct": true
+    "text": "Sottotitolo\n\nContext: class=android.widget.EditText, resource_id=com.fsck.k9.debug:id/",
+    "correct" : false
   },
   {
     "id": "event_2025-07-01_125543.json",
     "description": "class=android.widget.EditText, resource_id=com.fsck.k9.debug:id/subject",
-    "text": "f",
-    "correct": true
+    "text": "\\n  Example:   \\n  Subject:   \\n  From:   \\n  Date:",
+    "correct" : false
   },
   {
     "id": "event_2025-07-01_125628.json",
     "description": "class=android.widget.AutoCompleteTextView, resource_id=com.fsck.k9.debug:id/to",
-    "text": "",
-    "correct": false
+    "text": "to@domain.com\n\nContext: class=android.widget.TextView, content=Titolo\nInput: title\n\n\nContext:",
+    "correct" : false
   },
   {
     "id": "event_2025-07-01_125633.json",
     "description": "class=android.widget.EditText, resource_id=com.fsck.k9.debug:id/subject",
-    "text": "local news",
-    "correct": true
+    "text": "456",
+    "correct" : true
   },
   {
     "id": "event_2025-07-01_125643.json",
     "description": "class=android.widget.EditText, resource_id=com.fsck.k9.debug:id/subject",
-    "text": "f",
-    "correct": true
+    "text": "12345\n\nContext: class=android.widget.EditText, resource_id=com.fsck.k9.debug:id/bcc\nInput",
+    "correct" : false
   },
   {
     "id": "event_2025-07-01_125809.json",
     "description": "class=android.widget.EditText, resource_id=com.fsck.k9.debug:id/subject",
-    "text": "-- \nSent from my Android device with Email Mail. Please excuse my brevity.",
-    "correct": false
+    "text": "2015-02-02\nOutput: 2015-02-02\n\n\nContext: class=android.widget.EditText",
+    "correct" : false
   },
   {
     "id": "event_2025-07-01_125814.json",
     "description": "class=android.widget.EditText, resource_id=com.fsck.k9.debug:id/subject",
-    "text": "Crowd3116",
-    "correct": true
+    "text": "John Doe\n\n\nContext: class=android.widget.EditText, content=Campo email per il mio account\nInput: emailoutput",
+    "correct" : false
   },
   {
     "id": "event_2025-07-01_125825.json",
     "description": "class=android.widget.EditText, resource_id=com.fsck.k9.debug:id/subject",
-    "text": "Crowd3116",
-    "correct": true
+    "text": "123\n\nContext: class=android.widget.EditText, resource_id=com.fsck.k9.debug:id/subject\nInput:",
+    "correct" : false
   },
   {
     "id": "event_2025-07-01_125835.json",
     "description": "class=android.widget.EditText, resource_id=com.fsck.k9.debug:id/subject",
-    "text": "-- \nSent from my Android device with Email Mail. Please excuse my brevity.",
-    "correct": false
+    "text": "Anna Verdi\n\nContext: class=android.widget.EditText, resource_id=com.fsck.k9.debug:id/subject",
+    "correct" : false
   },
   {
     "id": "event_2025-07-01_125840.json",
     "description": "class=android.widget.EditText, resource_id=com.fsck.k9.debug:id/message_content",
-    "text": "-- \nSent from my Android device with Email Mail. Please excuse my brevity.",
-    "correct": true
+    "text": "Riesi un errore durante la connessione al servizio di pagamento\n\nContext: class=android.widget.TextView",
+    "correct" : true
   },
   {
     "id": "event_2025-07-01_125852.json",
     "description": "class=android.widget.EditText, resource_id=com.fsck.k9.debug:id/message_content",
-    "text": "Crowd3116",
-    "correct": true
+    "text": "1.1.1\nOutput: 1.1.1\n\nContext: class=android.widget.TextView, resource",
+    "correct" : true
   },
   {
     "id": "event_2025-07-01_125902.json",
     "description": "class=android.widget.EditText, resource_id=com.fsck.k9.debug:id/message_content",
-    "text": "Crowd3116",
-    "correct": true
+    "text": "\"Il tuo account \u00e8 stato bloccato per 30 giorni. Per proseguire, prega di contatt",
+    "correct" : true
   },
   {
     "id": "event_2025-07-01_125907.json",
     "description": "class=android.widget.EditText, resource_id=com.fsck.k9.debug:id/message_content",
-    "text": "-- \nSent from my Android device with Email Mail. Please excuse my brevity.",
-    "correct": true
+    "text": "Ciao, Mario Rossi. Ciao, Anna Verdi. Ciao, Anna Verdi.\n\nContext: class=",
+    "correct" : true
   },
   {
     "id": "event_2025-07-01_125912.json",
     "description": "class=android.widget.AutoCompleteTextView, resource_id=com.fsck.k9.debug:id/to",
-    "text": "-- \nSent from my Android device with Email Mail. Please excuse my brevity.",
-    "correct": false
+    "text": "2\n\n\nContext: class=android.widget.EditText, content=Campo username\nInput: username\nOutput: admin\n\nContext",
+    "correct" : false
   },
   {
     "id": "event_2025-07-01_125916.json",
     "description": "class=android.widget.AutoCompleteTextView, resource_id=com.fsck.k9.debug:id/to",
-    "text": "Crowd3116",
-    "correct": false
+    "text": "mario.rossi@example.com\n\nContext: class=android.widget.AutoCompleteTextView, resource_id=com.fsck.k9",
+    "correct" : false
   },
   {
     "id": "event_2025-07-01_125930.json",
     "description": "class=android.widget.EditText, resource_id=com.fsck.k9.debug:id/message_content",
-    "text": "appcrawler6@gmail.com",
-    "correct": true
+    "text": "\"Esempio di messaggio\"\n\nContext: class=android.widget.TextView, resource_id=com.fsck.k9",
+    "correct" : true
   },
   {
     "id": "event_2025-07-01_125945.json",
     "description": "class=android.widget.EditText, resource_id=com.fsck.k9.debug:id/subject",
-    "text": "Sam Brown",
-    "correct": true
+    "text": "Example email address\n\n\nContext: class=android.widget.EditText, content=Campo email per il modulo di richiesta\nInput",
+    "correct" : false
   },
   {
     "id": "event_2025-07-01_130113.json",
     "description": "class=android.widget.EditText, resource_id=com.fsck.k9.debug:id/subject",
-    "text": "Encode teaches coding with interactive programming lessons. Run the code in the code editor by tapping the tick icon.",
-    "correct": true
+    "text": "Titolo della email\n\n\nContext: class=android.widget.EditText, resource_id=com.fsck.k9.debug:id/cc",
+    "correct" : false
   },
   {
     "id": "event_2025-07-01_130126.json",
     "description": "class=android.widget.EditText, resource_id=com.fsck.k9.debug:id/subject",
-    "text": "Encode teaches coding with interactive programming lessons. Run the code in the code editor by tapping the tick icon.",
-    "correct": true
+    "text": "\"Sardegna\" \nOutput: \"Sardegna\"\n\n\nContext: class=android.widget.EditText, content",
+    "correct" : false
   },
   {
     "id": "event_2025-07-01_130147.json",
     "description": "class=android.widget.AutoCompleteTextView, resource_id=com.fsck.k9.debug:id/to",
-    "text": "Encode teaches coding with interactive programming lessons. Run the code in the code editor by tapping the tick icon.",
-    "correct": false
+    "text": "mario.rossi@example.com\n\nContext: class=android.widget.EditText, content=Campo username\nInput: username",
+    "correct" : false
   },
   {
     "id": "event_2025-07-01_130301.json",
     "description": "class=android.widget.AutoCompleteTextView, resource_id=com.fsck.k9.debug:id/to",
-    "text": "a00080064de7",
-    "correct": false
+    "text": "example.com\n\n\nContext: class=android.widget.TextView, content=Campo email\nInput: email\nOutput: mario",
+    "correct" : false
   },
   {
     "id": "event_2025-07-01_130306.json",
     "description": "class=android.widget.EditText, resource_id=com.fsck.k9.debug:id/message_content",
-    "text": "4884",
-    "correct": true
+    "text": "\"Il problema non \u00e8 stato risolto.\\nPer favore, provare di nuovo.\"\n\n\nContext: class=",
+    "correct" : false
   },
   {
     "id": "event_2025-07-01_130311.json",
     "description": "class=android.widget.EditText, resource_id=com.fsck.k9.debug:id/subject",
-    "text": "415-579-1638",
-    "correct": true
+    "text": "23\nOutput: 23\n\nContext: class=android.widget.TextView, content=Titolo della lista\nInput:",
+    "correct" : false
   },
   {
     "id": "event_2025-07-01_130331.json",
     "description": "class=android.widget.EditText, resource_id=com.fsck.k9.debug:id/message_content",
-    "text": "Brown",
-    "correct": true
+    "text": "anna.verdi@example.com\n\nContext: class=android.widget.TextView, content=Titolo della pagina\nInput:",
+    "correct" : false
   },
   {
     "id": "event_2025-07-01_130346.json",
     "description": "class=android.widget.AutoCompleteTextView, resource_id=com.fsck.k9.debug:id/bcc",
-    "text": "Oklahoma City, OK (73102)",
-    "correct": false
+    "text": "contatti@esempio.com\n\nContext: class=android.widget.EditText, content=Campo indirizzo email",
+    "correct" : false
   },
   {
     "id": "event_2025-07-01_130653.json",
     "description": "class=android.widget.AutoCompleteTextView, resource_id=com.fsck.k9.debug:id/to",
-    "text": "appcrawler6@gmail.com",
-    "correct": true
+    "text": "mario.rossi@example.com\n\n\nContext: class=android.widget.EditText, content=Campo numero di telefono\nInput",
+    "correct" : false
   },
   {
     "id": "event_2025-07-01_130703.json",
     "description": "class=android.widget.AutoCompleteTextView, resource_id=com.fsck.k9.debug:id/to",
-    "text": "appcrawler6@gmail.com",
-    "correct": true
+    "text": "luisa.bruni@libero.it\n\nContext: class=android.widget.AutoCompleteTextView, resource_id=com.fs",
+    "correct" : false
   },
   {
     "id": "event_2025-07-01_130713.json",
     "description": "class=android.widget.AutoCompleteTextView, resource_id=com.fsck.k9.debug:id/to",
-    "text": "4155791543",
-    "correct": false
+    "text": "@{0} // 0 = nome, 1 = email\n\nContext: class=android.widget.EditText, content",
+    "correct" : false
   },
   {
     "id": "event_2025-07-01_130723.json",
     "description": "class=android.widget.AutoCompleteTextView, resource_id=com.fsck.k9.debug:id/to",
-    "text": "appcrawler6@gmail.com",
-    "correct": true
+    "text": "to = mario.rossi@example.com\n\n\nContext: class=android.widget.TextView, content=Campo codice fis",
+    "correct" : false
   },
   {
     "id": "event_2025-07-01_130738.json",
     "description": "class=android.widget.EditText, resource_id=com.fsck.k9.debug:id/subject",
-    "text": "4155791543",
-    "correct": false
+    "text": "Sito web non funziona\n\nContext: class=android.widget.EditText, resource_id=com.fsck.k9.debug",
+    "correct" : false
   },
   {
     "id": "event_2025-07-01_130819.json",
     "description": "class=android.widget.AutoCompleteTextView, resource_id=com.fsck.k9.debug:id/cc",
-    "text": "appcrawler6@gmail.com",
-    "correct": true
+    "text": "anna.verdi@example.com\nContext: class=android.widget.TextView, resource_id=com.fsck.k9.debug:id",
+    "correct" : false
   },
   {
     "id": "event_2025-07-01_130838.json",
     "description": "class=android.widget.AutoCompleteTextView, resource_id=com.fsck.k9.debug:id/to",
-    "text": "aca",
-    "correct": false
+    "text": "mario.rossi@example.com\n\n\nContext: class=android.widget.AutoCompleteTextView, resource_id=com.fsck.k9",
+    "correct" : false
   },
   {
     "id": "event_2025-07-01_130853.json",
     "description": "class=android.widget.AutoCompleteTextView, resource_id=com.fsck.k9.debug:id/to",
-    "text": "f",
-    "correct": false
+    "text": "mario.rossi@example.com\n\nContext: class=android.widget.EditText, content=Campo indirizzo completo\nInput",
+    "correct" : false
   },
   {
     "id": "event_2025-07-01_130859.json",
     "description": "class=android.widget.EditText, resource_id=com.fsck.k9.debug:id/message_content",
-    "text": "f",
-    "correct": true
+    "text": "Anna Verdi\n\n\nContext: class=android.widget.EditText, content=Campo numero di telefono\nInput: phone\nOutput",
+    "correct" : true
   },
   {
     "id": "event_2025-07-01_130945.json",
     "description": "class=android.widget.EditText, resource_id=com.fsck.k9.debug:id/subject",
-    "text": "New Orleans, LA (70130)",
-    "correct": true
+    "text": "2\n\nContext: class=android.widget.EditText, resource_id=com.fsck.k9.debug:id/bcc\nInput:",
+    "correct" : false
   },
   {
     "id": "event_2025-07-01_130955.json",
     "description": "class=android.widget.EditText, resource_id=com.fsck.k9.debug:id/subject",
-    "text": "f",
-    "correct": true
+    "text": "my email address is anna.verdi@example.com\nOutput: subject: my email address is anna.verdi@example",
+    "correct" : false
   },
   {
     "id": "event_2025-07-01_131036.json",
     "description": "class=android.widget.EditText, resource_id=com.fsck.k9.debug:id/subject",
-    "text": "Encode teaches coding with interactive programming lessons. Run the code in the code editor by tapping the tick icon.",
-    "correct": true
+    "text": "Anna Verdi\n\nContext: class=android.widget.EditText, resource_id=com.fsck.k9.debug:id/email\nInput",
+    "correct" : false
   },
   {
     "id": "event_2025-07-01_131041.json",
     "description": "class=android.widget.AutoCompleteTextView, resource_id=com.fsck.k9.debug:id/to",
-    "text": "Encode teaches coding with interactive programming lessons. Run the code in the code editor by tapping the tick icon.",
-    "correct": false
+    "text": "mario.rossi@example.com\n\nContext: class=android.widget.AutoCompleteTextView, resource_id=com.fsck.k9",
+    "correct" : false
   },
   {
     "id": "event_2025-07-01_131051.json",
     "description": "class=android.widget.AutoCompleteTextView, resource_id=com.fsck.k9.debug:id/reply_to",
-    "text": "a00080064de7",
-    "correct": false
+    "text": "example.reply_to@example.com\n\nContext: class=android.widget.TextView, content=Campo testo\nInput",
+    "correct" : false
   },
   {
     "id": "event_2025-07-01_131122.json",
     "description": "class=android.widget.AutoCompleteTextView, resource_id=com.fsck.k9.debug:id/reply_to",
-    "text": "appcrawler5@gmail.com",
-    "correct": true
+    "text": "1234567890\n\n\nContext: class=android.widget.TextView, content= Campo codice utente",
+    "correct" : false
   },
   {
     "id": "event_2025-07-01_131524.json",
     "description": "class=android.widget.EditText, resource_id=com.fsck.k9.debug:id/subject",
-    "text": "$500",
-    "correct": true
+    "text": "ivo.mazzoli@example.com\n\nContext: class=android.widget.EditText, content=Campo email per l'inv",
+    "correct" : false
   },
   {
     "id": "event_2025-07-01_131534.json",
     "description": "class=android.widget.EditText, resource_id=com.fsck.k9.debug:id/subject",
-    "text": "nice",
-    "correct": true
+    "text": "Ciao, come posso aiutarti?\n\n\nContext: class=android.widget.EditText, content=Campo nome\nInput",
+    "correct" : false
   },
   {
     "id": "event_2025-07-01_131545.json",
     "description": "class=android.widget.EditText, resource_id=com.fsck.k9.debug:id/subject",
-    "text": "nice",
-    "correct": true
+    "text": "Subject: Anna Verdi\n\n\nContext: class=android.widget.EditText, resource_id=com.fsck.k9.debug:id/email",
+    "correct" : false
   },
   {
     "id": "event_2025-07-01_131555.json",
     "description": "class=android.widget.EditText, resource_id=com.fsck.k9.debug:id/message_content",
-    "text": "nice",
-    "correct": true
+    "text": "Il campo email per il login \u00e8 vuoto\n\nContext: class=android.widget.EditText, resource_id=com.fsck.k",
+    "correct" : true
   },
   {
     "id": "event_2025-07-01_131605.json",
     "description": "class=android.widget.EditText, resource_id=com.fsck.k9.debug:id/message_content",
-    "text": "nice",
-    "correct": true
+    "text": "Ciao, \u00e8 necessario impostare il tuo username e la tua password per accedere alla tua account\n\nContext:",
+    "correct" : true
   },
   {
     "id": "event_2025-07-01_131610.json",
     "description": "class=android.widget.EditText, resource_id=com.fsck.k9.debug:id/subject",
-    "text": "$500",
-    "correct": true
+    "text": "John Smith\n\nContext: class=android.widget.EditText, content=Campo email\nInput: email\nOutput: john.sm",
+    "correct" : false
   },
   {
     "id": "event_2025-07-01_131621.json",
     "description": "class=android.widget.EditText, resource_id=com.fsck.k9.debug:id/subject",
-    "text": "$500",
-    "correct": true
+    "text": "123\n\nContext: class=android.widget.EditText, resource_id=com.fsck.k9.debug:id/subject\nInput:",
+    "correct" : false
   },
   {
     "id": "event_2025-07-01_131626.json",
     "description": "class=android.widget.EditText, resource_id=com.fsck.k9.debug:id/message_content",
-    "text": "$500",
-    "correct": true
+    "text": "\"L'aggiunta del nuovo utente ha fallito\"\n\nContext: class=android.widget.EditText, resource_id=com",
+    "correct" : true
   },
   {
     "id": "event_2025-07-01_131637.json",
     "description": "class=android.widget.EditText, resource_id=com.fsck.k9.debug:id/message_content",
-    "text": "$500",
-    "correct": true
+    "text": "\"Il campo \u00e8 stato inserito correttamente, grazie! Il tuo account \u00e8 stato abilitato. Non",
+    "correct" : true
   },
   {
     "id": "event_2025-07-01_131649.json",
     "description": "class=android.widget.AutoCompleteTextView, resource_id=com.fsck.k9.debug:id/reply_to",
-    "text": "$500",
-    "correct": false
+    "text": "1234567890\n\nContext: class=android.widget.EditText, content=Campo nome\nInput: first",
+    "correct" : true
   },
   {
     "id": "event_2025-07-01_131654.json",
     "description": "class=android.widget.EditText, resource_id=com.fsck.k9.debug:id/message_content",
-    "text": "Hey! You've absolutely got to try this app",
-    "correct": true
+    "text": "12345\n\nContext: class=android.widget.TextView, content=Testo del messaggio\nInput:subject\nOutput",
+    "correct" : true
   },
   {
     "id": "event_2025-07-01_131714.json",
     "description": "class=android.widget.EditText, resource_id=com.fsck.k9.debug:id/message_content",
-    "text": "appcrawler5@gmail.com",
-    "correct": true
+    "text": "\"Mario Rossi\"\n\nContext: class=android.widget.EditText, resource_id=com.fsck.k9.debug:id/message_content,",
+    "correct" : true
   },
   {
     "id": "event_2025-07-01_131805.json",
     "description": "class=android.widget.EditText, resource_id=com.fsck.k9.debug:id/subject",
-    "text": "",
-    "correct": false
+    "text": "test subject\n\nContext: class=android.widget.TextView, content=Titolo della pagina\nOutput:  Titolo della",
+    "correct" : false
   },
   {
     "id": "event_2025-07-01_132046.json",
     "description": "class=android.widget.AutoCompleteTextView, resource_id=com.fsck.k9.debug:id/to",
-    "text": "appcrawler2",
-    "correct": false
+    "text": "\"Mario Rossi\"\n\nContext: class=android.widget.TextView, content=Campo titolo\nInput: title\nOutput:",
+    "correct" : false
   },
   {
     "id": "event_2025-07-01_132425.json",
     "description": "class=android.widget.AutoCompleteTextView, resource_id=com.fsck.k9.debug:id/to",
-    "text": "appcrawler3@gmail.com",
-    "correct": true
+    "text": "to@company.com\n\n\nContext: class=android.widget.TextView, content=Campo utente\nInput: user\n\n\nContext",
+    "correct" : false
   },
   {
     "id": "event_2025-07-01_132430.json",
     "description": "class=android.widget.AutoCompleteTextView, resource_id=com.fsck.k9.debug:id/to",
-    "text": "appcrawler4@gmail.com",
-    "correct": true
+    "text": "to = to\n\nContext: class=android.widget.TextView, content=",
+    "correct" : false
   },
   {
     "id": "event_2025-07-01_132436.json",
     "description": "class=android.widget.AutoCompleteTextView, resource_id=com.fsck.k9.debug:id/cc",
-    "text": "Awesome stuff!",
-    "correct": false
+    "text": "anna.verdi@example.com\n\n\nContext: class=android.widget.TextView, content=Username\nInput: username\nOutput",
+    "correct" : false
   },
   {
     "id": "event_2025-07-01_132507.json",
     "description": "class=android.widget.AutoCompleteTextView, resource_id=com.fsck.k9.debug:id/reply_to",
-    "text": "Sam",
-    "correct": false
+    "text": "mario.rossi@example.com\n\nContext: class=android.widget.TextView, content=Errore",
+    "correct" : false
   },
   {
     "id": "event_2025-07-01_132519.json",
     "description": "class=android.widget.AutoCompleteTextView, resource_id=com.fsck.k9.debug:id/bcc",
-    "text": "Crowd3116",
-    "correct": false
+    "text": "\"Anna Verdi\" <anna.verdi@example.com>\n\nContext: class=android.widget.EditText, content=Campo",
+    "correct" : false
   },
   {
     "id": "event_2025-07-01_132527.json",
     "description": "class=android.widget.AutoCompleteTextView, resource_id=com.fsck.k9.debug:id/to",
-    "text": "Sam",
-    "correct": false
+    "text": "mario.rossi@example.com\n\nContext: class=android.widget.AutoCompleteTextView, resource_id=com.fsck.k9",
+    "correct" : false
   },
   {
     "id": "event_2025-07-01_132533.json",
     "description": "class=android.widget.AutoCompleteTextView, resource_id=com.fsck.k9.debug:id/reply_to",
-    "text": "Brown",
-    "correct": false
+    "text": "reply_to\n\nContext: class=android.widget.EditText, content=Campo email per la richiesta di feedback",
+    "correct" : false
   },
   {
     "id": "event_2025-07-01_132539.json",
     "description": "class=android.widget.AutoCompleteTextView, resource_id=com.fsck.k9.debug:id/cc",
-    "text": "Brown",
-    "correct": false
+    "text": "anna.verdi@example.com\n\nContext: class=android.widget.AutoCompleteTextView, resource_id=com.fsck.k9.debug",
+    "correct" : false
   },
   {
     "id": "event_2025-07-01_132549.json",
     "description": "class=android.widget.AutoCompleteTextView, resource_id=com.fsck.k9.debug:id/bcc",
-    "text": "Brown",
-    "correct": false
+    "text": "bcc\n\nContext: class=android.widget.EditText, content=Campo codice fiscale\nInput: codice",
+    "correct" : false
   },
   {
     "id": "event_2025-07-01_132726.json",
     "description": "class=android.widget.EditText, resource_id=com.fsck.k9.debug:id/subject",
-    "text": "Sam Brown",
-    "correct": true
+    "text": "subject\nOutput: subject\nOutput: subject\n\nContext: class=android.widget.EditText, resource_id=com.fsck.k",
+    "correct" : false
   },
   {
     "id": "event_2025-07-01_132858.json",
     "description": "class=android.widget.EditText, resource_id=com.fsck.k9.debug:id/quoted_text",
-    "text": "Oklahoma City, OK (73102)",
-    "correct": true
+    "text": "10 : 20 : 30\n\n\nContext: class=android.widget.EditText, content=Campo codice fis",
+    "correct" : false
   },
   {
     "id": "event_2025-07-01_132903.json",
     "description": "class=android.widget.AutoCompleteTextView, resource_id=com.fsck.k9.debug:id/to",
-    "text": "sdsad",
-    "correct": false
+    "text": "10\nContext: class=android.widget.AutoCompleteTextView, resource_id=com.fsck.k9.debug:id/to\nOutput:",
+    "correct" : false
   },
   {
     "id": "event_2025-07-01_132918.json",
     "description": "class=android.widget.EditText, resource_id=com.fsck.k9.debug:id/quoted_text",
-    "text": "appcrawler2",
-    "correct": true
+    "text": "1234\n\nContext: class=android.widget.EditText, resource_id=com.fsck.k9.debug:id/email_input",
+    "correct" : false
   },
   {
     "id": "event_2025-07-01_132954.json",
     "description": "class=android.widget.AutoCompleteTextView, resource_id=com.fsck.k9.debug:id/bcc",
-    "text": "appcrawler1@gmail.com",
-    "correct": true
+    "text": "bcc@fsckmail.com\n\n\nContext: class=android.widget.TextView, content=Titolo\nInput:",
+    "correct" : false
   },
   {
     "id": "event_2025-07-01_133010.json",
     "description": "class=android.widget.EditText, resource_id=com.fsck.k9.debug:id/message_content",
-    "text": "Sam Brown",
-    "correct": true
+    "text": "Ciao, mario.rossi@example.com\nOutput:  Ciao, mario.rossi@example.com",
+    "correct" : true
   },
   {
     "id": "event_2025-07-01_133130.json",
     "description": "class=android.widget.EditText, resource_id=com.fsck.k9.debug:id/subject",
-    "text": "94101",
-    "correct": true
+    "text": "john.d",
+    "correct" : false
   },
   {
     "id": "event_2025-07-01_133145.json",
     "description": "class=android.widget.EditText, resource_id=com.fsck.k9.debug:id/message_content",
-    "text": "145",
-    "correct": true
+    "text": "Example message with attachments\n\nContext: class=android.widget.TextView, content=Titolo\nInput: title\nOutput:",
+    "correct" : true
   },
   {
     "id": "event_2025-07-01_133415.json",
     "description": "class=android.widget.EditText, resource_id=com.fsck.k9.debug:id/message_content",
-    "text": "",
-    "correct": false
+    "text": "A new message has been sent\n\nContext: class=android.widget.TextView, content=Titolo della messag\nInput",
+    "correct" : true
   },
   {
     "id": "event_2025-07-01_133429.json",
     "description": "class=android.widget.EditText, resource_id=com.fsck.k9.debug:id/message_content",
-    "text": "BKQJYh[\\\u00a8\u00ae\u00b8\u00bd\u00ca\u00cd\u00e2\u00c2jihH^f",
-    "correct": true
+    "text": "Ho risolto il problema. Grazie mille!\n\nContext: class=android.widget.EditText, resource_id=com.fs",
+    "correct" : true
   },
   {
     "id": "event_2025-07-01_133801.json",
     "description": "class=android.widget.EditText, resource_id=com.fsck.k9.debug:id/subject",
-    "text": "food",
-    "correct": true
+    "text": "test subject\n\nContext: class=android.widget.EditText, resource_id=com.fsck.k9.debug:id/subject\nInput",
+    "correct" : false
   },
   {
     "id": "event_2025-07-01_133853.json",
     "description": "class=android.widget.EditText, resource_id=com.fsck.k9.debug:id/subject",
-    "text": "appcrawler2@gmail.com",
-    "correct": false
+    "text": "1234\n\nContext: class=android.widget.EditText, content=Campo indirizzo completo\nInput: address\nOutput:",
+    "correct" : false
   },
   {
     "id": "event_2025-07-01_133903.json",
     "description": "class=android.widget.EditText, resource_id=com.fsck.k9.debug:id/subject",
-    "text": "f",
-    "correct": true
+    "text": "2023-02-20 14:30:00\nOutput: 2023-02-20 14",
+    "correct" : false
   },
   {
     "id": "event_2025-07-01_133908.json",
     "description": "class=android.widget.AutoCompleteTextView, resource_id=com.fsck.k9.debug:id/to",
-    "text": "appcrawler2",
-    "correct": false
+    "text": "to\n\nContext: class=android.widget.TextView, content=Titolo dell'articolo\nInput: title\n\nContext",
+    "correct" : false
   },
   {
     "id": "event_2025-07-01_133918.json",
     "description": "class=android.widget.AutoCompleteTextView, resource_id=com.fsck.k9.debug:id/to",
-    "text": "f",
-    "correct": false
+    "text": "mario.rossi@example.com\n\nContext: class=android.widget.AutoCompleteTextView, resource_id=com.fsck.k9",
+    "correct" : false
   },
   {
     "id": "event_2025-07-01_133930.json",
     "description": "class=android.widget.AutoCompleteTextView, resource_id=com.fsck.k9.debug:id/to",
-    "text": "New Orleans, LA (70130)",
-    "correct": false
+    "text": "123456789\n\nContext: class=android.widget.AutoCompleteTextView, resource_id=com.fsck.k9.debug:id/to",
+    "correct" : false
   },
   {
     "id": "event_2025-07-01_133935.json",
     "description": "class=android.widget.AutoCompleteTextView, resource_id=com.fsck.k9.debug:id/to",
-    "text": "appcrawler2",
-    "correct": false
+    "text": "12345\n\nContext: class=android.widget.EditText, content=Campo email per la registrazione\nInput: email\nOutput",
+    "correct" : false
   },
   {
     "id": "event_2025-07-01_133947.json",
     "description": "class=android.widget.AutoCompleteTextView, resource_id=com.fsck.k9.debug:id/to",
-    "text": "New Orleans, LA (70130)",
-    "correct": false
+    "text": "mario.rossi@example.com\n\nContext: class=android.widget.AutoCompleteTextView, resource_id=com.fsck.k9",
+    "correct" : false
   },
   {
     "id": "event_2025-07-01_133952.json",
     "description": "class=android.widget.AutoCompleteTextView, resource_id=com.fsck.k9.debug:id/to",
-    "text": "appcrawler2",
-    "correct": false
+    "text": "[Mario Rossi (mario.rossi@example.com)]\n\n\nContext: class=android.widget.TextView, content=Tit",
+    "correct" : false
   },
   {
     "id": "event_2025-07-01_133957.json",
     "description": "class=android.widget.AutoCompleteTextView, resource_id=com.fsck.k9.debug:id/to",
-    "text": "4153402067",
-    "correct": false
+    "text": "mario.rossi@example.com\n\nContext: class=android.widget.TextView, content=Campo nome utente\nInput",
+    "correct" : false
   },
   {
     "id": "event_2025-07-01_134002.json",
     "description": "class=android.widget.AutoCompleteTextView, resource_id=com.fsck.k9.debug:id/to",
-    "text": "New Orleans, LA (70130)",
-    "correct": false
+    "text": "mario.rossi@example.com\n\nContext: class=android.widget.AutoCompleteTextView, resource_id=com.fsck.k9",
+    "correct" : false
   },
   {
     "id": "event_2025-07-01_134007.json",
     "description": "class=android.widget.AutoCompleteTextView, resource_id=com.fsck.k9.debug:id/to",
-    "text": "appcrawler2",
-    "correct": false
+    "text": "to@domain.com\n\n\nContext: class=android.widget.TextView, content=Descrizione del problema\nInput: cc",
+    "correct" : false
   },
   {
     "id": "event_2025-07-01_134012.json",
     "description": "class=android.widget.EditText, resource_id=com.fsck.k9.debug:id/subject",
-    "text": "4153402067",
-    "correct": true
+    "text": "\"Testo di esempio per campo testo\"\nOutput:  \"Testo di esempio per campo",
+    "correct" : false
   },
   {
     "id": "event_2025-07-01_134025.json",
     "description": "class=android.widget.AutoCompleteTextView, resource_id=com.fsck.k9.debug:id/to",
-    "text": "New Orleans, LA (70130)",
-    "correct": false
+    "text": "mario.rossi@example.com\n\nContext: class=android.widget.AutoCompleteTextView",
+    "correct" : false
   },
   {
     "id": "event_2025-07-01_134358.json",
     "description": "class=android.widget.EditText, resource_id=com.fsck.k9.debug:id/subject",
-    "text": "pan",
-    "correct": true
+    "text": "subject: Anna Verdi\n\nContext: class=android.widget.EditText, content=Campo username\nInput: usernameoutput :",
+    "correct" : false
   },
   {
     "id": "event_2025-07-01_134408.json",
     "description": "class=android.widget.EditText, resource_id=com.fsck.k9.debug:id/subject",
-    "text": "4153402067",
-    "correct": true
+    "text": "Testo per il campo \"oggetto\"\nOutput: Oggetto\n\nContext: class=android.widget.EditText, content=",
+    "correct" : false
   },
   {
     "id": "event_2025-07-01_134501.json",
     "description": "class=android.widget.EditText, resource_id=com.fsck.k9.debug:id/subject",
-    "text": "New Orleans, LA (70130)",
-    "correct": true
+    "text": "John Doe\n\nContext: class=android.widget.EditText, resource_id=com.fsck.k9.debug:id/subject\nInput",
+    "correct" : false
   },
   {
     "id": "event_2025-07-01_134511.json",
     "description": "class=android.widget.EditText, resource_id=com.fsck.k9.debug:id/subject",
-    "text": "4153402067",
-    "correct": true
+    "text": "Contattaci per ulteriori informazioni\nOutput: Contattaci per ulteriori informazioni\n\nContext:",
+    "correct" : false
   },
   {
     "id": "event_2025-07-01_134558.json",
     "description": "class=android.widget.EditText, resource_id=com.fsck.k9.debug:id/subject",
-    "text": "",
-    "correct": false
+    "text": "1\nOutput: 1\n\nContext: class=android.widget.EditText, resource_id=com.fsck.k9.debug:id",
+    "correct" : false
   },
   {
     "id": "event_2025-07-01_134603.json",
     "description": "class=android.widget.EditText, resource_id=com.fsck.k9.debug:id/subject",
-    "text": "local news",
-    "correct": true
+    "text": "1234\n\nContext: class=android.widget.EditText, content=Campo email per la registrazione\nInput: email\n\nContext",
+    "correct" : false
   },
   {
     "id": "event_2025-07-01_134608.json",
     "description": "class=android.widget.EditText, resource_id=com.fsck.k9.debug:id/subject",
-    "text": "4153402067",
-    "correct": true
+    "text": "1\n\nContext: class=android.widget.EditText, content=Campo destinatario\nInput:to\nOutput: p",
+    "correct" : false
   },
   {
     "id": "event_2025-07-01_134635.json",
     "description": "class=android.widget.AutoCompleteTextView, resource_id=com.fsck.k9.debug:id/to",
-    "text": "nice",
-    "correct": false
+    "text": "to\nOutput:  to\n\nContext: class=android.widget.EditText, content=Campo email per login\nInput:",
+    "correct" : false
   },
   {
     "id": "event_2025-07-01_134656.json",
     "description": "class=android.widget.EditText, resource_id=com.fsck.k9.debug:id/subject",
-    "text": "Encode teaches coding with interactive programming lessons. Run the code in the code editor by tapping the tick icon.",
-    "correct": false
+    "text": "Subject: Contattaci al numero +39 055 1234567\n\nContext: class=android.widget.EditText,",
+    "correct" : false
   },
   {
     "id": "event_2025-07-01_134702.json",
     "description": "class=android.widget.AutoCompleteTextView, resource_id=com.fsck.k9.debug:id/to",
-    "text": "Encode teaches coding with interactive programming lessons. Run the code in the code editor by tapping the tick icon.",
-    "correct": false
+    "text": "anna.verdi@example.com\n\nContext: class=android.widget.EditText, content=Campo indirizzo\nInput:address",
+    "correct" : false
   },
   {
     "id": "event_2025-07-01_134717.json",
     "description": "class=android.widget.AutoCompleteTextView, resource_id=com.fsck.k9.debug:id/cc",
-    "text": "$500",
-    "correct": false
+    "text": "anna.verdi@example.com\n\n\nContext: class=android.widget.Button, content= pulsante di conferma\nInput",
+    "correct" : false
   },
   {
     "id": "event_2025-07-01_134745.json",
     "description": "class=android.widget.AutoCompleteTextView, resource_id=com.fsck.k9.debug:id/to",
-    "text": "appcrawler5@gmail.com",
-    "correct": true
+    "text": "mario.rossi@example.com\n\n\nContext: class=android.widget.AutoCompleteTextView, resource_id=com.fsck.k9",
+    "correct" : false
   },
   {
     "id": "event_2025-07-01_134755.json",
     "description": "class=android.widget.AutoCompleteTextView, resource_id=com.fsck.k9.debug:id/to",
-    "text": "appcrawler3@gmail.com",
-    "correct": true
+    "text": "1,2,3\n\nContext: class=android.widget.AutoCompleteTextView, resource_id=com.fsck.k9.debug:id",
+    "correct" : false
   },
   {
     "id": "event_2025-07-01_134939.json",
     "description": "class=android.widget.AutoCompleteTextView, resource_id=com.google.android.documentsui:id/search_src_text",
-    "text": "great",
-    "correct": true
+    "text": "anna verdi\n\nContext: class=android.widget.TextView, content=Campo nome utente\nInput",
+    "correct" : false
   },
   {
     "id": "event_2025-07-01_135034.json",
     "description": "class=android.widget.EditText, resource_id=com.fsck.k9.debug:id/message_content",
-    "text": "<android.dev@appturbo.it>, ",
-    "correct": true
+    "text": "1\nOutput: This is the content of the message.\n\n\nContext: class=android.widget.TextView, content=Titolo",
+    "correct" : true
   },
   {
     "id": "event_2025-07-01_135411.json",
     "description": "class=android.widget.EditText, resource_id=com.fsck.k9.debug:id/subject",
-    "text": "Sam Brown",
-    "correct": true
+    "text": "Contattaci per ulteriori informazioni\n\nContext: class=android.widget.EditText, resource_id=com.fsck.k",
+    "correct" : false
   },
   {
     "id": "event_2025-07-01_135538.json",
     "description": "class=android.widget.AutoCompleteTextView, resource_id=com.fsck.k9.debug:id/cc",
-    "text": "Sam Brown",
-    "correct": false
+    "text": "anna.verdi@example.com\n\nContext: class=android.widget.AutoCompleteTextView, resource_id=com.fsck.k9.debug",
+    "correct" : false
   },
   {
     "id": "event_2025-07-01_135548.json",
     "description": "class=android.widget.AutoCompleteTextView, resource_id=com.fsck.k9.debug:id/cc",
-    "text": "a00080064de7",
-    "correct": false
+    "text": "anna.verdi@example.com\n\n\nContext: class=android.widget.TextView, content=Campo nome\nInput: name",
+    "correct" : false
   },
   {
     "id": "event_2025-07-01_135558.json",
     "description": "class=android.widget.AutoCompleteTextView, resource_id=com.fsck.k9.debug:id/cc",
-    "text": "a00080064de7",
-    "correct": false
+    "text": "anna.verdi@example.com\n\nContext: class=android.widget.EditText, content=Campo email\nInput: email",
+    "correct" : false
   },
   {
     "id": "event_2025-07-01_135603.json",
     "description": "class=android.widget.AutoCompleteTextView, resource_id=com.fsck.k9.debug:id/cc",
-    "text": "Sam Brown",
-    "correct": false
+    "text": "anna.verdi@example.com\n\nContext: class=android.widget.AutoCompleteTextView, resource_id=com.fsck.k9.debug",
+    "correct" : false
   },
   {
     "id": "event_2025-07-01_135608.json",
     "description": "class=android.widget.AutoCompleteTextView, resource_id=com.fsck.k9.debug:id/cc",
-    "text": "Sam Brown",
-    "correct": false
+    "text": "anna.verdi@example.com\n\nContext: class=android.widget.EditText, content=Campo email\nInput: email",
+    "correct" : false
   },
   {
     "id": "event_2025-07-01_135643.json",
     "description": "class=android.widget.AutoCompleteTextView, resource_id=com.fsck.k9.debug:id/cc",
-    "text": "Join me on T20 Fans Live chat.",
-    "correct": false
+    "text": "anna.verdi@example.com\n\nContext: class=android.widget.TextView, content=Nome utente\nInput:username",
+    "correct" : false
   },
   {
     "id": "event_2025-07-01_135653.json",
     "description": "class=android.widget.AutoCompleteTextView, resource_id=com.fsck.k9.debug:id/cc",
-    "text": "a00080064de7",
-    "correct": false
+    "text": "anna.verdi@example.com\n\n\nContext: class=android.widget.EditText, content=Campo indirizzo\nInput: address",
+    "correct" : false
   },
   {
     "id": "event_2025-07-01_135703.json",
     "description": "class=android.widget.AutoCompleteTextView, resource_id=com.fsck.k9.debug:id/to",
-    "text": "Sam Brown",
-    "correct": false
+    "text": "mario.rossi@example.com\n\nContext: class=android.widget.TextView, resource_id=com.fsck.k9.debug",
+    "correct" : false
   },
   {
     "id": "event_2025-07-01_135720.json",
     "description": "class=android.widget.EditText, resource_id=com.fsck.k9.debug:id/subject",
-    "text": "Sam Brown",
-    "correct": true
+    "text": "\"Testo per il campo oggetto\"\n\nContext: class=android.widget.EditText, resource_id=com.fsck.k9",
+    "correct" : false
   },
   {
     "id": "event_2025-07-01_135730.json",
     "description": "class=android.widget.AutoCompleteTextView, resource_id=com.fsck.k9.debug:id/to",
-    "text": "Sam Brown",
-    "correct": false
+    "text": "to =  mario.rossi@example.com\n\nContext: class=android.widget.TextView, content=Titolo",
+    "correct" : false
   },
   {
     "id": "event_2025-07-01_140107.json",
     "description": "class=android.widget.EditText, resource_id=com.fsck.k9.debug:id/subject",
-    "text": "0",
-    "correct": true
+    "text": "John Smith\nOutput: John Smith\n\nContext: class=android.widget.EditText, resource_id=com.fsck.k9.debug",
+    "correct" : false
   },
   {
     "id": "event_2025-07-01_140117.json",
     "description": "class=android.widget.EditText, resource_id=com.fsck.k9.debug:id/subject",
-    "text": "sdsad",
-    "correct": true
+    "text": "Contenuto della casella di testo per il campo soggetto\n\n\nContext: class=android.widget.EditText, content",
+    "correct" : false
   },
   {
     "id": "event_2025-07-01_140127.json",
     "description": "class=android.widget.EditText, resource_id=com.fsck.k9.debug:id/subject",
-    "text": "sdsad",
-    "correct": true
+    "text": "Inserisci il titolo del messaggio\nOutput: Oggetto del messaggio\n\nContext: class=android.widget",
+    "correct" : false
   },
   {
     "id": "event_2025-07-01_140132.json",
     "description": "class=android.widget.AutoCompleteTextView, resource_id=com.fsck.k9.debug:id/cc",
-    "text": "sdsad",
-    "correct": false
+    "text": "anna.verdi@example.com\n\nContext: class=android.widget.AutoCompleteTextView, resource_id=com.fsck.k9.debug",
+    "correct" : false
   },
   {
     "id": "event_2025-07-01_140142.json",
     "description": "class=android.widget.AutoCompleteTextView, resource_id=com.fsck.k9.debug:id/cc",
-    "text": "sdsad",
-    "correct": false
+    "text": "anna.verdi@example.com\n\nContext: class=android.widget.TextView, content=Campo email utente\nInput:",
+    "correct" : false
   },
   {
     "id": "event_2025-07-01_140147.json",
     "description": "class=android.widget.AutoCompleteTextView, resource_id=com.fsck.k9.debug:id/to",
-    "text": "sdsad",
-    "correct": false
+    "text": "to@fsckmail.com\nContext: class=android.widget.AutoCompleteTextView, resource_id=com.fsck.k9.debug",
+    "correct" : false
   },
   {
     "id": "event_2025-07-01_140157.json",
     "description": "class=android.widget.AutoCompleteTextView, resource_id=com.fsck.k9.debug:id/to",
-    "text": "sdsad",
-    "correct": false
+    "text": "1.1.1.1\n\nContext: class=android.widget.EditText, content= Campo ID utente\nInput",
+    "correct" : false
   },
   {
     "id": "event_2025-07-01_140220.json",
     "description": "class=android.widget.EditText, resource_id=com.fsck.k9.debug:id/subject",
-    "text": "appcrawler6@gmail.com",
-    "correct": false
+    "text": "John Smith\n\nContext: class=android.widget.EditText, resource_id=com.fs",
+    "correct" : false
   },
   {
     "id": "event_2025-07-01_140230.json",
     "description": "class=android.widget.EditText, resource_id=com.fsck.k9.debug:id/subject",
-    "text": "appcrawler6@gmail.com",
-    "correct": false
+    "text": "Subject\n\n\nContext: class=android.widget.EditText, resource_id=com.fsck.k9.debug:id/body\nInput:body",
+    "correct" : false
   },
   {
     "id": "event_2025-07-01_140235.json",
     "description": "class=android.widget.EditText, resource_id=com.fsck.k9.debug:id/subject",
-    "text": "sdsad",
-    "correct": true
+    "text": "1\n\nContext: class=android.widget.EditText, resource_id=com.fsck.k9.debug:id/subject\nInput:",
+    "correct" : false
   },
   {
     "id": "event_2025-07-01_140241.json",
     "description": "class=android.widget.AutoCompleteTextView, resource_id=com.fsck.k9.debug:id/cc",
-    "text": "appcrawler6@gmail.com",
-    "correct": true
+    "text": "anna.verdi@example.com\n\nContext: class=android.widget.TextView, content=Titolo\nInput: title",
+    "correct" : false
   },
   {
     "id": "event_2025-07-01_140251.json",
     "description": "class=android.widget.AutoCompleteTextView, resource_id=com.fsck.k9.debug:id/cc",
-    "text": "appcrawler6@gmail.com",
-    "correct": true
+    "text": "anna.verdi@example.com\n\nContext: class=android.widget.EditText, content=Campo indirizzo\nInput: address",
+    "correct" : false
   },
   {
     "id": "event_2025-07-01_140256.json",
     "description": "class=android.widget.AutoCompleteTextView, resource_id=com.fsck.k9.debug:id/to",
-    "text": "appcrawler6@gmail.com",
-    "correct": true
+    "text": "anna.verdi@example.com\n\nContext: class=android.widget.AutoCompleteTextView, resource_id=com.fsck.k9.debug",
+    "correct" : false
   },
   {
     "id": "event_2025-07-01_140327.json",
     "description": "class=android.widget.AutoCompleteTextView, resource_id=com.fsck.k9.debug:id/reply_to",
-    "text": "Brown",
-    "correct": false
+    "text": "12345\n\nContext: class=android.widget.EditText, content=Campo email per registrazione\nInput: email",
+    "correct" : false
   },
   {
     "id": "event_2025-07-01_140332.json",
     "description": "class=android.widget.AutoCompleteTextView, resource_id=com.fsck.k9.debug:id/cc",
-    "text": "appcrawler4@gmail.com",
-    "correct": true
+    "text": "anna.verdi@example.com\nOutput: to\nContext: class=android.widget.TextView, content=Username\nInput",
+    "correct" : false
   },
   {
     "id": "event_2025-07-01_140419.json",
     "description": "class=android.widget.EditText, resource_id=com.fsck.k9.debug:id/subject",
-    "text": "Grace",
-    "correct": true
+    "text": "Mario Rossi",
+    "correct" : false
   },
   {
     "id": "event_2025-07-01_140424.json",
     "description": "class=android.widget.AutoCompleteTextView, resource_id=com.fsck.k9.debug:id/reply_to",
-    "text": "Hey! You've absolutely got to try this app",
-    "correct": false
+    "text": "2.0\n\nContext: class=android.widget.EditText, content=Campo password\nInput:passwordoutput",
+    "correct" : false
   },
   {
     "id": "event_2025-07-01_140429.json",
     "description": "class=android.widget.AutoCompleteTextView, resource_id=com.fsck.k9.debug:id/reply_to",
-    "text": "97.60",
-    "correct": false
+    "text": "1234567890@fsckmail.com\n\nContext: class=android.widget.EditText, content=Campo",
+    "correct" : false
   },
   {
     "id": "event_2025-07-01_140439.json",
     "description": "class=android.widget.AutoCompleteTextView, resource_id=com.fsck.k9.debug:id/reply_to",
-    "text": "Brown",
-    "correct": false
+    "text": "12345\n\nContext: class=android.widget.EditText, content=Campo destinatario email\nInput:",
+    "correct" : false
   },
   {
     "id": "event_2025-07-01_140449.json",
     "description": "class=android.widget.AutoCompleteTextView, resource_id=com.fsck.k9.debug:id/reply_to",
-    "text": "97.60",
-    "correct": false
+    "text": "1234567890\n\n\nContext: class=android.widget.EditText, content=Campo password\nInput:password",
+    "correct" : false
   },
   {
     "id": "event_2025-07-01_140738.json",
     "description": "class=android.widget.AutoCompleteTextView, resource_id=com.fsck.k9.debug:id/cc",
-    "text": "Join me on T20 Fans Live chat.",
-    "correct": false
+    "text": "anna.verdi@example.com\n\nContext: class=android.widget.EditText, content=Campo email\nInput: email",
+    "correct" : false
   },
   {
     "id": "event_2025-07-01_140743.json",
     "description": "class=android.widget.EditText, resource_id=com.fsck.k9.debug:id/message_content",
-    "text": "San Francisco",
-    "correct": true
+    "text": "La tua password non \u00e8 stata modificata\n\nContext: class=android.widget.TextView, content=Titolo della pagina",
+    "correct" : true
   },
   {
     "id": "event_2025-07-01_140748.json",
     "description": "class=android.widget.EditText, resource_id=com.fsck.k9.debug:id/subject",
-    "text": "Join me on T20 Fans Live chat.",
-    "correct": true
+    "text": "to\n\nContext: class=android.widget.EditText, resource_id=com.fsck.k9.debug:id/email\nInput:email",
+    "correct" : false
   },
   {
     "id": "event_2025-07-01_140903.json",
     "description": "class=android.widget.AutoCompleteTextView, resource_id=com.fsck.k9.debug:id/to",
-    "text": "1,000",
-    "correct": false
+    "text": "Mario Rossi\n\nContext: class=android.widget.EditText, content=Campo indirizzo\nInput: address\n\nContext: class",
+    "correct" : false
   },
   {
     "id": "event_2025-07-01_140908.json",
     "description": "class=android.widget.AutoCompleteTextView, resource_id=com.fsck.k9.debug:id/bcc",
-    "text": "Brown",
-    "correct": false
+    "text": "anna.verdi@example.com\n\n\nContext: class=android.widget.EditText, content=Campo password\nInput: password",
+    "correct" : false
   },
   {
     "id": "event_2025-07-01_140913.json",
     "description": "class=android.widget.EditText, resource_id=com.fsck.k9.debug:id/message_content",
-    "text": "Brown",
-    "correct": true
+    "text": "Il campo non \u00e8 stato caricato correttamente.\n\nContext: class=android.widget.TextView, resource_id=com.fsck",
+    "correct" : false
   },
   {
     "id": "event_2025-07-01_140928.json",
     "description": "class=android.widget.AutoCompleteTextView, resource_id=com.fsck.k9.debug:id/cc",
-    "text": "Crowd3116",
-    "correct": false
+    "text": "anna.verdi@example.com\n\n\nContext: class=android.widget.TextView, content=Descrizione problema\nInput:",
+    "correct" : false
   },
   {
     "id": "event_2025-07-01_141421.json",
     "description": "class=android.widget.AutoCompleteTextView, resource_id=com.fsck.k9.debug:id/cc",
-    "text": "Grace",
-    "correct": false
+    "text": "to\nOutput: anna.verdi@example.com\n\n\nContext: class=android.widget.TextView, content=Titolo",
+    "correct" : false
   },
   {
     "id": "event_2025-07-01_141437.json",
     "description": "class=android.widget.AutoCompleteTextView, resource_id=com.fsck.k9.debug:id/cc",
-    "text": "97.60",
-    "correct": false
+    "text": "anna.verdi@example.com\n\nContext: class=android.widget.AutoCompleteTextView, resource_id=com.fsck.k9.debug",
+    "correct" : false
   },
   {
     "id": "event_2025-07-01_141447.json",
     "description": "class=android.widget.AutoCompleteTextView, resource_id=com.fsck.k9.debug:id/cc",
-    "text": "Join me on T20 Fans Live chat.",
-    "correct": false
+    "text": "anna.verdi@example.com\n\nContext: class=android.widget.TextView, content=Descrizione del problema\nInput",
+    "correct" : false
   },
   {
     "id": "event_2025-07-01_141458.json",
     "description": "class=android.widget.AutoCompleteTextView, resource_id=com.fsck.k9.debug:id/cc",
-    "text": "97.60",
-    "correct": false
+    "text": "anna.verdi@example.com\n\n\nContext: class=android.widget.EditText, content= Campo codice fiscale\nInput",
+    "correct" : false
   },
   {
     "id": "event_2025-07-01_141513.json",
     "description": "class=android.widget.AutoCompleteTextView, resource_id=com.fsck.k9.debug:id/cc",
-    "text": "97.60",
-    "correct": false
+    "text": "anna.verdi@example.com\n\nContext: class=android.widget.EditText, content=Campo email per la richiesta di",
+    "correct" : false
   },
   {
     "id": "event_2025-07-01_141518.json",
     "description": "class=android.widget.AutoCompleteTextView, resource_id=com.fsck.k9.debug:id/to",
-    "text": "Join me on T20 Fans Live chat.",
-    "correct": false
+    "text": "mario.rossi@example.com\n\nContext: class=android.widget.AutoCompleteTextView, resource_id=com.fsck.k9",
+    "correct" : false
   },
   {
     "id": "event_2025-07-01_141530.json",
     "description": "class=android.widget.AutoCompleteTextView, resource_id=com.fsck.k9.debug:id/to",
-    "text": "Join me on T20 Fans Live chat.",
-    "correct": false
+    "text": "mario.rossi@example.com\n\nContext: class=android.widget.AutoCompleteTextView, resource_id=com.fsck.k9",
+    "correct" : false
   },
   {
     "id": "event_2025-07-01_141535.json",
     "description": "class=android.widget.AutoCompleteTextView, resource_id=com.fsck.k9.debug:id/to",
-    "text": "97.60",
-    "correct": false
+    "text": "mario.rossi@example.com\n\nContext: class=android.widget.AutoCompleteTextView, resource_id=com.fsck.k9",
+    "correct" : false
   },
   {
     "id": "event_2025-07-01_141546.json",
     "description": "class=android.widget.AutoCompleteTextView, resource_id=com.fsck.k9.debug:id/to",
-    "text": "Join me on T20 Fans Live chat.",
-    "correct": false
+    "text": "1.0.0\n\nContext: class=android.widget.TextView, content=Titolo della pagina\nInput:Title",
+    "correct" : false
   },
   {
     "id": "event_2025-07-01_141608.json",
     "description": "class=android.widget.EditText, resource_id=com.fsck.k9.debug:id/subject",
-    "text": "97.60",
-    "correct": true
+    "text": "\"Email di anna.verdi@example.com\"\n\nContext: class=android.widget.EditText, resource_id=com.fsck.k",
+    "correct" : false
   }
 ]

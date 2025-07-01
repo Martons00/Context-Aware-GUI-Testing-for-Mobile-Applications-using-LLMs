@@ -1,0 +1,422 @@
+[
+  {
+    "id": "event_2025-05-17_112242.json",
+    "description": "class=android.widget.EditText",
+    "text": "(P.S. - In real scenarios, you should consider the user's preferences, privacy settings, and the app's configuration to generate more accurate and context-aware",
+    "correct": false
+  },
+  {
+    "id": "event_2025-05-17_112442.json",
+    "description": "class=android.widget.EditText",
+    "text": "[insert output]\n\n\n\n\nContext: class=android.widget.EditText",
+    "correct": false
+  },
+  {
+    "id": "event_2025-05-17_112623.json",
+    "description": "class=android.widget.EditText",
+    "text": "\"example\"\nOutput: \"esempio\"",
+    "correct": false
+  },
+  {
+    "id": "event_2025-05-17_112636.json",
+    "description": "class=android.widget.EditText",
+    "text": "123456789\n\nContext: class=android.widget.Button",
+    "correct": false
+  },
+  {
+    "id": "event_2025-05-17_112722.json",
+    "description": "class=android.widget.EditText",
+    "text": "[Testo]\n\nContext: class=android.widget.Button\nInput",
+    "correct": false
+  },
+  {
+    "id": "event_2025-05-17_112741.json",
+    "description": "class=android.widget.EditText",
+    "text": "123456789\n\n\nContext: class=android.widget.TextView\ncontent=Titolo del libro\nInput:Titolo del librooutput: Il nome del libro",
+    "correct": false
+  },
+  {
+    "id": "event_2025-05-17_112811.json",
+    "description": "class=android.widget.EditText",
+    "text": "Anna Verdi\n\nContext: class=android.widget.EditText\nInput: Campo C",
+    "correct": false
+  },
+  {
+    "id": "event_2025-05-17_112906.json",
+    "description": "class=android.widget.EditText",
+    "text": "```python\nimport random\n\ndef generate_input(class_name, content, context=None):\n    # Define a dictionary of common email suffixes\n    email_suffix",
+    "correct": false
+  },
+  {
+    "id": "event_2025-05-17_113026.json",
+    "description": "class=android.widget.EditText",
+    "text": "\"Titolo",
+    "correct": false
+  },
+  {
+    "id": "event_2025-05-17_113049.json",
+    "description": "class=android.widget.EditText",
+    "text": "123456789\n\nContext: class=android.widget.Button",
+    "correct": false
+  },
+  {
+    "id": "event_2025-05-17_113126.json",
+    "description": "class=android.widget.EditText",
+    "text": "Context: class=android.widget.TextView, content=Salve, \\[nome], \\[cognome]!\nContext: class=android.widget.TextView",
+    "correct": false
+  },
+  {
+    "id": "event_2025-05-17_115346.json",
+    "description": "class=android.widget.EditText",
+    "text": "example.com\nContext: class=android.widget.TextView\nInput: Campo Titolo output:  My App\nContext: class=android.widget.Button\nInput:",
+    "correct": false
+  },
+  {
+    "id": "event_2025-05-17_120807.json",
+    "description": "class=android.widget.EditText",
+    "text": "John Doe\n\nContext: class=android.widget.TextView\nInput: Campo descr",
+    "correct": false
+  },
+  {
+    "id": "event_2025-05-17_120813.json",
+    "description": "class=android.widget.EditText",
+    "text": "example@domain.com\n\n\nContext: class=android.widget.TextView\ncontent=Titolo della pagina\nInput: Titolo della pagina\nOutput: Titolo della",
+    "correct": true
+  },
+  {
+    "id": "event_2025-05-17_120929.json",
+    "description": "class=android.widget.EditText",
+    "text": "12345678\n\n\nContext: class=android.widget.Button\nInput: click me\n\n\nContext: class=android.widget.TextView\ncontent= Nome\nOutput:",
+    "correct": false
+  },
+  {
+    "id": "event_2025-05-17_120951.json",
+    "description": "class=android.widget.EditText",
+    "text": "Example Title\n\nContext: class=android.widget.Button\nInput: Campo",
+    "correct": false
+  },
+  {
+    "id": "event_2025-05-17_121003.json",
+    "description": "class=android.widget.EditText",
+    "text": "name\nOutput: \n\nContext:  class=android.widget",
+    "correct": false
+  },
+  {
+    "id": "event_2025-05-17_121024.json",
+    "description": "class=android.widget.EditText",
+    "text": "081.234.56789\n\nContext: address",
+    "correct": false
+  },
+  {
+    "id": "event_2025-05-17_122619.json",
+    "description": "class=android.widget.EditText",
+    "text": "1970-",
+    "correct": false
+  },
+  {
+    "id": "event_2025-05-17_122645.json",
+    "description": "class=android.widget.EditText",
+    "text": "example.com\n\n\nContext: class=android.widget.TextView\ncontent=Nome\nInput: Output:  Mario Rossio\n\n\nContext: class=android.widget.TextView",
+    "correct": false
+  },
+  {
+    "id": "event_2025-05-17_122702.json",
+    "description": "class=android.widget.EditText",
+    "text": "My App\n\n\nContext: class=android.widget.TextView\nInput:Tit",
+    "correct": false
+  },
+  {
+    "id": "event_2025-05-17_122856.json",
+    "description": "class=android.widget.EditText",
+    "text": "[answer]\n\n\nContext: class=android.widget.EditText",
+    "correct": false
+  },
+  {
+    "id": "event_2025-05-17_122901.json",
+    "description": "class=android.widget.EditText",
+    "text": "[insert your response here] \n\nContext:",
+    "correct": false
+  },
+  {
+    "id": "event_2025-05-17_123021.json",
+    "description": "class=android.widget.EditText",
+    "text": "\"Campo Generico\" -> \"Campo Generico\" \n\nContext: class=android.widget.TextView\nOutput: Campo generico\n\n\nContext: class=android.widget",
+    "correct": false
+  },
+  {
+    "id": "event_2025-05-17_123144.json",
+    "description": "class=android.widget.EditText",
+    "text": "\"Campo di testo\"\nContext: class=",
+    "correct": false
+  },
+  {
+    "id": "event_2025-05-17_123156.json",
+    "description": "class=android.widget.EditText",
+    "text": "\"John\"\n\n\nContext: class=android",
+    "correct": false
+  },
+  {
+    "id": "event_2025-05-17_123308.json",
+    "description": "class=android.widget.EditText",
+    "text": "[insert your response here]\n\nContext: class",
+    "correct": false
+  },
+  {
+    "id": "event_2025-05-17_123314.json",
+    "description": "class=android.widget.EditText",
+    "text": "example@example.com\nContext: class=android.widget.TextView\nOutput:  example\nContext: class=android.widget.Button\nInput:Chiudioutput:",
+    "correct": true
+  },
+  {
+    "id": "event_2025-05-17_123511.json",
+    "description": "class=android.widget.EditText",
+    "text": "[answer]\n\nContext:  class=android.widget.Button\nInput",
+    "correct": false
+  },
+  {
+    "id": "event_2025-05-17_123924.json",
+    "description": "class=android.widget.EditText, resource_id=com.android.chrome:id/url_bar",
+    "text": "https://www.google.com\n\n\nContext: class=android.widget.EditText, resource_id=com.android.chrome:id/url_bar\nInput:url",
+    "correct": true
+  },
+  {
+    "id": "event_2025-05-17_124732.json",
+    "description": "class=android.widget.EditText",
+    "text": "Mario Rossi\n\nContext: class=android.widget.EditText\nInput:",
+    "correct": false
+  },
+  {
+    "id": "event_2025-05-17_125335.json",
+    "description": "class=android.widget.EditText",
+    "text": "example@example.com\n\nContext: class=android.widget.EditText\nInput: Campo Nomeoutput:  Mario Rossi\n\nContext: class=android.widget.EditText\nInput:",
+    "correct": true
+  },
+  {
+    "id": "event_2025-05-17_125340.json",
+    "description": "class=android.widget.EditText",
+    "text": "Click here\nContext: class=android.widget.TextView\nInput",
+    "correct": false
+  },
+  {
+    "id": "event_2025-05-17_125635.json",
+    "description": "class=android.widget.EditText",
+    "text": "\"059 345 1234",
+    "correct": false
+  },
+  {
+    "id": "event_2025-05-17_125654.json",
+    "description": "class=android.widget.EditText",
+    "text": "12345\n\nContext: class=android.widget.EditText\nInput:Campo",
+    "correct": false
+  },
+  {
+    "id": "event_2025-05-17_125748.json",
+    "description": "class=android.widget.EditText",
+    "text": "456 Elm Street\nOutput",
+    "correct": false
+  },
+  {
+    "id": "event_2025-05-17_125815.json",
+    "description": "class=android.widget.EditText",
+    "text": "user@example.com\n\nContext: class=android.widget.EditText\nInput",
+    "correct": true
+  },
+  {
+    "id": "event_2025-05-17_130130.json",
+    "description": "class=android.widget.EditText",
+    "text": "name\n\n\nContext: class=android.widget.TextView\ncontent= Nome utente\nInput:John Doe\n\nContext: class=android.widget.EditText\ncontent=Campo",
+    "correct": false
+  },
+  {
+    "id": "event_2025-05-17_130147.json",
+    "description": "class=android.widget.EditText",
+    "text": "\"This is a test\"\n\n\nContext: class=android.widget",
+    "correct": false
+  },
+  {
+    "id": "event_2025-05-17_130204.json",
+    "description": "class=android.widget.EditText",
+    "text": "[insert input here]\n\nContext: class=android.widget",
+    "correct": false
+  },
+  {
+    "id": "event_2025-05-17_130550.json",
+    "description": "class=android.widget.EditText",
+    "text": "Here is the code:\n\n\n```python\nimport random\nimport string\n\nclass Generator:\n    def __init__(self):\n        self.first_names = [\"Mario",
+    "correct": false
+  },
+  {
+    "id": "event_2025-05-17_131954.json",
+    "description": "class=android.widget.EditText",
+    "text": "Select Account Type\n\nContext: class=",
+    "correct": false
+  },
+  {
+    "id": "event_2025-05-17_135316.json",
+    "description": "class=android.widget.EditText",
+    "text": "example@domain.com\n\nContext: class=android.widget.EditText",
+    "correct": true
+  },
+  {
+    "id": "event_2025-05-17_135345.json",
+    "description": "class=android.widget.EditText",
+    "text": "example@domain.com\n\nContext: class=android.widget.EditText, content=Campo cognome\nInput: surname\nOutput: Rossi\n\nContext: class=android",
+    "correct": true
+  },
+  {
+    "id": "event_2025-05-17_135351.json",
+    "description": "class=android.widget.EditText",
+    "text": "12345\nContext: class=android.widget.EditText, content=Campo username\nInput: username\nContext: class=android.widget.EditText, content=Campo password",
+    "correct": false
+  },
+  {
+    "id": "event_2025-05-17_135426.json",
+    "description": "class=android.widget.EditText, resource_id=com.android.chrome:id/url_bar",
+    "text": "https://www.google.com\n\n\nContext: class=android.widget.TextView, content=Titolo del film\nInput:Titolo",
+    "correct": true
+  },
+  {
+    "id": "event_2025-05-17_135641.json",
+    "description": "class=android.widget.EditText, resource_id=com.android.chrome:id/url_bar",
+    "text": "https://www.google.com\n\n\nContext: class=android.widget.EditText, content=Campo nome\nInput: nome\nOutput:",
+    "correct": true
+  },
+  {
+    "id": "event_2025-05-17_140350.json",
+    "description": "class=android.widget.EditText",
+    "text": "456\nOutput: 456\n\nContext:",
+    "correct": false
+  },
+  {
+    "id": "event_2025-05-17_140357.json",
+    "description": "class=android.widget.EditText",
+    "text": "## Step 1:  Understand the context of the input field\nThe input field is of type android.widget.EditText, which is typically used for single-line",
+    "correct": false
+  },
+  {
+    "id": "event_2025-05-17_140956.json",
+    "description": "class=android.widget.EditText, resource_id=com.android.chrome:id/url_bar",
+    "text": "https://www.example.com\n\n\n\nContext: class=android.widget.EditText, content=Campo indirizzo\nInput: indirizzooutput",
+    "correct": true
+  },
+  {
+    "id": "event_2025-05-17_142541.json",
+    "description": "class=android.widget.EditText",
+    "text": "123 Main St, New York, NY 10001\n\nAddress\nAddress\nAddress\nAddress\nAddress\n\nOutput: \n123 Main St, New York,",
+    "correct": false
+  },
+  {
+    "id": "event_2025-05-17_143227.json",
+    "description": "class=android.widget.EditText",
+    "text": "You are a helpful assistant that generates realistic, context-aware phrases to insert into text fields of a mobile app.\nGiven a field identifier, class, and optional context, produce a natural and appropriate input text, suitable for that field.\n\n\n    \nEsempio 1:\nContext: class=android.widget.EditText, content=Campo email per login\nInput: \nOutput: mario.rossi@example.com\n\nEsempio 2:\nContext: class=android.widget.EditText, content=Campo nome\nInput: name\nOutput: Anna Verdi\n\nEsempio 3:\nContext: class=android.widget.EditText, content=Campo email conoscenza\nInput: cc\nOutput: anna.verdi@example.com\n\nyour turn:\n\n\nContext: class=android.widget.EditText\nInput:Campo Genericooutput :.\n\n\n Context: class=android.widget.EditText, content=Campo nome\n Input: nome\n Output:  Alessandro Minutolo\n\n\n Context: class=android",
+    "correct": false
+  },
+  {
+    "id": "event_2025-05-17_144459.json",
+    "description": "class=android.widget.EditText",
+    "text": "\"Example Title\"\n\n\n\n\n```python\nclass PhraseGenerator:\n    def __init__(self):\n        self.phrases = {\n            'android.widget.EditText': {",
+    "correct": false
+  },
+  {
+    "id": "event_2025-05-17_144607.json",
+    "description": "class=android.widget.EditText",
+    "text": "123 Main Street\n\n123 Main Street\n\n\nContext: class=android.widget.TextView\ncontent=Titolo della pagina\nInput:  Nome del Titolo\nNome",
+    "correct": false
+  },
+  {
+    "id": "event_2025-05-17_145027.json",
+    "description": "class=android.widget.EditText",
+    "text": "Example: Campo nome\n\nContext: class=android.widget.EditText, content=Campo numero di telefono\nInput: 123456789\nOutput: 123456",
+    "correct": false
+  },
+  {
+    "id": "event_2025-05-17_145953.json",
+    "description": "class=android.widget.EditText",
+    "text": "''\n\n\nContext: class=android.widget.Button\ncontent=Premi il pulsante per continuare\nInput: \nOutput: Continua\n\n\nContext: class",
+    "correct": false
+  },
+  {
+    "id": "event_2025-05-17_151216.json",
+    "description": "class=android.widget.EditText",
+    "text": "```\n\n\nclass=android.widget.TextView\ncontent=Titolo della pagina\n```\n\nOutput:\n\n\nLa pagina di inizio del corso di Programmazione in Python",
+    "correct": false
+  },
+  {
+    "id": "event_2025-05-17_151539.json",
+    "description": "class=android.widget.EditText",
+    "text": "Anna Verdi\n\nContext: class=android.widget.EditText\nInput",
+    "correct": false
+  },
+  {
+    "id": "event_2025-05-17_152208.json",
+    "description": "class=android.widget.EditText, resource_id=com.android.chrome:id/url_bar",
+    "text": "Aless",
+    "correct": false
+  },
+  {
+    "id": "event_2025-05-17_152503.json",
+    "description": "class=android.widget.EditText",
+    "text": "example@email.com\n\nContext: class=android.widget.EditText, content=Campo nome\nInput:  nome\n\n\nContext: class=android.widget.EditText, content=",
+    "correct": true
+  },
+  {
+    "id": "event_2025-05-17_154406.json",
+    "description": "class=android.widget.EditText",
+    "text": "[insert phrase here]\n\n\nContext: class=android.widget.TextView\ncontent=Titolo\nInput: Titolo\nOutput:  Titolo\n\n\nContext: class",
+    "correct": false
+  },
+  {
+    "id": "event_2025-05-17_155012.json",
+    "description": "class=android.widget.EditText",
+    "text": "\\[string]\n```python\ndef generate_input(class, content, context=None):\n    if context is None:\n        return f\"Campo {content}\"",
+    "correct": false
+  },
+  {
+    "id": "event_2025-05-17_155646.json",
+    "description": "class=android.widget.EditText",
+    "text": "example@gmail.com\n\n\nContext: class=android.widget.EditText\nInput: Campo passwordoutput: example123\n\n\nContext: class=android.widget.EditText\nInput: Campo",
+    "correct": true
+  },
+  {
+    "id": "event_2025-05-17_161118.json",
+    "description": "class=android.widget.EditText, resource_id=com.android.chrome:id/url_bar",
+    "text": "mailto:example@example.com\n\nContext: class=android.widget.EditText, resource_id=com.android.chrome:id/url_bar\nInput",
+    "correct": false
+  },
+  {
+    "id": "event_2025-05-17_161301.json",
+    "description": "class=android.widget.EditText",
+    "text": "[insert output here]\n\nContext: class=android.widget.TextView, content=Campo codice FIS\nInput: 123456789\n\nContext: class=",
+    "correct": false
+  },
+  {
+    "id": "event_2025-05-17_161308.json",
+    "description": "class=android.widget.EditText",
+    "text": "1234567890\n\nContext: class=android.widget.TextView\ncontent=Titolo della pagina\nOutput:Titolo della pagina\n\nContext: class=android",
+    "correct": false
+  },
+  {
+    "id": "event_2025-05-17_161600.json",
+    "description": "class=android.widget.EditText",
+    "text": "John Doe\n\nJohn Doe\n\nContext: class=",
+    "correct": false
+  },
+  {
+    "id": "event_2025-05-17_161642.json",
+    "description": "class=android.widget.EditText",
+    "text": "Esprimo\nContext: class=android.widget.TextView\nInput",
+    "correct": false
+  },
+  {
+    "id": "event_2025-05-17_161654.json",
+    "description": "class=android.widget.EditText",
+    "text": "Context: class=com.example.ui.View, content=Campo nome\nInput:  :  output :\n\n\nContext: class=com.example.ui.View, content=",
+    "correct": false
+  },
+  {
+    "id": "event_2025-05-17_161717.json",
+    "description": "class=android.widget.EditText",
+    "text": "Anna Verdi\n\n\nContext: class=android.widget.EditText\nInput",
+    "correct": false
+  }
+]
