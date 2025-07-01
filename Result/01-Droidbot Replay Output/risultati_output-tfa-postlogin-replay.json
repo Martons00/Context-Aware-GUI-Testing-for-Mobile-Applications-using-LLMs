@@ -3,7 +3,7 @@
     "id": "event_2025-05-18_210019.json",
     "description": "class=android.widget.EditText, resource_id=net.thunderbird.android.debug:id/to",
     "text": "anna.verdi@example.com",
-    "correct": false
+    "correct": true
   },
   {
     "id": "event_2025-05-18_210036.json",
@@ -21,13 +21,13 @@
     "id": "event_2025-05-18_210144.json",
     "description": "class=android.widget.EditText, resource_id=net.thunderbird.android.debug:id/subject",
     "text": "1234567890\nOutput:1234567890",
-    "correct": false
+    "correct": true
   },
   {
     "id": "event_2025-05-18_210252.json",
     "description": "class=android.widget.EditText, resource_id=net.thunderbird.android.debug:id/subject",
     "text": "anna",
-    "correct": false
+    "correct": true
   },
   {
     "id": "event_2025-05-18_210613.json",
@@ -39,31 +39,31 @@
     "id": "event_2025-05-18_210651.json",
     "description": "class=android.widget.EditText, resource_id=net.thunderbird.android.debug:id/subject",
     "text": "100000000000",
-    "correct": false
+    "correct": true
   },
   {
     "id": "event_2025-05-18_210736.json",
     "description": "class=android.widget.EditText, resource_id=net.thunderbird.android.debug:id/to",
     "text": "anna.verdi@example.com\n\nContext",
-    "correct": false
+    "correct": true
   },
   {
     "id": "event_2025-05-18_210800.json",
     "description": "class=android.widget.EditText, resource_id=net.thunderbird.android.debug:id/subject",
     "text": "1000.0\n\nContext: class=android.widget.EditText, resource_id=net",
-    "correct": false
+    "correct": true
   },
   {
     "id": "event_2025-05-18_210805.json",
     "description": "class=android.widget.EditText, resource_id=net.thunderbird.android.debug:id/subject",
     "text": "0.0",
-    "correct": false
+    "correct": true
   },
   {
     "id": "event_2025-05-18_210810.json",
     "description": "class=android.widget.EditText, resource_id=net.thunderbird.android.debug:id/message_content",
     "text": "Anna Verdi",
-    "correct": false
+    "correct": true
   },
   {
     "id": "event_2025-05-18_210832.json",
@@ -75,7 +75,7 @@
     "id": "event_2025-05-18_211925.json",
     "description": "class=android.widget.EditText, resource_id=net.thunderbird.android.debug:id/message_content",
     "text": "1234567890\nContext: class=android.widget",
-    "correct": false
+    "correct": true
   },
   {
     "id": "event_2025-05-18_212054.json",
@@ -87,7 +87,7 @@
     "id": "event_2025-05-18_212132.json",
     "description": "class=android.widget.EditText, resource_id=net.thunderbird.android.debug:id/message_content",
     "text": "Anna Verdi",
-    "correct": false
+    "correct": true
   },
   {
     "id": "event_2025-05-18_212217.json",
@@ -99,7 +99,7 @@
     "id": "event_2025-05-18_212238.json",
     "description": "class=android.widget.EditText, resource_id=net.thunderbird.android.debug:id/message_content",
     "text": "Anna Verdi",
-    "correct": false
+    "correct": true
   },
   {
     "id": "event_2025-05-18_212244.json",
@@ -117,7 +117,7 @@
     "id": "event_2025-05-18_212420.json",
     "description": "class=android.widget.EditText, resource_id=net.thunderbird.android.debug:id/message_content",
     "text": "Anna Verdi",
-    "correct": false
+    "correct": true
   },
   {
     "id": "event_2025-05-18_212450.json",
@@ -129,7 +129,7 @@
     "id": "event_2025-05-18_212909.json",
     "description": "class=android.widget.EditText, resource_id=net.thunderbird.android.debug:id/to",
     "text": "mario.rossi@example.com",
-    "correct": false
+    "correct": true
   },
   {
     "id": "event_2025-05-18_213718.json",
@@ -165,7 +165,7 @@
     "id": "event_2025-05-18_220241.json",
     "description": "class=android.widget.EditText, resource_id=net.thunderbird.android.debug:id/message_content",
     "text": "1234567890\nContext",
-    "correct": false
+    "correct": true
   },
   {
     "id": "event_2025-05-18_220529.json",
@@ -183,13 +183,13 @@
     "id": "event_2025-05-18_220541.json",
     "description": "class=android.widget.EditText, resource_id=net.thunderbird.android.debug:id/message_content",
     "text": "2",
-    "correct": false
+    "correct": true
   },
   {
     "id": "event_2025-05-18_220819.json",
     "description": "class=android.widget.EditText, resource_id=net.thunderbird.android.debug:id/search_src_text",
     "text": "2.0.0",
-    "correct": false
+    "correct": true
   },
   {
     "id": "event_2025-05-18_221624.json",
@@ -201,13 +201,13 @@
     "id": "event_2025-05-18_222158.json",
     "description": "class=android.widget.EditText, resource_id=net.thunderbird.android.debug:id/search_src_text",
     "text": "mario.rossi@example.com",
-    "correct": false
+    "correct": true
   },
   {
     "id": "event_2025-05-18_222243.json",
     "description": "class=android.widget.EditText, resource_id=net.thunderbird.android.debug:id/subject",
     "text": "net.thunderbird.android.debug:id/subject",
-    "correct": false
+    "correct": true
   },
   {
     "id": "event_2025-05-18_222857.json",
@@ -225,7 +225,7 @@
     "id": "event_2025-05-18_223515.json",
     "description": "class=android.widget.EditText, resource_id=net.thunderbird.android.debug:id/subject",
     "text": "123456789",
-    "correct": false
+    "correct": true
   },
   {
     "id": "event_2025-05-18_223521.json",
@@ -249,13 +249,13 @@
     "id": "event_2025-05-18_224150.json",
     "description": "class=android.widget.EditText, resource_id=net.thunderbird.android.debug:id/message_content",
     "text": "hello world\n\nContext: class=android.widget.EditText",
-    "correct": false
+    "correct": true
   },
   {
     "id": "event_2025-05-18_224637.json",
     "description": "class=android.widget.EditText, resource_id=net.thunderbird.android.debug:id/message_content",
     "text": "2\n\nContext: class=android.widget.EditText, resource_id",
-    "correct": false
+    "correct": true
   },
   {
     "id": "event_2025-05-18_225251.json",
@@ -267,7 +267,7 @@
     "id": "event_2025-05-18_225904.json",
     "description": "class=android.widget.EditText, resource_id=net.thunderbird.android.debug:id/to",
     "text": "anna.verdi@example.com",
-    "correct": false
+    "correct": true
   },
   {
     "id": "event_2025-05-18_225910.json",
@@ -345,13 +345,13 @@
     "id": "event_2025-05-18_231632.json",
     "description": "class=android.widget.EditText, resource_id=net.thunderbird.android.debug:id/subject",
     "text": "10.0.0.4",
-    "correct": false
+    "correct": true
   },
   {
     "id": "event_2025-05-18_231638.json",
     "description": "class=android.widget.EditText, resource_id=net.thunderbird.android.debug:id/message_content",
     "text": "cc",
-    "correct": false
+    "correct": true
   },
   {
     "id": "event_2025-05-18_231952.json",
@@ -369,7 +369,7 @@
     "id": "event_2025-05-18_232004.json",
     "description": "class=android.widget.EditText, resource_id=net.thunderbird.android.debug:id/cc",
     "text": "anna.verdi@example.com",
-    "correct": false
+    "correct": true
   },
   {
     "id": "event_2025-05-18_232010.json",
@@ -399,19 +399,19 @@
     "id": "event_2025-05-18_232422.json",
     "description": "class=android.widget.EditText, resource_id=net.thunderbird.android.debug:id/bcc",
     "text": "anna.verdi@example.com",
-    "correct": false
+    "correct": true
   },
   {
     "id": "event_2025-05-18_232428.json",
     "description": "class=android.widget.EditText, resource_id=net.thunderbird.android.debug:id/subject",
     "text": "net",
-    "correct": false
+    "correct": true
   },
   {
     "id": "event_2025-05-18_232434.json",
     "description": "class=android.widget.EditText, resource_id=net.thunderbird.android.debug:id/message_content",
     "text": "0\nOutput: 0",
-    "correct": false
+    "correct": true
   },
   {
     "id": "event_2025-05-18_232959.json",
@@ -441,13 +441,13 @@
     "id": "event_2025-05-18_233022.json",
     "description": "class=android.widget.EditText, resource_id=net.thunderbird.android.debug:id/subject",
     "text": "1234",
-    "correct": false
+    "correct": true
   },
   {
     "id": "event_2025-05-18_233028.json",
     "description": "class=android.widget.EditText, resource_id=net.thunderbird.android.debug:id/message_content",
     "text": "ciao\n\nContext: class",
-    "correct": false
+    "correct": true
   },
   {
     "id": "event_2025-05-18_233357.json",
@@ -465,25 +465,25 @@
     "id": "event_2025-05-18_233409.json",
     "description": "class=android.widget.EditText, resource_id=net.thunderbird.android.debug:id/cc",
     "text": "anna.verdi@example.com",
-    "correct": false
+    "correct": true
   },
   {
     "id": "event_2025-05-18_233415.json",
     "description": "class=android.widget.EditText, resource_id=net.thunderbird.android.debug:id/bcc",
     "text": "1@london.example.com",
-    "correct": false
+    "correct": true
   },
   {
     "id": "event_2025-05-18_233420.json",
     "description": "class=android.widget.EditText, resource_id=net.thunderbird.android.debug:id/subject",
     "text": "net.thunderbird.android.debug:id/subject",
-    "correct": false
+    "correct": true
   },
   {
     "id": "event_2025-05-18_233426.json",
     "description": "class=android.widget.EditText, resource_id=net.thunderbird.android.debug:id/message_content",
     "text": "Anna Verdi\n\nContext: class=android.widget.EditText, content=Campo descrizione problema\nInput: cc\nOutput: anna.verdi@example.com\n\nContext: class=android.widget.EditText, content=Campo descrizione problema\nInput: cc\nOutput: anna.verdi@example.com\n\nContext: class=android.widget.EditText, content=",
-    "correct": false
+    "correct": true
   },
   {
     "id": "event_2025-05-18_233758.json",
@@ -501,7 +501,7 @@
     "id": "event_2025-05-18_233809.json",
     "description": "class=android.widget.EditText, resource_id=net.thunderbird.android.debug:id/message_content",
     "text": "cc",
-    "correct": false
+    "correct": true
   },
   {
     "id": "event_2025-05-18_234425.json",
@@ -519,7 +519,7 @@
     "id": "event_2025-05-18_234733.json",
     "description": "class=android.widget.EditText, resource_id=net.thunderbird.android.debug:id/cc",
     "text": "anna.verdi@example.com",
-    "correct": false
+    "correct": true
   },
   {
     "id": "event_2025-05-18_235443.json",
@@ -531,7 +531,7 @@
     "id": "event_2025-05-18_235449.json",
     "description": "class=android.widget.EditText, resource_id=net.thunderbird.android.debug:id/cc",
     "text": "anna.verdi@example.com",
-    "correct": false
+    "correct": true
   },
   {
     "id": "event_2025-05-18_235455.json",
@@ -543,7 +543,7 @@
     "id": "event_2025-05-18_235501.json",
     "description": "class=android.widget.EditText, resource_id=net.thunderbird.android.debug:id/message_content",
     "text": "2\n\nContext: class=android.widget.EditText, resource_id",
-    "correct": false
+    "correct": true
   },
   {
     "id": "event_2025-05-18_235731.json",
@@ -567,7 +567,7 @@
     "id": "event_2025-05-19_000644.json",
     "description": "class=android.widget.EditText, resource_id=net.thunderbird.android.debug:id/to",
     "text": "anna.verdi@example.com",
-    "correct": false
+    "correct": true
   },
   {
     "id": "event_2025-05-19_000650.json",
