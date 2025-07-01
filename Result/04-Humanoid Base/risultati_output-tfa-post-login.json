@@ -3,7 +3,7 @@
     "id": "event_2025-07-01_121839.json",
     "description": "class=android.widget.AutoCompleteTextView, resource_id=com.fsck.k9.debug:id/search_src_text",
     "text": "1985-03-20",
-    "correct": false
+    "correct": true
   },
   {
     "id": "event_2025-07-01_122336.json",
@@ -33,7 +33,7 @@
     "id": "event_2025-07-01_122503.json",
     "description": "class=android.widget.AutoCompleteTextView, resource_id=com.fsck.k9.debug:id/reply_to",
     "text": "appcrawler4@gmail.com",
-    "correct": false
+    "correct": true
   },
   {
     "id": "event_2025-07-01_122514.json",
@@ -45,7 +45,7 @@
     "id": "event_2025-07-01_122559.json",
     "description": "class=android.widget.AutoCompleteTextView, resource_id=com.fsck.k9.debug:id/cc",
     "text": "appcrawler5@gmail.com",
-    "correct": false
+    "correct": true
   },
   {
     "id": "event_2025-07-01_122604.json",
@@ -63,7 +63,7 @@
     "id": "event_2025-07-01_122621.json",
     "description": "class=android.widget.AutoCompleteTextView, resource_id=com.fsck.k9.debug:id/cc",
     "text": "appcrawler6@gmail.com",
-    "correct": false
+    "correct": true
   },
   {
     "id": "event_2025-07-01_123040.json",
@@ -75,13 +75,13 @@
     "id": "event_2025-07-01_123237.json",
     "description": "class=android.widget.EditText, resource_id=com.fsck.k9.debug:id/subject",
     "text": "f",
-    "correct": false
+    "correct": true
   },
   {
     "id": "event_2025-07-01_123246.json",
     "description": "class=android.widget.EditText, resource_id=com.fsck.k9.debug:id/subject",
     "text": "f",
-    "correct": false
+    "correct": true
   },
   {
     "id": "event_2025-07-01_123251.json",
@@ -99,37 +99,37 @@
     "id": "event_2025-07-01_123426.json",
     "description": "class=android.widget.AutoCompleteTextView, resource_id=com.fsck.k9.debug:id/cc",
     "text": "appcrawler3@gmail.com",
-    "correct": false
+    "correct": true
   },
   {
     "id": "event_2025-07-01_123625.json",
     "description": "class=android.widget.EditText, resource_id=com.fsck.k9.debug:id/subject",
     "text": "4153402067",
-    "correct": false
+    "correct": true
   },
   {
     "id": "event_2025-07-01_123635.json",
     "description": "class=android.widget.EditText, resource_id=com.fsck.k9.debug:id/subject",
     "text": "f",
-    "correct": false
+    "correct": true
   },
   {
     "id": "event_2025-07-01_123654.json",
     "description": "class=android.widget.EditText, resource_id=com.fsck.k9.debug:id/message_content",
     "text": "f",
-    "correct": false
+    "correct": true
   },
   {
     "id": "event_2025-07-01_123704.json",
     "description": "class=android.widget.EditText, resource_id=com.fsck.k9.debug:id/message_content",
     "text": "f",
-    "correct": false
+    "correct": true
   },
   {
     "id": "event_2025-07-01_123752.json",
     "description": "class=android.widget.EditText, resource_id=com.fsck.k9.debug:id/message_content",
     "text": "Raphael",
-    "correct": false
+    "correct": true
   },
   {
     "id": "event_2025-07-01_124019.json",
@@ -165,7 +165,7 @@
     "id": "event_2025-07-01_124150.json",
     "description": "class=android.widget.EditText, resource_id=com.fsck.k9.debug:id/subject",
     "text": "4155791638",
-    "correct": false
+    "correct": true
   },
   {
     "id": "event_2025-07-01_124200.json",
@@ -195,7 +195,7 @@
     "id": "event_2025-07-01_124231.json",
     "description": "class=android.widget.AutoCompleteTextView, resource_id=com.fsck.k9.debug:id/to",
     "text": "appcrawler6@gmail.com",
-    "correct": false
+    "correct": true
   },
   {
     "id": "event_2025-07-01_124241.json",
@@ -213,7 +213,7 @@
     "id": "event_2025-07-01_124420.json",
     "description": "class=android.widget.EditText, resource_id=com.fsck.k9.debug:id/message_content",
     "text": "appcrawler6@gmail.com",
-    "correct": false
+    "correct": true
   },
   {
     "id": "event_2025-07-01_124437.json",
@@ -231,13 +231,13 @@
     "id": "event_2025-07-01_124601.json",
     "description": "class=android.widget.AutoCompleteTextView, resource_id=com.fsck.k9.debug:id/to",
     "text": "appcrawler2@gmail.com",
-    "correct": false
+    "correct": true
   },
   {
     "id": "event_2025-07-01_124657.json",
     "description": "class=android.widget.EditText, resource_id=com.fsck.k9.debug:id/message_content",
     "text": "4153402067",
-    "correct": false
+    "correct": true
   },
   {
     "id": "event_2025-07-01_124707.json",
@@ -261,43 +261,43 @@
     "id": "event_2025-07-01_124947.json",
     "description": "class=android.widget.EditText, resource_id=com.fsck.k9.debug:id/subject",
     "text": "f",
-    "correct": false
+    "correct": true
   },
   {
     "id": "event_2025-07-01_124957.json",
     "description": "class=android.widget.EditText, resource_id=com.fsck.k9.debug:id/subject",
     "text": "f",
-    "correct": false
+    "correct": true
   },
   {
     "id": "event_2025-07-01_125009.json",
     "description": "class=android.widget.EditText, resource_id=com.fsck.k9.debug:id/message_content",
     "text": "f",
-    "correct": false
+    "correct": true
   },
   {
     "id": "event_2025-07-01_125019.json",
     "description": "class=android.widget.EditText, resource_id=com.fsck.k9.debug:id/message_content",
     "text": "f",
-    "correct": false
+    "correct": true
   },
   {
     "id": "event_2025-07-01_125109.json",
     "description": "class=android.widget.EditText, resource_id=com.fsck.k9.debug:id/message_content",
     "text": "4153402067",
-    "correct": false
+    "correct": true
   },
   {
     "id": "event_2025-07-01_125126.json",
     "description": "class=android.widget.EditText, resource_id=com.fsck.k9.debug:id/message_content",
     "text": "f",
-    "correct": false
+    "correct": true
   },
   {
     "id": "event_2025-07-01_125210.json",
     "description": "class=android.widget.EditText, resource_id=com.fsck.k9.debug:id/message_content",
     "text": "Boston, MA (02108)",
-    "correct": false
+    "correct": true
   },
   {
     "id": "event_2025-07-01_125220.json",
@@ -315,7 +315,7 @@
     "id": "event_2025-07-01_125240.json",
     "description": "class=android.widget.EditText, resource_id=com.fsck.k9.debug:id/message_content",
     "text": "f",
-    "correct": false
+    "correct": true
   },
   {
     "id": "event_2025-07-01_125329.json",
@@ -345,13 +345,13 @@
     "id": "event_2025-07-01_125437.json",
     "description": "class=android.widget.EditText, resource_id=com.fsck.k9.debug:id/subject",
     "text": "4153402067",
-    "correct": false
+    "correct": true
   },
   {
     "id": "event_2025-07-01_125447.json",
     "description": "class=android.widget.EditText, resource_id=com.fsck.k9.debug:id/subject",
     "text": "f",
-    "correct": false
+    "correct": true
   },
   {
     "id": "event_2025-07-01_125528.json",
@@ -363,13 +363,13 @@
     "id": "event_2025-07-01_125533.json",
     "description": "class=android.widget.EditText, resource_id=com.fsck.k9.debug:id/subject",
     "text": "vets san franci",
-    "correct": false
+    "correct": true
   },
   {
     "id": "event_2025-07-01_125543.json",
     "description": "class=android.widget.EditText, resource_id=com.fsck.k9.debug:id/subject",
     "text": "f",
-    "correct": false
+    "correct": true
   },
   {
     "id": "event_2025-07-01_125628.json",
@@ -381,13 +381,13 @@
     "id": "event_2025-07-01_125633.json",
     "description": "class=android.widget.EditText, resource_id=com.fsck.k9.debug:id/subject",
     "text": "local news",
-    "correct": false
+    "correct": true
   },
   {
     "id": "event_2025-07-01_125643.json",
     "description": "class=android.widget.EditText, resource_id=com.fsck.k9.debug:id/subject",
     "text": "f",
-    "correct": false
+    "correct": true
   },
   {
     "id": "event_2025-07-01_125809.json",
@@ -399,13 +399,13 @@
     "id": "event_2025-07-01_125814.json",
     "description": "class=android.widget.EditText, resource_id=com.fsck.k9.debug:id/subject",
     "text": "Crowd3116",
-    "correct": false
+    "correct": true
   },
   {
     "id": "event_2025-07-01_125825.json",
     "description": "class=android.widget.EditText, resource_id=com.fsck.k9.debug:id/subject",
     "text": "Crowd3116",
-    "correct": false
+    "correct": true
   },
   {
     "id": "event_2025-07-01_125835.json",
@@ -417,25 +417,25 @@
     "id": "event_2025-07-01_125840.json",
     "description": "class=android.widget.EditText, resource_id=com.fsck.k9.debug:id/message_content",
     "text": "-- \nSent from my Android device with Email Mail. Please excuse my brevity.",
-    "correct": false
+    "correct": true
   },
   {
     "id": "event_2025-07-01_125852.json",
     "description": "class=android.widget.EditText, resource_id=com.fsck.k9.debug:id/message_content",
     "text": "Crowd3116",
-    "correct": false
+    "correct": true
   },
   {
     "id": "event_2025-07-01_125902.json",
     "description": "class=android.widget.EditText, resource_id=com.fsck.k9.debug:id/message_content",
     "text": "Crowd3116",
-    "correct": false
+    "correct": true
   },
   {
     "id": "event_2025-07-01_125907.json",
     "description": "class=android.widget.EditText, resource_id=com.fsck.k9.debug:id/message_content",
     "text": "-- \nSent from my Android device with Email Mail. Please excuse my brevity.",
-    "correct": false
+    "correct": true
   },
   {
     "id": "event_2025-07-01_125912.json",
@@ -453,25 +453,25 @@
     "id": "event_2025-07-01_125930.json",
     "description": "class=android.widget.EditText, resource_id=com.fsck.k9.debug:id/message_content",
     "text": "appcrawler6@gmail.com",
-    "correct": false
+    "correct": true
   },
   {
     "id": "event_2025-07-01_125945.json",
     "description": "class=android.widget.EditText, resource_id=com.fsck.k9.debug:id/subject",
     "text": "Sam Brown",
-    "correct": false
+    "correct": true
   },
   {
     "id": "event_2025-07-01_130113.json",
     "description": "class=android.widget.EditText, resource_id=com.fsck.k9.debug:id/subject",
     "text": "Encode teaches coding with interactive programming lessons. Run the code in the code editor by tapping the tick icon.",
-    "correct": false
+    "correct": true
   },
   {
     "id": "event_2025-07-01_130126.json",
     "description": "class=android.widget.EditText, resource_id=com.fsck.k9.debug:id/subject",
     "text": "Encode teaches coding with interactive programming lessons. Run the code in the code editor by tapping the tick icon.",
-    "correct": false
+    "correct": true
   },
   {
     "id": "event_2025-07-01_130147.json",
@@ -489,19 +489,19 @@
     "id": "event_2025-07-01_130306.json",
     "description": "class=android.widget.EditText, resource_id=com.fsck.k9.debug:id/message_content",
     "text": "4884",
-    "correct": false
+    "correct": true
   },
   {
     "id": "event_2025-07-01_130311.json",
     "description": "class=android.widget.EditText, resource_id=com.fsck.k9.debug:id/subject",
     "text": "415-579-1638",
-    "correct": false
+    "correct": true
   },
   {
     "id": "event_2025-07-01_130331.json",
     "description": "class=android.widget.EditText, resource_id=com.fsck.k9.debug:id/message_content",
     "text": "Brown",
-    "correct": false
+    "correct": true
   },
   {
     "id": "event_2025-07-01_130346.json",
@@ -513,13 +513,13 @@
     "id": "event_2025-07-01_130653.json",
     "description": "class=android.widget.AutoCompleteTextView, resource_id=com.fsck.k9.debug:id/to",
     "text": "appcrawler6@gmail.com",
-    "correct": false
+    "correct": true
   },
   {
     "id": "event_2025-07-01_130703.json",
     "description": "class=android.widget.AutoCompleteTextView, resource_id=com.fsck.k9.debug:id/to",
     "text": "appcrawler6@gmail.com",
-    "correct": false
+    "correct": true
   },
   {
     "id": "event_2025-07-01_130713.json",
@@ -531,7 +531,7 @@
     "id": "event_2025-07-01_130723.json",
     "description": "class=android.widget.AutoCompleteTextView, resource_id=com.fsck.k9.debug:id/to",
     "text": "appcrawler6@gmail.com",
-    "correct": false
+    "correct": true
   },
   {
     "id": "event_2025-07-01_130738.json",
@@ -543,7 +543,7 @@
     "id": "event_2025-07-01_130819.json",
     "description": "class=android.widget.AutoCompleteTextView, resource_id=com.fsck.k9.debug:id/cc",
     "text": "appcrawler6@gmail.com",
-    "correct": false
+    "correct": true
   },
   {
     "id": "event_2025-07-01_130838.json",
@@ -561,25 +561,25 @@
     "id": "event_2025-07-01_130859.json",
     "description": "class=android.widget.EditText, resource_id=com.fsck.k9.debug:id/message_content",
     "text": "f",
-    "correct": false
+    "correct": true
   },
   {
     "id": "event_2025-07-01_130945.json",
     "description": "class=android.widget.EditText, resource_id=com.fsck.k9.debug:id/subject",
     "text": "New Orleans, LA (70130)",
-    "correct": false
+    "correct": true
   },
   {
     "id": "event_2025-07-01_130955.json",
     "description": "class=android.widget.EditText, resource_id=com.fsck.k9.debug:id/subject",
     "text": "f",
-    "correct": false
+    "correct": true
   },
   {
     "id": "event_2025-07-01_131036.json",
     "description": "class=android.widget.EditText, resource_id=com.fsck.k9.debug:id/subject",
     "text": "Encode teaches coding with interactive programming lessons. Run the code in the code editor by tapping the tick icon.",
-    "correct": false
+    "correct": true
   },
   {
     "id": "event_2025-07-01_131041.json",
@@ -597,61 +597,61 @@
     "id": "event_2025-07-01_131122.json",
     "description": "class=android.widget.AutoCompleteTextView, resource_id=com.fsck.k9.debug:id/reply_to",
     "text": "appcrawler5@gmail.com",
-    "correct": false
+    "correct": true
   },
   {
     "id": "event_2025-07-01_131524.json",
     "description": "class=android.widget.EditText, resource_id=com.fsck.k9.debug:id/subject",
     "text": "$500",
-    "correct": false
+    "correct": true
   },
   {
     "id": "event_2025-07-01_131534.json",
     "description": "class=android.widget.EditText, resource_id=com.fsck.k9.debug:id/subject",
     "text": "nice",
-    "correct": false
+    "correct": true
   },
   {
     "id": "event_2025-07-01_131545.json",
     "description": "class=android.widget.EditText, resource_id=com.fsck.k9.debug:id/subject",
     "text": "nice",
-    "correct": false
+    "correct": true
   },
   {
     "id": "event_2025-07-01_131555.json",
     "description": "class=android.widget.EditText, resource_id=com.fsck.k9.debug:id/message_content",
     "text": "nice",
-    "correct": false
+    "correct": true
   },
   {
     "id": "event_2025-07-01_131605.json",
     "description": "class=android.widget.EditText, resource_id=com.fsck.k9.debug:id/message_content",
     "text": "nice",
-    "correct": false
+    "correct": true
   },
   {
     "id": "event_2025-07-01_131610.json",
     "description": "class=android.widget.EditText, resource_id=com.fsck.k9.debug:id/subject",
     "text": "$500",
-    "correct": false
+    "correct": true
   },
   {
     "id": "event_2025-07-01_131621.json",
     "description": "class=android.widget.EditText, resource_id=com.fsck.k9.debug:id/subject",
     "text": "$500",
-    "correct": false
+    "correct": true
   },
   {
     "id": "event_2025-07-01_131626.json",
     "description": "class=android.widget.EditText, resource_id=com.fsck.k9.debug:id/message_content",
     "text": "$500",
-    "correct": false
+    "correct": true
   },
   {
     "id": "event_2025-07-01_131637.json",
     "description": "class=android.widget.EditText, resource_id=com.fsck.k9.debug:id/message_content",
     "text": "$500",
-    "correct": false
+    "correct": true
   },
   {
     "id": "event_2025-07-01_131649.json",
@@ -663,13 +663,13 @@
     "id": "event_2025-07-01_131654.json",
     "description": "class=android.widget.EditText, resource_id=com.fsck.k9.debug:id/message_content",
     "text": "Hey! You've absolutely got to try this app",
-    "correct": false
+    "correct": true
   },
   {
     "id": "event_2025-07-01_131714.json",
     "description": "class=android.widget.EditText, resource_id=com.fsck.k9.debug:id/message_content",
     "text": "appcrawler5@gmail.com",
-    "correct": false
+    "correct": true
   },
   {
     "id": "event_2025-07-01_131805.json",
@@ -687,13 +687,13 @@
     "id": "event_2025-07-01_132425.json",
     "description": "class=android.widget.AutoCompleteTextView, resource_id=com.fsck.k9.debug:id/to",
     "text": "appcrawler3@gmail.com",
-    "correct": false
+    "correct": true
   },
   {
     "id": "event_2025-07-01_132430.json",
     "description": "class=android.widget.AutoCompleteTextView, resource_id=com.fsck.k9.debug:id/to",
     "text": "appcrawler4@gmail.com",
-    "correct": false
+    "correct": true
   },
   {
     "id": "event_2025-07-01_132436.json",
@@ -741,13 +741,13 @@
     "id": "event_2025-07-01_132726.json",
     "description": "class=android.widget.EditText, resource_id=com.fsck.k9.debug:id/subject",
     "text": "Sam Brown",
-    "correct": false
+    "correct": true
   },
   {
     "id": "event_2025-07-01_132858.json",
     "description": "class=android.widget.EditText, resource_id=com.fsck.k9.debug:id/quoted_text",
     "text": "Oklahoma City, OK (73102)",
-    "correct": false
+    "correct": true
   },
   {
     "id": "event_2025-07-01_132903.json",
@@ -759,31 +759,31 @@
     "id": "event_2025-07-01_132918.json",
     "description": "class=android.widget.EditText, resource_id=com.fsck.k9.debug:id/quoted_text",
     "text": "appcrawler2",
-    "correct": false
+    "correct": true
   },
   {
     "id": "event_2025-07-01_132954.json",
     "description": "class=android.widget.AutoCompleteTextView, resource_id=com.fsck.k9.debug:id/bcc",
     "text": "appcrawler1@gmail.com",
-    "correct": false
+    "correct": true
   },
   {
     "id": "event_2025-07-01_133010.json",
     "description": "class=android.widget.EditText, resource_id=com.fsck.k9.debug:id/message_content",
     "text": "Sam Brown",
-    "correct": false
+    "correct": true
   },
   {
     "id": "event_2025-07-01_133130.json",
     "description": "class=android.widget.EditText, resource_id=com.fsck.k9.debug:id/subject",
     "text": "94101",
-    "correct": false
+    "correct": true
   },
   {
     "id": "event_2025-07-01_133145.json",
     "description": "class=android.widget.EditText, resource_id=com.fsck.k9.debug:id/message_content",
     "text": "145",
-    "correct": false
+    "correct": true
   },
   {
     "id": "event_2025-07-01_133415.json",
@@ -795,13 +795,13 @@
     "id": "event_2025-07-01_133429.json",
     "description": "class=android.widget.EditText, resource_id=com.fsck.k9.debug:id/message_content",
     "text": "BKQJYh[\\\u00a8\u00ae\u00b8\u00bd\u00ca\u00cd\u00e2\u00c2jihH^f",
-    "correct": false
+    "correct": true
   },
   {
     "id": "event_2025-07-01_133801.json",
     "description": "class=android.widget.EditText, resource_id=com.fsck.k9.debug:id/subject",
     "text": "food",
-    "correct": false
+    "correct": true
   },
   {
     "id": "event_2025-07-01_133853.json",
@@ -813,7 +813,7 @@
     "id": "event_2025-07-01_133903.json",
     "description": "class=android.widget.EditText, resource_id=com.fsck.k9.debug:id/subject",
     "text": "f",
-    "correct": false
+    "correct": true
   },
   {
     "id": "event_2025-07-01_133908.json",
@@ -873,7 +873,7 @@
     "id": "event_2025-07-01_134012.json",
     "description": "class=android.widget.EditText, resource_id=com.fsck.k9.debug:id/subject",
     "text": "4153402067",
-    "correct": false
+    "correct": true
   },
   {
     "id": "event_2025-07-01_134025.json",
@@ -885,25 +885,25 @@
     "id": "event_2025-07-01_134358.json",
     "description": "class=android.widget.EditText, resource_id=com.fsck.k9.debug:id/subject",
     "text": "pan",
-    "correct": false
+    "correct": true
   },
   {
     "id": "event_2025-07-01_134408.json",
     "description": "class=android.widget.EditText, resource_id=com.fsck.k9.debug:id/subject",
     "text": "4153402067",
-    "correct": false
+    "correct": true
   },
   {
     "id": "event_2025-07-01_134501.json",
     "description": "class=android.widget.EditText, resource_id=com.fsck.k9.debug:id/subject",
     "text": "New Orleans, LA (70130)",
-    "correct": false
+    "correct": true
   },
   {
     "id": "event_2025-07-01_134511.json",
     "description": "class=android.widget.EditText, resource_id=com.fsck.k9.debug:id/subject",
     "text": "4153402067",
-    "correct": false
+    "correct": true
   },
   {
     "id": "event_2025-07-01_134558.json",
@@ -915,13 +915,13 @@
     "id": "event_2025-07-01_134603.json",
     "description": "class=android.widget.EditText, resource_id=com.fsck.k9.debug:id/subject",
     "text": "local news",
-    "correct": false
+    "correct": true
   },
   {
     "id": "event_2025-07-01_134608.json",
     "description": "class=android.widget.EditText, resource_id=com.fsck.k9.debug:id/subject",
     "text": "4153402067",
-    "correct": false
+    "correct": true
   },
   {
     "id": "event_2025-07-01_134635.json",
@@ -951,31 +951,31 @@
     "id": "event_2025-07-01_134745.json",
     "description": "class=android.widget.AutoCompleteTextView, resource_id=com.fsck.k9.debug:id/to",
     "text": "appcrawler5@gmail.com",
-    "correct": false
+    "correct": true
   },
   {
     "id": "event_2025-07-01_134755.json",
     "description": "class=android.widget.AutoCompleteTextView, resource_id=com.fsck.k9.debug:id/to",
     "text": "appcrawler3@gmail.com",
-    "correct": false
+    "correct": true
   },
   {
     "id": "event_2025-07-01_134939.json",
     "description": "class=android.widget.AutoCompleteTextView, resource_id=com.google.android.documentsui:id/search_src_text",
     "text": "great",
-    "correct": false
+    "correct": true
   },
   {
     "id": "event_2025-07-01_135034.json",
     "description": "class=android.widget.EditText, resource_id=com.fsck.k9.debug:id/message_content",
     "text": "<android.dev@appturbo.it>, ",
-    "correct": false
+    "correct": true
   },
   {
     "id": "event_2025-07-01_135411.json",
     "description": "class=android.widget.EditText, resource_id=com.fsck.k9.debug:id/subject",
     "text": "Sam Brown",
-    "correct": false
+    "correct": true
   },
   {
     "id": "event_2025-07-01_135538.json",
@@ -1029,7 +1029,7 @@
     "id": "event_2025-07-01_135720.json",
     "description": "class=android.widget.EditText, resource_id=com.fsck.k9.debug:id/subject",
     "text": "Sam Brown",
-    "correct": false
+    "correct": true
   },
   {
     "id": "event_2025-07-01_135730.json",
@@ -1041,19 +1041,19 @@
     "id": "event_2025-07-01_140107.json",
     "description": "class=android.widget.EditText, resource_id=com.fsck.k9.debug:id/subject",
     "text": "0",
-    "correct": false
+    "correct": true
   },
   {
     "id": "event_2025-07-01_140117.json",
     "description": "class=android.widget.EditText, resource_id=com.fsck.k9.debug:id/subject",
     "text": "sdsad",
-    "correct": false
+    "correct": true
   },
   {
     "id": "event_2025-07-01_140127.json",
     "description": "class=android.widget.EditText, resource_id=com.fsck.k9.debug:id/subject",
     "text": "sdsad",
-    "correct": false
+    "correct": true
   },
   {
     "id": "event_2025-07-01_140132.json",
@@ -1095,25 +1095,25 @@
     "id": "event_2025-07-01_140235.json",
     "description": "class=android.widget.EditText, resource_id=com.fsck.k9.debug:id/subject",
     "text": "sdsad",
-    "correct": false
+    "correct": true
   },
   {
     "id": "event_2025-07-01_140241.json",
     "description": "class=android.widget.AutoCompleteTextView, resource_id=com.fsck.k9.debug:id/cc",
     "text": "appcrawler6@gmail.com",
-    "correct": false
+    "correct": true
   },
   {
     "id": "event_2025-07-01_140251.json",
     "description": "class=android.widget.AutoCompleteTextView, resource_id=com.fsck.k9.debug:id/cc",
     "text": "appcrawler6@gmail.com",
-    "correct": false
+    "correct": true
   },
   {
     "id": "event_2025-07-01_140256.json",
     "description": "class=android.widget.AutoCompleteTextView, resource_id=com.fsck.k9.debug:id/to",
     "text": "appcrawler6@gmail.com",
-    "correct": false
+    "correct": true
   },
   {
     "id": "event_2025-07-01_140327.json",
@@ -1125,13 +1125,13 @@
     "id": "event_2025-07-01_140332.json",
     "description": "class=android.widget.AutoCompleteTextView, resource_id=com.fsck.k9.debug:id/cc",
     "text": "appcrawler4@gmail.com",
-    "correct": false
+    "correct": true
   },
   {
     "id": "event_2025-07-01_140419.json",
     "description": "class=android.widget.EditText, resource_id=com.fsck.k9.debug:id/subject",
     "text": "Grace",
-    "correct": false
+    "correct": true
   },
   {
     "id": "event_2025-07-01_140424.json",
@@ -1167,13 +1167,13 @@
     "id": "event_2025-07-01_140743.json",
     "description": "class=android.widget.EditText, resource_id=com.fsck.k9.debug:id/message_content",
     "text": "San Francisco",
-    "correct": false
+    "correct": true
   },
   {
     "id": "event_2025-07-01_140748.json",
     "description": "class=android.widget.EditText, resource_id=com.fsck.k9.debug:id/subject",
     "text": "Join me on T20 Fans Live chat.",
-    "correct": false
+    "correct": true
   },
   {
     "id": "event_2025-07-01_140903.json",
@@ -1191,7 +1191,7 @@
     "id": "event_2025-07-01_140913.json",
     "description": "class=android.widget.EditText, resource_id=com.fsck.k9.debug:id/message_content",
     "text": "Brown",
-    "correct": false
+    "correct": true
   },
   {
     "id": "event_2025-07-01_140928.json",
@@ -1257,6 +1257,6 @@
     "id": "event_2025-07-01_141608.json",
     "description": "class=android.widget.EditText, resource_id=com.fsck.k9.debug:id/subject",
     "text": "97.60",
-    "correct": false
+    "correct": true
   }
 ]
