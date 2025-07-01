@@ -2,791 +2,949 @@
   {
     "id": "event_2025-06-27_145547.json",
     "description": "class=android.widget.AutoCompleteTextView, resource_id=it.feio.android.omninotes.alpha:id/search_src_text",
-    "text": "Quill"
+    "text": "Quill",
+    "correct": false
   },
   {
     "id": "event_2025-06-27_145554.json",
     "description": "class=android.widget.AutoCompleteTextView, resource_id=it.feio.android.omninotes.alpha:id/search_src_text",
-    "text": "Grace"
+    "text": "Grace",
+    "correct": false
   },
   {
     "id": "event_2025-06-27_145600.json",
     "description": "class=android.widget.AutoCompleteTextView, resource_id=it.feio.android.omninotes.alpha:id/search_src_text",
-    "text": "water"
+    "text": "water",
+    "correct": false
   },
   {
     "id": "event_2025-06-27_145606.json",
     "description": "class=android.widget.AutoCompleteTextView, resource_id=it.feio.android.omninotes.alpha:id/search_src_text",
-    "text": "S"
+    "text": "S",
+    "correct": false
   },
   {
     "id": "event_2025-06-27_145612.json",
     "description": "class=android.widget.AutoCompleteTextView, resource_id=it.feio.android.omninotes.alpha:id/search_src_text",
-    "text": "S"
+    "text": "S",
+    "correct": false
   },
   {
     "id": "event_2025-06-27_145701.json",
     "description": "class=android.widget.TextView, resource_id=it.feio.android.omninotes.alpha:id/last_modification",
-    "text": "nike"
+    "text": "nike",
+    "correct": false
   },
   {
     "id": "event_2025-06-27_145739.json",
     "description": "class=android.widget.EditText, resource_id=it.feio.android.omninotes.alpha:id/detail_content",
-    "text": "Write Password"
+    "text": "Write Password",
+    "correct": false
   },
   {
     "id": "event_2025-06-27_145746.json",
     "description": "class=android.widget.EditText, resource_id=it.feio.android.omninotes.alpha:id/detail_content",
-    "text": "Barrier"
+    "text": "Barrier",
+    "correct": false
   },
   {
     "id": "event_2025-06-27_145753.json",
     "description": "class=android.widget.EditText, resource_id=it.feio.android.omninotes.alpha:id/detail_content",
-    "text": "yu"
+    "text": "yu",
+    "correct": false
   },
   {
     "id": "event_2025-06-27_145800.json",
     "description": "class=android.widget.EditText, resource_id=it.feio.android.omninotes.alpha:id/detail_content",
-    "text": "yu"
+    "text": "yu",
+    "correct": false
   },
   {
     "id": "event_2025-06-27_145806.json",
     "description": "class=android.widget.EditText, resource_id=it.feio.android.omninotes.alpha:id/detail_content",
-    "text": "y"
+    "text": "y",
+    "correct": false
   },
   {
     "id": "event_2025-06-27_145813.json",
     "description": "class=android.widget.EditText, resource_id=it.feio.android.omninotes.alpha:id/detail_content",
-    "text": "yu"
+    "text": "yu",
+    "correct": false
   },
   {
     "id": "event_2025-06-27_145849.json",
     "description": "class=android.widget.TextView, resource_id=it.feio.android.omninotes.alpha:id/last_modification",
-    "text": "hellene"
+    "text": "hellene",
+    "correct": false
   },
   {
     "id": "event_2025-06-27_145857.json",
     "description": "class=android.widget.TextView, resource_id=it.feio.android.omninotes.alpha:id/last_modification",
-    "text": "ghanaian"
+    "text": "ghanaian",
+    "correct": false
   },
   {
     "id": "event_2025-06-27_145905.json",
     "description": "class=android.widget.TextView, resource_id=it.feio.android.omninotes.alpha:id/last_modification",
-    "text": "y"
+    "text": "y",
+    "correct": false
   },
   {
     "id": "event_2025-06-27_145923.json",
     "description": "class=android.widget.TextView, resource_id=it.feio.android.omninotes.alpha:id/last_modification",
-    "text": "San francisco"
+    "text": "San francisco",
+    "correct": false
   },
   {
     "id": "event_2025-06-27_145930.json",
     "description": "class=android.widget.TextView, resource_id=it.feio.android.omninotes.alpha:id/last_modification",
-    "text": "Current Location"
+    "text": "Current Location",
+    "correct": false
   },
   {
     "id": "event_2025-06-27_150017.json",
     "description": "class=android.widget.TextView, resource_id=it.feio.android.omninotes.alpha:id/last_modification",
-    "text": "decider.com"
+    "text": "decider.com",
+    "correct": false
   },
   {
     "id": "event_2025-06-27_150025.json",
     "description": "class=android.widget.TextView, resource_id=it.feio.android.omninotes.alpha:id/last_modification",
-    "text": "nike"
+    "text": "nike",
+    "correct": false
   },
   {
     "id": "event_2025-06-27_150031.json",
     "description": "class=android.widget.TextView, resource_id=it.feio.android.omninotes.alpha:id/last_modification",
-    "text": ""
+    "text": "",
+    "correct": false
   },
   {
     "id": "event_2025-06-27_150142.json",
     "description": "class=android.widget.TextView, resource_id=it.feio.android.omninotes.alpha:id/last_modification",
-    "text": "94101"
+    "text": "94101",
+    "correct": false
   },
   {
     "id": "event_2025-06-27_150149.json",
     "description": "class=android.widget.TextView, resource_id=it.feio.android.omninotes.alpha:id/last_modification",
-    "text": "nike"
+    "text": "nike",
+    "correct": false
   },
   {
     "id": "event_2025-06-27_150156.json",
     "description": "class=android.widget.TextView, resource_id=it.feio.android.omninotes.alpha:id/last_modification",
-    "text": ""
+    "text": "",
+    "correct": false
   },
   {
     "id": "event_2025-06-27_150216.json",
     "description": "class=android.widget.TextView, resource_id=it.feio.android.omninotes.alpha:id/last_modification",
-    "text": "hello\nStart"
+    "text": "hello\nStart",
+    "correct": false
   },
   {
     "id": "event_2025-06-27_150223.json",
     "description": "class=android.widget.TextView, resource_id=it.feio.android.omninotes.alpha:id/last_modification",
-    "text": "5"
+    "text": "5",
+    "correct": false
   },
   {
     "id": "event_2025-06-27_150230.json",
     "description": "class=android.widget.TextView, resource_id=it.feio.android.omninotes.alpha:id/last_modification",
-    "text": "95"
+    "text": "95",
+    "correct": false
   },
   {
     "id": "event_2025-06-27_150237.json",
     "description": "class=android.widget.TextView, resource_id=it.feio.android.omninotes.alpha:id/last_modification",
-    "text": "Crod3116"
+    "text": "Crod3116",
+    "correct": false
   },
   {
     "id": "event_2025-06-27_150303.json",
     "description": "class=android.widget.AutoCompleteTextView, resource_id=it.feio.android.omninotes.alpha:id/search_src_text",
-    "text": "water"
+    "text": "water",
+    "correct": false
   },
   {
     "id": "event_2025-06-27_150309.json",
     "description": "class=android.widget.AutoCompleteTextView, resource_id=it.feio.android.omninotes.alpha:id/search_src_text",
-    "text": "water"
+    "text": "water",
+    "correct": false
   },
   {
     "id": "event_2025-06-27_150315.json",
     "description": "class=android.widget.AutoCompleteTextView, resource_id=it.feio.android.omninotes.alpha:id/search_src_text",
-    "text": "closer"
+    "text": "closer",
+    "correct": false
   },
   {
     "id": "event_2025-06-27_150321.json",
     "description": "class=android.widget.AutoCompleteTextView, resource_id=it.feio.android.omninotes.alpha:id/search_src_text",
-    "text": "water"
+    "text": "water",
+    "correct": false
   },
   {
     "id": "event_2025-06-27_150403.json",
     "description": "class=android.widget.TextView, resource_id=it.feio.android.omninotes.alpha:id/last_modification",
-    "text": "94101"
+    "text": "94101",
+    "correct": false
   },
   {
     "id": "event_2025-06-27_150410.json",
     "description": "class=android.widget.TextView, resource_id=it.feio.android.omninotes.alpha:id/last_modification",
-    "text": "nike"
+    "text": "nike",
+    "correct": false
   },
   {
     "id": "event_2025-06-27_150416.json",
     "description": "class=android.widget.TextView, resource_id=it.feio.android.omninotes.alpha:id/last_modification",
-    "text": "nike"
+    "text": "nike",
+    "correct": false
   },
   {
     "id": "event_2025-06-27_150436.json",
     "description": "class=android.widget.TextView, resource_id=it.feio.android.omninotes.alpha:id/last_modification",
-    "text": "nike"
+    "text": "nike",
+    "correct": false
   },
   {
     "id": "event_2025-06-27_150514.json",
     "description": "class=android.widget.TextView, resource_id=it.feio.android.omninotes.alpha:id/last_modification",
-    "text": "Phoenix All airports"
+    "text": "Phoenix All airports",
+    "correct": false
   },
   {
     "id": "event_2025-06-27_150539.json",
     "description": "class=android.widget.TextView, resource_id=it.feio.android.omninotes.alpha:id/last_modification",
-    "text": "94101"
+    "text": "94101",
+    "correct": false
   },
   {
     "id": "event_2025-06-27_150545.json",
     "description": "class=android.widget.TextView, resource_id=it.feio.android.omninotes.alpha:id/last_modification",
-    "text": "nike"
+    "text": "nike",
+    "correct": false
   },
   {
     "id": "event_2025-06-27_150630.json",
     "description": "class=android.widget.TextView, resource_id=it.feio.android.omninotes.alpha:id/last_modification",
-    "text": "decider.com"
+    "text": "decider.com",
+    "correct": false
   },
   {
     "id": "event_2025-06-27_150637.json",
     "description": "class=android.widget.TextView, resource_id=it.feio.android.omninotes.alpha:id/last_modification",
-    "text": "nike"
+    "text": "nike",
+    "correct": false
   },
   {
     "id": "event_2025-06-27_150719.json",
     "description": "class=android.widget.TextView, resource_id=it.feio.android.omninotes.alpha:id/last_modification",
-    "text": "finance"
+    "text": "finance",
+    "correct": false
   },
   {
     "id": "event_2025-06-27_150743.json",
     "description": "class=android.widget.TextView, resource_id=it.feio.android.omninotes.alpha:id/last_modification",
-    "text": "94101"
+    "text": "94101",
+    "correct": false
   },
   {
     "id": "event_2025-06-27_150751.json",
     "description": "class=android.widget.TextView, resource_id=it.feio.android.omninotes.alpha:id/last_modification",
-    "text": "nike"
+    "text": "nike",
+    "correct": false
   },
   {
     "id": "event_2025-06-27_150758.json",
     "description": "class=android.widget.TextView, resource_id=it.feio.android.omninotes.alpha:id/last_modification",
-    "text": ""
+    "text": "",
+    "correct": false
   },
   {
     "id": "event_2025-06-27_150830.json",
     "description": "class=android.widget.TextView, resource_id=it.feio.android.omninotes.alpha:id/last_modification",
-    "text": "94101"
+    "text": "94101",
+    "correct": false
   },
   {
     "id": "event_2025-06-27_150836.json",
     "description": "class=android.widget.TextView, resource_id=it.feio.android.omninotes.alpha:id/last_modification",
-    "text": "nike"
+    "text": "nike",
+    "correct": false
   },
   {
     "id": "event_2025-06-27_150947.json",
     "description": "class=android.widget.EditText, resource_id=it.feio.android.omninotes.alpha:id/detail_content",
-    "text": "San francisco"
+    "text": "San francisco",
+    "correct": false
   },
   {
     "id": "event_2025-06-27_150953.json",
     "description": "class=android.widget.EditText, resource_id=it.feio.android.omninotes.alpha:id/detail_content",
-    "text": "yu"
+    "text": "yu",
+    "correct": false
   },
   {
     "id": "event_2025-06-27_151005.json",
     "description": "class=android.widget.EditText, resource_id=it.feio.android.omninotes.alpha:id/detail_content",
-    "text": "yu"
+    "text": "yu",
+    "correct": false
   },
   {
     "id": "event_2025-06-27_151030.json",
     "description": "class=android.widget.TextView, resource_id=it.feio.android.omninotes.alpha:id/last_modification",
-    "text": "App Crawler"
+    "text": "App Crawler",
+    "correct": false
   },
   {
     "id": "event_2025-06-27_151123.json",
     "description": "class=android.widget.TextView, resource_id=it.feio.android.omninotes.alpha:id/last_modification",
-    "text": "94101"
+    "text": "94101",
+    "correct": false
   },
   {
     "id": "event_2025-06-27_151130.json",
     "description": "class=android.widget.TextView, resource_id=it.feio.android.omninotes.alpha:id/last_modification",
-    "text": "nike"
+    "text": "nike",
+    "correct": false
   },
   {
     "id": "event_2025-06-27_151213.json",
     "description": "class=android.widget.TextView, resource_id=it.feio.android.omninotes.alpha:id/last_modification",
-    "text": "decider.com"
+    "text": "decider.com",
+    "correct": false
   },
   {
     "id": "event_2025-06-27_151231.json",
     "description": "class=android.widget.TextView, resource_id=it.feio.android.omninotes.alpha:id/last_modification",
-    "text": "decider.com"
+    "text": "decider.com",
+    "correct": false
   },
   {
     "id": "event_2025-06-27_151238.json",
     "description": "class=android.widget.TextView, resource_id=it.feio.android.omninotes.alpha:id/last_modification",
-    "text": "nike"
+    "text": "nike",
+    "correct": false
   },
   {
     "id": "event_2025-06-27_151245.json",
     "description": "class=android.widget.TextView, resource_id=it.feio.android.omninotes.alpha:id/last_modification",
-    "text": ""
+    "text": "",
+    "correct": false
   },
   {
     "id": "event_2025-06-27_151331.json",
     "description": "class=android.widget.TextView, resource_id=it.feio.android.omninotes.alpha:id/last_modification",
-    "text": "94101"
+    "text": "94101",
+    "correct": false
   },
   {
     "id": "event_2025-06-27_151338.json",
     "description": "class=android.widget.TextView, resource_id=it.feio.android.omninotes.alpha:id/last_modification",
-    "text": "decider.com"
+    "text": "decider.com",
+    "correct": false
   },
   {
     "id": "event_2025-06-27_151346.json",
     "description": "class=android.widget.TextView, resource_id=it.feio.android.omninotes.alpha:id/last_modification",
-    "text": ""
+    "text": "",
+    "correct": false
   },
   {
     "id": "event_2025-06-27_151405.json",
     "description": "class=android.widget.TextView, resource_id=it.feio.android.omninotes.alpha:id/last_modification",
-    "text": "nike"
+    "text": "nike",
+    "correct": false
   },
   {
     "id": "event_2025-06-27_151412.json",
     "description": "class=android.widget.TextView, resource_id=it.feio.android.omninotes.alpha:id/last_modification",
-    "text": "decider.com"
+    "text": "decider.com",
+    "correct": false
   },
   {
     "id": "event_2025-06-27_151419.json",
     "description": "class=android.widget.TextView, resource_id=it.feio.android.omninotes.alpha:id/last_modification",
-    "text": ""
+    "text": "",
+    "correct": false
   },
   {
     "id": "event_2025-06-27_151438.json",
     "description": "class=android.widget.TextView, resource_id=it.feio.android.omninotes.alpha:id/last_modification",
-    "text": "nike"
+    "text": "nike",
+    "correct": false
   },
   {
     "id": "event_2025-06-27_151532.json",
     "description": "class=android.widget.TextView, resource_id=it.feio.android.omninotes.alpha:id/last_modification",
-    "text": "nike"
+    "text": "nike",
+    "correct": false
   },
   {
     "id": "event_2025-06-27_151539.json",
     "description": "class=android.widget.TextView, resource_id=it.feio.android.omninotes.alpha:id/last_modification",
-    "text": "decider.com"
+    "text": "decider.com",
+    "correct": false
   },
   {
     "id": "event_2025-06-27_151545.json",
     "description": "class=android.widget.TextView, resource_id=it.feio.android.omninotes.alpha:id/last_modification",
-    "text": ""
+    "text": "",
+    "correct": false
   },
   {
     "id": "event_2025-06-27_151644.json",
     "description": "class=android.widget.EditText, resource_id=it.feio.android.omninotes.alpha:id/detail_content",
-    "text": "us"
+    "text": "us",
+    "correct": false
   },
   {
     "id": "event_2025-06-27_151650.json",
     "description": "class=android.widget.EditText, resource_id=it.feio.android.omninotes.alpha:id/detail_content",
-    "text": "yu"
+    "text": "yu",
+    "correct": false
   },
   {
     "id": "event_2025-06-27_151657.json",
     "description": "class=android.widget.EditText, resource_id=it.feio.android.omninotes.alpha:id/detail_content",
-    "text": "yuh"
+    "text": "yuh",
+    "correct": false
   },
   {
     "id": "event_2025-06-27_151704.json",
     "description": "class=android.widget.EditText, resource_id=it.feio.android.omninotes.alpha:id/detail_content",
-    "text": "yu"
+    "text": "yu",
+    "correct": false
   },
   {
     "id": "event_2025-06-27_151728.json",
     "description": "class=android.widget.TextView, resource_id=it.feio.android.omninotes.alpha:id/last_modification",
-    "text": "94101"
+    "text": "94101",
+    "correct": false
   },
   {
     "id": "event_2025-06-27_151734.json",
     "description": "class=android.widget.TextView, resource_id=it.feio.android.omninotes.alpha:id/last_modification",
-    "text": "nike"
+    "text": "nike",
+    "correct": false
   },
   {
     "id": "event_2025-06-27_151741.json",
     "description": "class=android.widget.TextView, resource_id=it.feio.android.omninotes.alpha:id/last_modification",
-    "text": ""
+    "text": "",
+    "correct": false
   },
   {
     "id": "event_2025-06-27_151829.json",
     "description": "class=android.widget.TextView, resource_id=it.feio.android.omninotes.alpha:id/last_modification",
-    "text": "00"
+    "text": "00",
+    "correct": false
   },
   {
     "id": "event_2025-06-27_151836.json",
     "description": "class=android.widget.TextView, resource_id=it.feio.android.omninotes.alpha:id/last_modification",
-    "text": "decider.com"
+    "text": "decider.com",
+    "correct": false
   },
   {
     "id": "event_2025-06-27_151855.json",
     "description": "class=android.widget.TextView, resource_id=it.feio.android.omninotes.alpha:id/last_modification",
-    "text": "nike"
+    "text": "nike",
+    "correct": false
   },
   {
     "id": "event_2025-06-27_151902.json",
     "description": "class=android.widget.TextView, resource_id=it.feio.android.omninotes.alpha:id/last_modification",
-    "text": "decider.com"
+    "text": "decider.com",
+    "correct": false
   },
   {
     "id": "event_2025-06-27_151944.json",
     "description": "class=android.widget.TextView, resource_id=it.feio.android.omninotes.alpha:id/last_modification",
-    "text": "nike"
+    "text": "nike",
+    "correct": false
   },
   {
     "id": "event_2025-06-27_151951.json",
     "description": "class=android.widget.TextView, resource_id=it.feio.android.omninotes.alpha:id/last_modification",
-    "text": "decider.com"
+    "text": "decider.com",
+    "correct": false
   },
   {
     "id": "event_2025-06-27_151958.json",
     "description": "class=android.widget.TextView, resource_id=it.feio.android.omninotes.alpha:id/last_modification",
-    "text": ""
+    "text": "",
+    "correct": false
   },
   {
     "id": "event_2025-06-27_152016.json",
     "description": "class=android.widget.TextView, resource_id=it.feio.android.omninotes.alpha:id/last_modification",
-    "text": "nike"
+    "text": "nike",
+    "correct": false
   },
   {
     "id": "event_2025-06-27_152036.json",
     "description": "class=android.widget.TextView, resource_id=it.feio.android.omninotes.alpha:id/last_modification",
-    "text": "nike"
+    "text": "nike",
+    "correct": false
   },
   {
     "id": "event_2025-06-27_152044.json",
     "description": "class=android.widget.TextView, resource_id=it.feio.android.omninotes.alpha:id/last_modification",
-    "text": "decider.com"
+    "text": "decider.com",
+    "correct": false
   },
   {
     "id": "event_2025-06-27_152051.json",
     "description": "class=android.widget.TextView, resource_id=it.feio.android.omninotes.alpha:id/last_modification",
-    "text": ""
+    "text": "",
+    "correct": false
   },
   {
     "id": "event_2025-06-27_152151.json",
     "description": "class=android.widget.TextView, resource_id=it.feio.android.omninotes.alpha:id/last_modification",
-    "text": "94101"
+    "text": "94101",
+    "correct": false
   },
   {
     "id": "event_2025-06-27_152158.json",
     "description": "class=android.widget.TextView, resource_id=it.feio.android.omninotes.alpha:id/last_modification",
-    "text": "nike"
+    "text": "nike",
+    "correct": false
   },
   {
     "id": "event_2025-06-27_152204.json",
     "description": "class=android.widget.TextView, resource_id=it.feio.android.omninotes.alpha:id/last_modification",
-    "text": ""
+    "text": "",
+    "correct": false
   },
   {
     "id": "event_2025-06-27_152243.json",
     "description": "class=android.widget.TextView, resource_id=it.feio.android.omninotes.alpha:id/last_modification",
-    "text": "nike"
+    "text": "nike",
+    "correct": false
   },
   {
     "id": "event_2025-06-27_152251.json",
     "description": "class=android.widget.TextView, resource_id=it.feio.android.omninotes.alpha:id/last_modification",
-    "text": "decider.com"
+    "text": "decider.com",
+    "correct": false
   },
   {
     "id": "event_2025-06-27_152258.json",
     "description": "class=android.widget.TextView, resource_id=it.feio.android.omninotes.alpha:id/last_modification",
-    "text": ""
+    "text": "",
+    "correct": false
   },
   {
     "id": "event_2025-06-27_152351.json",
     "description": "class=android.widget.EditText, resource_id=it.feio.android.omninotes.alpha:id/category_title",
-    "text": "06"
+    "text": "06",
+    "correct": false
   },
   {
     "id": "event_2025-06-27_152402.json",
     "description": "class=android.widget.EditText, resource_id=it.feio.android.omninotes.alpha:id/category_title",
-    "text": "1989"
+    "text": "1989",
+    "correct": false
   },
   {
     "id": "event_2025-06-27_152409.json",
     "description": "class=android.widget.EditText, resource_id=it.feio.android.omninotes.alpha:id/category_title",
-    "text": "223"
+    "text": "223",
+    "correct": false
   },
   {
     "id": "event_2025-06-27_152415.json",
     "description": "class=android.widget.EditText, resource_id=it.feio.android.omninotes.alpha:id/category_title",
-    "text": "223"
+    "text": "223",
+    "correct": false
   },
   {
     "id": "event_2025-06-27_152426.json",
     "description": "class=android.widget.EditText, resource_id=it.feio.android.omninotes.alpha:id/category_title",
-    "text": "1989"
+    "text": "1989",
+    "correct": false
   },
   {
     "id": "event_2025-06-27_152438.json",
     "description": "class=android.widget.EditText, resource_id=it.feio.android.omninotes.alpha:id/category_title",
-    "text": "06"
+    "text": "06",
+    "correct": false
   },
   {
     "id": "event_2025-06-27_152445.json",
     "description": "class=android.widget.EditText, resource_id=it.feio.android.omninotes.alpha:id/category_title",
-    "text": "223"
+    "text": "223",
+    "correct": false
   },
   {
     "id": "event_2025-06-27_152534.json",
     "description": "class=android.widget.TextView, resource_id=it.feio.android.omninotes.alpha:id/last_modification",
-    "text": "nike"
+    "text": "nike",
+    "correct": false
   },
   {
     "id": "event_2025-06-27_152718.json",
     "description": "class=android.widget.TextView, resource_id=it.feio.android.omninotes.alpha:id/last_modification",
-    "text": "us"
+    "text": "us",
+    "correct": false
   },
   {
     "id": "event_2025-06-27_152724.json",
     "description": "class=android.widget.TextView, resource_id=it.feio.android.omninotes.alpha:id/last_modification",
-    "text": "ghanaian"
+    "text": "ghanaian",
+    "correct": false
   },
   {
     "id": "event_2025-06-27_152732.json",
     "description": "class=android.widget.TextView, resource_id=it.feio.android.omninotes.alpha:id/last_modification",
-    "text": "y"
+    "text": "y",
+    "correct": false
   },
   {
     "id": "event_2025-06-27_152739.json",
     "description": "class=android.widget.TextView, resource_id=it.feio.android.omninotes.alpha:id/last_modification",
-    "text": "yu"
+    "text": "yu",
+    "correct": false
   },
   {
     "id": "event_2025-06-27_152801.json",
     "description": "class=android.widget.TextView, resource_id=it.feio.android.omninotes.alpha:id/last_modification",
-    "text": "decider.com"
+    "text": "decider.com",
+    "correct": false
   },
   {
     "id": "event_2025-06-27_152808.json",
     "description": "class=android.widget.TextView, resource_id=it.feio.android.omninotes.alpha:id/last_modification",
-    "text": "nike"
+    "text": "nike",
+    "correct": false
   },
   {
     "id": "event_2025-06-27_152814.json",
     "description": "class=android.widget.TextView, resource_id=it.feio.android.omninotes.alpha:id/last_modification",
-    "text": ""
+    "text": "",
+    "correct": false
   },
   {
     "id": "event_2025-06-27_152832.json",
     "description": "class=android.widget.TextView, resource_id=it.feio.android.omninotes.alpha:id/last_modification",
-    "text": "San francisco"
+    "text": "San francisco",
+    "correct": false
   },
   {
     "id": "event_2025-06-27_152839.json",
     "description": "class=android.widget.TextView, resource_id=it.feio.android.omninotes.alpha:id/last_modification",
-    "text": "y"
+    "text": "y",
+    "correct": false
   },
   {
     "id": "event_2025-06-27_152845.json",
     "description": "class=android.widget.TextView, resource_id=it.feio.android.omninotes.alpha:id/last_modification",
-    "text": "yu"
+    "text": "yu",
+    "correct": false
   },
   {
     "id": "event_2025-06-27_152904.json",
     "description": "class=android.widget.TextView, resource_id=it.feio.android.omninotes.alpha:id/last_modification",
-    "text": "San francisco"
+    "text": "San francisco",
+    "correct": false
   },
   {
     "id": "event_2025-06-27_152911.json",
     "description": "class=android.widget.TextView, resource_id=it.feio.android.omninotes.alpha:id/last_modification",
-    "text": "Current Location"
+    "text": "Current Location",
+    "correct": false
   },
   {
     "id": "event_2025-06-27_152918.json",
     "description": "class=android.widget.TextView, resource_id=it.feio.android.omninotes.alpha:id/last_modification",
-    "text": "yu"
+    "text": "yu",
+    "correct": false
   },
   {
     "id": "event_2025-06-27_152947.json",
     "description": "class=android.widget.TextView, resource_id=it.feio.android.omninotes.alpha:id/last_modification",
-    "text": "us"
+    "text": "us",
+    "correct": false
   },
   {
     "id": "event_2025-06-27_153038.json",
     "description": "class=android.widget.AutoCompleteTextView, resource_id=it.feio.android.omninotes.alpha:id/search_src_text",
-    "text": "0"
+    "text": "0",
+    "correct": false
   },
   {
     "id": "event_2025-06-27_153050.json",
     "description": "class=android.widget.AutoCompleteTextView, resource_id=it.feio.android.omninotes.alpha:id/search_src_text",
-    "text": "nice"
+    "text": "nice",
+    "correct": false
   },
   {
     "id": "event_2025-06-27_153055.json",
     "description": "class=android.widget.AutoCompleteTextView, resource_id=it.feio.android.omninotes.alpha:id/search_src_text",
-    "text": "100"
+    "text": "100",
+    "correct": false
   },
   {
     "id": "event_2025-06-27_153101.json",
     "description": "class=android.widget.AutoCompleteTextView, resource_id=it.feio.android.omninotes.alpha:id/search_src_text",
-    "text": "100"
+    "text": "100",
+    "correct": false
   },
   {
     "id": "event_2025-06-27_153108.json",
     "description": "class=android.widget.AutoCompleteTextView, resource_id=it.feio.android.omninotes.alpha:id/search_src_text",
-    "text": "0"
+    "text": "0",
+    "correct": false
   },
   {
     "id": "event_2025-06-27_153113.json",
     "description": "class=android.widget.AutoCompleteTextView, resource_id=it.feio.android.omninotes.alpha:id/search_src_text",
-    "text": "100"
+    "text": "100",
+    "correct": false
   },
   {
     "id": "event_2025-06-27_153124.json",
     "description": "class=android.widget.AutoCompleteTextView, resource_id=it.feio.android.omninotes.alpha:id/search_src_text",
-    "text": "H20+CO2"
+    "text": "H20+CO2",
+    "correct": false
   },
   {
     "id": "event_2025-06-27_153130.json",
     "description": "class=android.widget.AutoCompleteTextView, resource_id=it.feio.android.omninotes.alpha:id/search_src_text",
-    "text": "100"
+    "text": "100",
+    "correct": false
   },
   {
     "id": "event_2025-06-27_153142.json",
     "description": "class=android.widget.AutoCompleteTextView, resource_id=it.feio.android.omninotes.alpha:id/search_src_text",
-    "text": "nice"
+    "text": "nice",
+    "correct": false
   },
   {
     "id": "event_2025-06-27_153153.json",
     "description": "class=android.widget.AutoCompleteTextView, resource_id=it.feio.android.omninotes.alpha:id/search_src_text",
-    "text": "H20+CO2"
+    "text": "H20+CO2",
+    "correct": false
   },
   {
     "id": "event_2025-06-27_153159.json",
     "description": "class=android.widget.AutoCompleteTextView, resource_id=it.feio.android.omninotes.alpha:id/search_src_text",
-    "text": "0"
+    "text": "0",
+    "correct": false
   },
   {
     "id": "event_2025-06-27_153211.json",
     "description": "class=android.widget.AutoCompleteTextView, resource_id=it.feio.android.omninotes.alpha:id/search_src_text",
-    "text": "H20+CO2"
+    "text": "H20+CO2",
+    "correct": false
   },
   {
     "id": "event_2025-06-27_153223.json",
     "description": "class=android.widget.AutoCompleteTextView, resource_id=it.feio.android.omninotes.alpha:id/search_src_text",
-    "text": "H20+CO2"
+    "text": "H20+CO2",
+    "correct": false
   },
   {
     "id": "event_2025-06-27_153234.json",
     "description": "class=android.widget.AutoCompleteTextView, resource_id=it.feio.android.omninotes.alpha:id/search_src_text",
-    "text": "nice"
+    "text": "nice",
+    "correct": false
   },
   {
     "id": "event_2025-06-27_153246.json",
     "description": "class=android.widget.AutoCompleteTextView, resource_id=it.feio.android.omninotes.alpha:id/search_src_text",
-    "text": "nice"
+    "text": "nice",
+    "correct": false
   },
   {
     "id": "event_2025-06-27_153354.json",
     "description": "class=android.widget.TextView, resource_id=it.feio.android.omninotes.alpha:id/last_modification",
-    "text": "Barrier"
+    "text": "Barrier",
+    "correct": false
   },
   {
     "id": "event_2025-06-27_153401.json",
     "description": "class=android.widget.TextView, resource_id=it.feio.android.omninotes.alpha:id/last_modification",
-    "text": "y"
+    "text": "y",
+    "correct": false
   },
   {
     "id": "event_2025-06-27_153419.json",
     "description": "class=android.widget.TextView, resource_id=it.feio.android.omninotes.alpha:id/last_modification",
-    "text": "San francisco"
+    "text": "San francisco",
+    "correct": false
   },
   {
     "id": "event_2025-06-27_153425.json",
     "description": "class=android.widget.TextView, resource_id=it.feio.android.omninotes.alpha:id/last_modification",
-    "text": "yu"
+    "text": "yu",
+    "correct": false
   },
   {
     "id": "event_2025-06-27_153432.json",
     "description": "class=android.widget.TextView, resource_id=it.feio.android.omninotes.alpha:id/last_modification",
-    "text": "y"
+    "text": "y",
+    "correct": false
   },
   {
     "id": "event_2025-06-27_153450.json",
     "description": "class=android.widget.TextView, resource_id=it.feio.android.omninotes.alpha:id/last_modification",
-    "text": "San francisco"
+    "text": "San francisco",
+    "correct": false
   },
   {
     "id": "event_2025-06-27_153457.json",
     "description": "class=android.widget.TextView, resource_id=it.feio.android.omninotes.alpha:id/last_modification",
-    "text": "Current Location"
+    "text": "Current Location",
+    "correct": false
   },
   {
     "id": "event_2025-06-27_153503.json",
     "description": "class=android.widget.TextView, resource_id=it.feio.android.omninotes.alpha:id/last_modification",
-    "text": "y"
+    "text": "y",
+    "correct": false
   },
   {
     "id": "event_2025-06-27_153511.json",
     "description": "class=android.widget.TextView, resource_id=it.feio.android.omninotes.alpha:id/last_modification",
-    "text": "yu"
+    "text": "yu",
+    "correct": false
   },
   {
     "id": "event_2025-06-27_153529.json",
     "description": "class=android.widget.TextView, resource_id=it.feio.android.omninotes.alpha:id/last_modification",
-    "text": "San francisco"
+    "text": "San francisco",
+    "correct": false
   },
   {
     "id": "event_2025-06-27_153536.json",
     "description": "class=android.widget.TextView, resource_id=it.feio.android.omninotes.alpha:id/last_modification",
-    "text": "yu"
+    "text": "yu",
+    "correct": false
   },
   {
     "id": "event_2025-06-27_153608.json",
     "description": "class=android.widget.TextView, resource_id=it.feio.android.omninotes.alpha:id/last_modification",
-    "text": "us"
+    "text": "us",
+    "correct": false
   },
   {
     "id": "event_2025-06-27_153615.json",
     "description": "class=android.widget.TextView, resource_id=it.feio.android.omninotes.alpha:id/last_modification",
-    "text": "ghanaian"
+    "text": "ghanaian",
+    "correct": false
   },
   {
     "id": "event_2025-06-27_153621.json",
     "description": "class=android.widget.TextView, resource_id=it.feio.android.omninotes.alpha:id/last_modification",
-    "text": "y"
+    "text": "y",
+    "correct": false
   },
   {
     "id": "event_2025-06-27_153650.json",
     "description": "class=android.widget.TextView, resource_id=it.feio.android.omninotes.alpha:id/last_modification",
-    "text": ""
+    "text": "",
+    "correct": false
   },
   {
     "id": "event_2025-06-27_153730.json",
     "description": "class=android.widget.TextView, resource_id=it.feio.android.omninotes.alpha:id/last_modification",
-    "text": "hellene"
+    "text": "hellene",
+    "correct": false
   },
   {
     "id": "event_2025-06-27_153737.json",
     "description": "class=android.widget.TextView, resource_id=it.feio.android.omninotes.alpha:id/last_modification",
-    "text": "y"
+    "text": "y",
+    "correct": false
   },
   {
     "id": "event_2025-06-27_153743.json",
     "description": "class=android.widget.TextView, resource_id=it.feio.android.omninotes.alpha:id/last_modification",
-    "text": "yu"
+    "text": "yu",
+    "correct": false
   },
   {
     "id": "event_2025-06-27_153802.json",
     "description": "class=android.widget.TextView, resource_id=it.feio.android.omninotes.alpha:id/last_modification",
-    "text": "nike"
+    "text": "nike",
+    "correct": false
   },
   {
     "id": "event_2025-06-27_153810.json",
     "description": "class=android.widget.TextView, resource_id=it.feio.android.omninotes.alpha:id/last_modification",
-    "text": "decider.com"
+    "text": "decider.com",
+    "correct": false
   },
   {
     "id": "event_2025-06-27_153830.json",
     "description": "class=android.widget.TextView, resource_id=it.feio.android.omninotes.alpha:id/last_modification",
-    "text": "hellene"
+    "text": "hellene",
+    "correct": false
   },
   {
     "id": "event_2025-06-27_153836.json",
     "description": "class=android.widget.TextView, resource_id=it.feio.android.omninotes.alpha:id/last_modification",
-    "text": "yu"
+    "text": "yu",
+    "correct": false
   },
   {
     "id": "event_2025-06-27_153856.json",
     "description": "class=android.widget.TextView, resource_id=it.feio.android.omninotes.alpha:id/last_modification",
-    "text": "San francisco"
+    "text": "San francisco",
+    "correct": false
   },
   {
     "id": "event_2025-06-27_153903.json",
     "description": "class=android.widget.TextView, resource_id=it.feio.android.omninotes.alpha:id/last_modification",
-    "text": "yu"
+    "text": "yu",
+    "correct": false
   },
   {
     "id": "event_2025-06-27_153933.json",
     "description": "class=android.widget.TextView, resource_id=it.feio.android.omninotes.alpha:id/last_modification",
-    "text": "us"
+    "text": "us",
+    "correct": false
   },
   {
     "id": "event_2025-06-27_153942.json",
     "description": "class=android.widget.TextView, resource_id=it.feio.android.omninotes.alpha:id/last_modification",
-    "text": "ghanaian"
+    "text": "ghanaian",
+    "correct": false
   },
   {
     "id": "event_2025-06-27_153949.json",
     "description": "class=android.widget.TextView, resource_id=it.feio.android.omninotes.alpha:id/last_modification",
-    "text": "yu"
+    "text": "yu",
+    "correct": false
   },
   {
     "id": "event_2025-06-27_154035.json",
     "description": "class=android.widget.TextView, resource_id=it.feio.android.omninotes.alpha:id/last_modification",
-    "text": "Barrier"
+    "text": "Barrier",
+    "correct": false
   },
   {
     "id": "event_2025-06-27_154042.json",
     "description": "class=android.widget.TextView, resource_id=it.feio.android.omninotes.alpha:id/last_modification",
-    "text": "hullo"
+    "text": "hullo",
+    "correct": false
   },
   {
     "id": "event_2025-06-27_154049.json",
     "description": "class=android.widget.TextView, resource_id=it.feio.android.omninotes.alpha:id/last_modification",
-    "text": "y"
+    "text": "y",
+    "correct": false
   },
   {
     "id": "event_2025-06-27_154057.json",
     "description": "class=android.widget.TextView, resource_id=it.feio.android.omninotes.alpha:id/last_modification",
-    "text": "yu"
+    "text": "yu",
+    "correct": false
   }
 ]

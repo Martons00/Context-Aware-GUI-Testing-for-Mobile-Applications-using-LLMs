@@ -2,141 +2,169 @@
   {
     "id": "event_2025-06-27_163744.json",
     "description": "class=android.widget.EditText, resource_id=com.fsck.k9.debug:id/message_content",
-    "text": "000"
+    "text": "000",
+    "correct": true
   },
   {
     "id": "event_2025-06-27_163755.json",
     "description": "class=android.widget.EditText, resource_id=com.fsck.k9.debug:id/message_content",
-    "text": "000"
+    "text": "000",
+    "correct": true
   },
   {
     "id": "event_2025-06-27_163802.json",
     "description": "class=android.widget.EditText, resource_id=com.fsck.k9.debug:id/message_content",
-    "text": "00"
+    "text": "00",
+    "correct": true
   },
   {
     "id": "event_2025-06-27_163810.json",
     "description": "class=android.widget.EditText, resource_id=com.fsck.k9.debug:id/message_content",
-    "text": "000"
+    "text": "000",
+    "correct": true
   },
   {
     "id": "event_2025-06-27_163819.json",
     "description": "class=android.widget.EditText, resource_id=com.fsck.k9.debug:id/message_content",
-    "text": "94103"
+    "text": "94103",
+    "correct": true
   },
   {
     "id": "event_2025-06-27_163828.json",
     "description": "class=android.widget.EditText, resource_id=com.fsck.k9.debug:id/message_content",
-    "text": "000"
+    "text": "000",
+    "correct": true
   },
   {
     "id": "event_2025-06-27_163937.json",
     "description": "class=android.widget.AutoCompleteTextView, resource_id=com.fsck.k9.debug:id/search_src_text",
-    "text": "94102"
+    "text": "94102",
+    "correct": true
   },
   {
     "id": "event_2025-06-27_163944.json",
     "description": "class=android.widget.AutoCompleteTextView, resource_id=com.fsck.k9.debug:id/search_src_text",
-    "text": "pleasurable"
+    "text": "pleasurable",
+    "correct": true
   },
   {
     "id": "event_2025-06-27_163951.json",
     "description": "class=android.widget.AutoCompleteTextView, resource_id=com.fsck.k9.debug:id/search_src_text",
-    "text": "pleasurable"
+    "text": "pleasurable",
+    "correct": true
   },
   {
     "id": "event_2025-06-27_164115.json",
     "description": "class=android.widget.AutoCompleteTextView, resource_id=com.fsck.k9.debug:id/search_src_text",
-    "text": "new"
+    "text": "new",
+    "correct": true
   },
   {
     "id": "event_2025-06-27_164122.json",
     "description": "class=android.widget.AutoCompleteTextView, resource_id=com.fsck.k9.debug:id/search_src_text",
-    "text": "JohnSmith"
+    "text": "JohnSmith",
+    "correct": true
   },
   {
     "id": "event_2025-06-27_164128.json",
     "description": "class=android.widget.AutoCompleteTextView, resource_id=com.fsck.k9.debug:id/search_src_text",
-    "text": "pleasurable"
+    "text": "pleasurable",
+    "correct": true
   },
   {
     "id": "event_2025-06-27_164135.json",
     "description": "class=android.widget.AutoCompleteTextView, resource_id=com.fsck.k9.debug:id/search_src_text",
-    "text": "pleasurable"
+    "text": "pleasurable",
+    "correct": true
   },
   {
     "id": "event_2025-06-27_164142.json",
     "description": "class=android.widget.AutoCompleteTextView, resource_id=com.fsck.k9.debug:id/search_src_text",
-    "text": "JohnSmith"
+    "text": "JohnSmith",
+    "correct": true
   },
   {
     "id": "event_2025-06-27_164149.json",
     "description": "class=android.widget.AutoCompleteTextView, resource_id=com.fsck.k9.debug:id/search_src_text",
-    "text": "JohnSmith"
+    "text": "JohnSmith",
+    "correct": true
   },
   {
     "id": "event_2025-06-27_164246.json",
     "description": "class=android.widget.EditText, resource_id=com.fsck.k9.debug:id/message_content",
-    "text": "000"
+    "text": "000",
+    "correct": true
   },
   {
     "id": "event_2025-06-27_164254.json",
     "description": "class=android.widget.EditText, resource_id=com.fsck.k9.debug:id/message_content",
-    "text": "0000"
+    "text": "0000",
+    "correct": true
   },
   {
     "id": "event_2025-06-27_164302.json",
     "description": "class=android.widget.EditText, resource_id=com.fsck.k9.debug:id/message_content",
-    "text": "Germany"
+    "text": "Germany",
+    "correct": true
   },
   {
     "id": "event_2025-06-27_164310.json",
     "description": "class=android.widget.EditText, resource_id=com.fsck.k9.debug:id/message_content",
-    "text": "00"
+    "text": "00",
+    "correct": true
   },
   {
     "id": "event_2025-06-27_164318.json",
     "description": "class=android.widget.EditText, resource_id=com.fsck.k9.debug:id/message_content",
-    "text": "000"
+    "text": "000",
+    "correct": true
   },
   {
     "id": "event_2025-06-27_164325.json",
     "description": "class=android.widget.EditText, resource_id=com.fsck.k9.debug:id/message_content",
-    "text": "000"
+    "text": "000",
+    "correct": true
   },
   {
     "id": "event_2025-06-27_165226.json",
     "description": "class=android.widget.AutoCompleteTextView, resource_id=com.fsck.k9.debug:id/search_src_text",
-    "text": ""
+    "text": "",
+    "correct": false
   },
   {
     "id": "event_2025-06-27_165331.json",
     "description": "class=android.widget.EditText, resource_id=com.fsck.k9.debug:id/message_content",
-    "text": "vets san franci"
+    "text": "vets san franci",
+    "correct": true
   },
   {
     "id": "event_2025-06-27_165341.json",
     "description": "class=android.widget.EditText, resource_id=com.fsck.k9.debug:id/message_content",
-    "text": "4153402067"
+    "text": "4153402067",
+    "correct": true
   },
   {
     "id": "event_2025-06-27_165349.json",
     "description": "class=android.widget.EditText, resource_id=com.fsck.k9.debug:id/message_content",
-    "text": "vets san franci"
+    "text": "vets san franci",
+    "correct": true
   },
   {
     "id": "event_2025-06-27_165359.json",
     "description": "class=android.widget.EditText, resource_id=com.fsck.k9.debug:id/message_content",
-    "text": "vets san franci"
+    "text": "vets san franci",
+    "correct": true
   },
   {
     "id": "event_2025-06-27_171117.json",
     "description": "class=android.widget.EditText, resource_id=com.fsck.k9.debug:id/message_content",
-    "text": "vets san franci"
+    "text": "vets san franci",
+    "correct": true
   },
   {
     "id": "event_2025-06-27_171128.json",
     "description": "class=android.widget.EditText, resource_id=com.fsck.k9.debug:id/message_content",
-    "text": "vets san franci"
+    "text": "vets san franci",
+    "correct": true
   }
 ]

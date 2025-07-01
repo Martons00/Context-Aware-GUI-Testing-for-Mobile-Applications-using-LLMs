@@ -2,506 +2,607 @@
   {
     "id": "event_2025-05-18_210019.json",
     "description": "class=android.widget.EditText, resource_id=net.thunderbird.android.debug:id/to",
-    "text": "anna.verdi@example.com"
+    "text": "anna.verdi@example.com",
+    "correct": true
   },
   {
     "id": "event_2025-05-18_210036.json",
     "description": "class=android.widget.EditText, resource_id=net.thunderbird.android.debug:id/subject",
-    "text": "3\n\nContext: class=android.widget.EditText, resource_id"
+    "text": "3\n\nContext: class=android.widget.EditText, resource_id",
+    "correct": false
   },
   {
     "id": "event_2025-05-18_210057.json",
     "description": "class=android.widget.EditText, resource_id=net.thunderbird.android.debug:id/message_content",
-    "text": "cc"
+    "text": "cc",
+    "correct": false
   },
   {
     "id": "event_2025-05-18_210144.json",
     "description": "class=android.widget.EditText, resource_id=net.thunderbird.android.debug:id/subject",
-    "text": "1234567890\nOutput:1234567890"
+    "text": "1234567890\nOutput:1234567890",
+    "correct": true
   },
   {
     "id": "event_2025-05-18_210252.json",
     "description": "class=android.widget.EditText, resource_id=net.thunderbird.android.debug:id/subject",
-    "text": "anna"
+    "text": "anna",
+    "correct": true
   },
   {
     "id": "event_2025-05-18_210613.json",
     "description": "class=android.widget.EditText, resource_id=net.thunderbird.android.debug:id/subject",
-    "text": "test\n\nContext: class=android.widget.EditText, resource_id=net.thunderbird.android.debug:id/body\nInput:bodyoutput"
+    "text": "test\n\nContext: class=android.widget.EditText, resource_id=net.thunderbird.android.debug:id/body\nInput:bodyoutput",
+    "correct": false
   },
   {
     "id": "event_2025-05-18_210651.json",
     "description": "class=android.widget.EditText, resource_id=net.thunderbird.android.debug:id/subject",
-    "text": "100000000000"
+    "text": "100000000000",
+    "correct": true
   },
   {
     "id": "event_2025-05-18_210736.json",
     "description": "class=android.widget.EditText, resource_id=net.thunderbird.android.debug:id/to",
-    "text": "anna.verdi@example.com\n\nContext"
+    "text": "anna.verdi@example.com\n\nContext",
+    "correct": true
   },
   {
     "id": "event_2025-05-18_210800.json",
     "description": "class=android.widget.EditText, resource_id=net.thunderbird.android.debug:id/subject",
-    "text": "1000.0\n\nContext: class=android.widget.EditText, resource_id=net"
+    "text": "1000.0\n\nContext: class=android.widget.EditText, resource_id=net",
+    "correct": true
   },
   {
     "id": "event_2025-05-18_210805.json",
     "description": "class=android.widget.EditText, resource_id=net.thunderbird.android.debug:id/subject",
-    "text": "0.0"
+    "text": "0.0",
+    "correct": true
   },
   {
     "id": "event_2025-05-18_210810.json",
     "description": "class=android.widget.EditText, resource_id=net.thunderbird.android.debug:id/message_content",
-    "text": "Anna Verdi"
+    "text": "Anna Verdi",
+    "correct": true
   },
   {
     "id": "event_2025-05-18_210832.json",
     "description": "class=android.widget.EditText, resource_id=net.thunderbird.android.debug:id/subject",
-    "text": "Anna Verdi\nOutput"
+    "text": "Anna Verdi\nOutput",
+    "correct": false
   },
   {
     "id": "event_2025-05-18_211925.json",
     "description": "class=android.widget.EditText, resource_id=net.thunderbird.android.debug:id/message_content",
-    "text": "1234567890\nContext: class=android.widget"
+    "text": "1234567890\nContext: class=android.widget",
+    "correct": true
   },
   {
     "id": "event_2025-05-18_212054.json",
     "description": "class=android.widget.EditText, resource_id=net.thunderbird.android.debug:id/message_content",
-    "text": "mario.rossi@example.com"
+    "text": "mario.rossi@example.com",
+    "correct": false
   },
   {
     "id": "event_2025-05-18_212132.json",
     "description": "class=android.widget.EditText, resource_id=net.thunderbird.android.debug:id/message_content",
-    "text": "Anna Verdi"
+    "text": "Anna Verdi",
+    "correct": true
   },
   {
     "id": "event_2025-05-18_212217.json",
     "description": "class=android.widget.EditText, resource_id=net.thunderbird.android.debug:id/to",
-    "text": "mario.rossi@example.com\nOutput: mario.rossi@example.com"
+    "text": "mario.rossi@example.com\nOutput: mario.rossi@example.com",
+    "correct": false
   },
   {
     "id": "event_2025-05-18_212238.json",
     "description": "class=android.widget.EditText, resource_id=net.thunderbird.android.debug:id/message_content",
-    "text": "Anna Verdi"
+    "text": "Anna Verdi",
+    "correct": true
   },
   {
     "id": "event_2025-05-18_212244.json",
     "description": "class=android.widget.EditText, resource_id=net.thunderbird.android.debug:id/subject",
-    "text": ""
+    "text": "",
+    "correct": false
   },
   {
     "id": "event_2025-05-18_212414.json",
     "description": "class=android.widget.EditText, resource_id=net.thunderbird.android.debug:id/message_content",
-    "text": "mario.rossi@example.com"
+    "text": "mario.rossi@example.com",
+    "correct": false
   },
   {
     "id": "event_2025-05-18_212420.json",
     "description": "class=android.widget.EditText, resource_id=net.thunderbird.android.debug:id/message_content",
-    "text": "Anna Verdi"
+    "text": "Anna Verdi",
+    "correct": true
   },
   {
     "id": "event_2025-05-18_212450.json",
     "description": "class=android.widget.EditText, resource_id=net.thunderbird.android.debug:id/subject",
-    "text": ""
+    "text": "",
+    "correct": false
   },
   {
     "id": "event_2025-05-18_212909.json",
     "description": "class=android.widget.EditText, resource_id=net.thunderbird.android.debug:id/to",
-    "text": "mario.rossi@example.com"
+    "text": "mario.rossi@example.com",
+    "correct": true
   },
   {
     "id": "event_2025-05-18_213718.json",
     "description": "class=android.widget.EditText, resource_id=net.thunderbird.android.debug:id/to",
-    "text": "Anna Verdi\n\nContext: class=android.widget.EditText, resource_id=net.thunderbird.android.debug:id/cc\nInput:ccoutput"
+    "text": "Anna Verdi\n\nContext: class=android.widget.EditText, resource_id=net.thunderbird.android.debug:id/cc\nInput:ccoutput",
+    "correct": false
   },
   {
     "id": "event_2025-05-18_213725.json",
     "description": "class=android.widget.EditText, resource_id=net.thunderbird.android.debug:id/subject",
-    "text": "2022-12-15 12:33:59.000: V - [DEBUG] [debug] - [Android Debug Bridge] [0.0.0] [2022-12-15T12:33:59.000Z] [debug] [net.thunderbird.android.debug] [0.0.0"
+    "text": "2022-12-15 12:33:59.000: V - [DEBUG] [debug] - [Android Debug Bridge] [0.0.0] [2022-12-15T12:33:59.000Z] [debug] [net.thunderbird.android.debug] [0.0.0",
+    "correct": false
   },
   {
     "id": "event_2025-05-18_213730.json",
     "description": "class=android.widget.EditText, resource_id=net.thunderbird.android.debug:id/message_content",
-    "text": "romeo.guiccioli@example.com"
+    "text": "romeo.guiccioli@example.com",
+    "correct": false
   },
   {
     "id": "event_2025-05-18_220229.json",
     "description": "class=android.widget.EditText, resource_id=net.thunderbird.android.debug:id/to",
-    "text": "mario.rossi@example.com\nContext: class=android.widget.EditText, resource_id=net.thunderbird.android.debug:id/name\nInput:nameoutput: Anna Verdi\nContext: class=android.widget.EditText, resource_id=net.thunderbird.android.debug:id/cc\nInput:ccoutput: anna.verdi@example.com\n\nEsemp"
+    "text": "mario.rossi@example.com\nContext: class=android.widget.EditText, resource_id=net.thunderbird.android.debug:id/name\nInput:nameoutput: Anna Verdi\nContext: class=android.widget.EditText, resource_id=net.thunderbird.android.debug:id/cc\nInput:ccoutput: anna.verdi@example.com\n\nEsemp",
+    "correct": false
   },
   {
     "id": "event_2025-05-18_220236.json",
     "description": "class=android.widget.EditText, resource_id=net.thunderbird.android.debug:id/subject",
-    "text": ""
+    "text": "",
+    "correct": false
   },
   {
     "id": "event_2025-05-18_220241.json",
     "description": "class=android.widget.EditText, resource_id=net.thunderbird.android.debug:id/message_content",
-    "text": "1234567890\nContext"
+    "text": "1234567890\nContext",
+    "correct": true
   },
   {
     "id": "event_2025-05-18_220529.json",
     "description": "class=android.widget.EditText, resource_id=net.thunderbird.android.debug:id/to",
-    "text": "mario.rossi@example.com\nContext: class=android.widget.EditText, resource_id=net.thunderbird.android.debug:id/name\nInput: nameoutput: Anna Verdi\nContext: class=android.widget.EditText, resource_id=net.thunderbird.android.debug:id/cc\nInput: ccoutput: anna.verdi@example.com"
+    "text": "mario.rossi@example.com\nContext: class=android.widget.EditText, resource_id=net.thunderbird.android.debug:id/name\nInput: nameoutput: Anna Verdi\nContext: class=android.widget.EditText, resource_id=net.thunderbird.android.debug:id/cc\nInput: ccoutput: anna.verdi@example.com",
+    "correct": false
   },
   {
     "id": "event_2025-05-18_220535.json",
     "description": "class=android.widget.EditText, resource_id=net.thunderbird.android.debug:id/subject",
-    "text": "cc\nOutput: cc"
+    "text": "cc\nOutput: cc",
+    "correct": false
   },
   {
     "id": "event_2025-05-18_220541.json",
     "description": "class=android.widget.EditText, resource_id=net.thunderbird.android.debug:id/message_content",
-    "text": "2"
+    "text": "2",
+    "correct": true
   },
   {
     "id": "event_2025-05-18_220819.json",
     "description": "class=android.widget.EditText, resource_id=net.thunderbird.android.debug:id/search_src_text",
-    "text": "2.0.0"
+    "text": "2.0.0",
+    "correct": true
   },
   {
     "id": "event_2025-05-18_221624.json",
     "description": "class=android.widget.EditText, resource_id=net.thunderbird.android.debug:id/to",
-    "text": "mario.rossi@example.com\nContext: class=android.widget.EditText, resource_id=net.thunderbird.android.debug:id/name\nInput: nameoutput: Anna Verdi\nContext: class=android.widget.EditText, resource_id=net.thunderbird.android.debug:id/cc\nInput: ccoutput: anna.verdi@example.com\nContext:"
+    "text": "mario.rossi@example.com\nContext: class=android.widget.EditText, resource_id=net.thunderbird.android.debug:id/name\nInput: nameoutput: Anna Verdi\nContext: class=android.widget.EditText, resource_id=net.thunderbird.android.debug:id/cc\nInput: ccoutput: anna.verdi@example.com\nContext:",
+    "correct": false
   },
   {
     "id": "event_2025-05-18_222158.json",
     "description": "class=android.widget.EditText, resource_id=net.thunderbird.android.debug:id/search_src_text",
-    "text": "mario.rossi@example.com"
+    "text": "mario.rossi@example.com",
+    "correct": true
   },
   {
     "id": "event_2025-05-18_222243.json",
     "description": "class=android.widget.EditText, resource_id=net.thunderbird.android.debug:id/subject",
-    "text": "net.thunderbird.android.debug:id/subject"
+    "text": "net.thunderbird.android.debug:id/subject",
+    "correct": true
   },
   {
     "id": "event_2025-05-18_222857.json",
     "description": "class=android.widget.EditText, resource_id=net.thunderbird.android.debug:id/to",
-    "text": "anna.verdi@example.com\n\nContext: class"
+    "text": "anna.verdi@example.com\n\nContext: class",
+    "correct": false
   },
   {
     "id": "event_2025-05-18_223509.json",
     "description": "class=android.widget.EditText, resource_id=net.thunderbird.android.debug:id/to",
-    "text": "anna.verdi@example.com\n\nContext: class"
+    "text": "anna.verdi@example.com\n\nContext: class",
+    "correct": false
   },
   {
     "id": "event_2025-05-18_223515.json",
     "description": "class=android.widget.EditText, resource_id=net.thunderbird.android.debug:id/subject",
-    "text": "123456789"
+    "text": "123456789",
+    "correct": true
   },
   {
     "id": "event_2025-05-18_223521.json",
     "description": "class=android.widget.EditText, resource_id=net.thunderbird.android.debug:id/message_content",
-    "text": ""
+    "text": "",
+    "correct": false
   },
   {
     "id": "event_2025-05-18_224137.json",
     "description": "class=android.widget.EditText, resource_id=net.thunderbird.android.debug:id/to",
-    "text": "anna.verdi@example.com\n\nContext"
+    "text": "anna.verdi@example.com\n\nContext",
+    "correct": false
   },
   {
     "id": "event_2025-05-18_224144.json",
     "description": "class=android.widget.EditText, resource_id=net.thunderbird.android.debug:id/subject",
-    "text": "4\n\nContext: class=android.widget.EditText, resource_id="
+    "text": "4\n\nContext: class=android.widget.EditText, resource_id=",
+    "correct": false
   },
   {
     "id": "event_2025-05-18_224150.json",
     "description": "class=android.widget.EditText, resource_id=net.thunderbird.android.debug:id/message_content",
-    "text": "hello world\n\nContext: class=android.widget.EditText"
+    "text": "hello world\n\nContext: class=android.widget.EditText",
+    "correct": true
   },
   {
     "id": "event_2025-05-18_224637.json",
     "description": "class=android.widget.EditText, resource_id=net.thunderbird.android.debug:id/message_content",
-    "text": "2\n\nContext: class=android.widget.EditText, resource_id"
+    "text": "2\n\nContext: class=android.widget.EditText, resource_id",
+    "correct": true
   },
   {
     "id": "event_2025-05-18_225251.json",
     "description": "class=android.widget.EditText, resource_id=net.thunderbird.android.debug:id/to",
-    "text": "mario.rossi@example.com\nContext: class=android.widget.EditText, resource_id=net.thunderbird.android.debug:id/name\nInput:nameoutput: Anna Verdi\nContext: class=android.widget.EditText, resource_id=net.thunderbird.android.debug:id/cc\nInput: ccoutput: anna.verdi@example.com\nContext: class"
+    "text": "mario.rossi@example.com\nContext: class=android.widget.EditText, resource_id=net.thunderbird.android.debug:id/name\nInput:nameoutput: Anna Verdi\nContext: class=android.widget.EditText, resource_id=net.thunderbird.android.debug:id/cc\nInput: ccoutput: anna.verdi@example.com\nContext: class",
+    "correct": false
   },
   {
     "id": "event_2025-05-18_225904.json",
     "description": "class=android.widget.EditText, resource_id=net.thunderbird.android.debug:id/to",
-    "text": "anna.verdi@example.com"
+    "text": "anna.verdi@example.com",
+    "correct": true
   },
   {
     "id": "event_2025-05-18_225910.json",
     "description": "class=android.widget.EditText, resource_id=net.thunderbird.android.debug:id/subject",
-    "text": "3\n\nContext: class=android.widget.EditText, resource_id"
+    "text": "3\n\nContext: class=android.widget.EditText, resource_id",
+    "correct": false
   },
   {
     "id": "event_2025-05-18_230209.json",
     "description": "class=android.widget.EditText, resource_id=net.thunderbird.android.debug:id/reply_to",
-    "text": "@example.com\n\nContext: class=android.widget.EditText, resource_id=net.thunderbird.android.debug:id/email\nInput:email :  anna.verdi@example.com\n\nContext: class=android.widget.EditText, resource_id=net.thunderbird.android.debug:id/body\nInput:body :  Hello, this is a test"
+    "text": "@example.com\n\nContext: class=android.widget.EditText, resource_id=net.thunderbird.android.debug:id/email\nInput:email :  anna.verdi@example.com\n\nContext: class=android.widget.EditText, resource_id=net.thunderbird.android.debug:id/body\nInput:body :  Hello, this is a test",
+    "correct": false
   },
   {
     "id": "event_2025-05-18_230711.json",
     "description": "class=android.widget.EditText, resource_id=net.thunderbird.android.debug:id/reply_to",
-    "text": "1\nOutput: net.thunderbird.android.debug:id/reply_to: 1"
+    "text": "1\nOutput: net.thunderbird.android.debug:id/reply_to: 1",
+    "correct": false
   },
   {
     "id": "event_2025-05-18_230717.json",
     "description": "class=android.widget.EditText, resource_id=net.thunderbird.android.debug:id/to",
-    "text": "Anna Verdi\n\nContext: class=android.widget.EditText, resource_id=net.thunderbird.android.debug:id/cc\nInput:ccoutput"
+    "text": "Anna Verdi\n\nContext: class=android.widget.EditText, resource_id=net.thunderbird.android.debug:id/cc\nInput:ccoutput",
+    "correct": false
   },
   {
     "id": "event_2025-05-18_230723.json",
     "description": "class=android.widget.EditText, resource_id=net.thunderbird.android.debug:id/subject",
-    "text": "2013-09-19 10:31:32.000000\n\nContext: class=android.widget.EditText, resource_id=net"
+    "text": "2013-09-19 10:31:32.000000\n\nContext: class=android.widget.EditText, resource_id=net",
+    "correct": false
   },
   {
     "id": "event_2025-05-18_230729.json",
     "description": "class=android.widget.EditText, resource_id=net.thunderbird.android.debug:id/message_content",
-    "text": "anna.verdi@example.com\n\nContext: class=android.widget.EditText, resource_id=net.thunderbird.android.debug:id/password\nInput: passwordoutput: anna.verdi@example.com\n\nContext: class=android.widget.EditText, resource_id=net.thunderbird.android.debug:id/username\nInput: usernameoutput: anna.verdi@example"
+    "text": "anna.verdi@example.com\n\nContext: class=android.widget.EditText, resource_id=net.thunderbird.android.debug:id/password\nInput: passwordoutput: anna.verdi@example.com\n\nContext: class=android.widget.EditText, resource_id=net.thunderbird.android.debug:id/username\nInput: usernameoutput: anna.verdi@example",
+    "correct": false
   },
   {
     "id": "event_2025-05-18_231036.json",
     "description": "class=android.widget.EditText, resource_id=net.thunderbird.android.debug:id/reply_to",
-    "text": "net.thunderbird.android.debug:id/reply_to\n\nContext: class=android.widget.EditText, resource_id=net.thunderbird.android.debug:id/subject\nInput:subjectoutput:  net.thunderbird.android.debug:id/subject\n\nContext: class=android.widget.EditText, resource_id=net.thunderbird.android.debug:id/subject"
+    "text": "net.thunderbird.android.debug:id/reply_to\n\nContext: class=android.widget.EditText, resource_id=net.thunderbird.android.debug:id/subject\nInput:subjectoutput:  net.thunderbird.android.debug:id/subject\n\nContext: class=android.widget.EditText, resource_id=net.thunderbird.android.debug:id/subject",
+    "correct": false
   },
   {
     "id": "event_2025-05-18_231042.json",
     "description": "class=android.widget.EditText, resource_id=net.thunderbird.android.debug:id/to",
-    "text": "Anna Verdi\nOutput: Anna Verdi\n\n\nContext: class=android.widget.EditText, resource_id=net.thunderbird.android.debug:id"
+    "text": "Anna Verdi\nOutput: Anna Verdi\n\n\nContext: class=android.widget.EditText, resource_id=net.thunderbird.android.debug:id",
+    "correct": false
   },
   {
     "id": "event_2025-05-18_231048.json",
     "description": "class=android.widget.EditText, resource_id=net.thunderbird.android.debug:id/cc",
-    "text": "1"
+    "text": "1",
+    "correct": false
   },
   {
     "id": "event_2025-05-18_231614.json",
     "description": "class=android.widget.EditText, resource_id=net.thunderbird.android.debug:id/reply_to",
-    "text": "10.0.3.6\nOutput: 10.0.3.6\n\nContext: class=android.widget.EditText, content=Campo descrizione problema\nInput: cc\nOutput: anna.verdi@example.com\n\nContext: class=android.widget.EditText, resource_id=net.thunderbird.android.debug:id/reply_to"
+    "text": "10.0.3.6\nOutput: 10.0.3.6\n\nContext: class=android.widget.EditText, content=Campo descrizione problema\nInput: cc\nOutput: anna.verdi@example.com\n\nContext: class=android.widget.EditText, resource_id=net.thunderbird.android.debug:id/reply_to",
+    "correct": false
   },
   {
     "id": "event_2025-05-18_231620.json",
     "description": "class=android.widget.EditText, resource_id=net.thunderbird.android.debug:id/to",
-    "text": "1234567890\nOutput: 1234567890"
+    "text": "1234567890\nOutput: 1234567890",
+    "correct": false
   },
   {
     "id": "event_2025-05-18_231626.json",
     "description": "class=android.widget.EditText, resource_id=net.thunderbird.android.debug:id/cc",
-    "text": "cc"
+    "text": "cc",
+    "correct": false
   },
   {
     "id": "event_2025-05-18_231632.json",
     "description": "class=android.widget.EditText, resource_id=net.thunderbird.android.debug:id/subject",
-    "text": "10.0.0.4"
+    "text": "10.0.0.4",
+    "correct": true
   },
   {
     "id": "event_2025-05-18_231638.json",
     "description": "class=android.widget.EditText, resource_id=net.thunderbird.android.debug:id/message_content",
-    "text": "cc"
+    "text": "cc",
+    "correct": true
   },
   {
     "id": "event_2025-05-18_231952.json",
     "description": "class=android.widget.EditText, resource_id=net.thunderbird.android.debug:id/reply_to",
-    "text": "4\n\nContext"
+    "text": "4\n\nContext",
+    "correct": false
   },
   {
     "id": "event_2025-05-18_231958.json",
     "description": "class=android.widget.EditText, resource_id=net.thunderbird.android.debug:id/to",
-    "text": "mario.rossi@example.com\nContext: class=android.widget.EditText, resource_id=net.thunderbird.android.debug:id/name\nInput: name output: Anna Verdi\nContext: class=android.widget.EditText, resource_id=net.thunderbird.android.debug:id/cc\nInput: ccoutput: anna.verdi@example.com"
+    "text": "mario.rossi@example.com\nContext: class=android.widget.EditText, resource_id=net.thunderbird.android.debug:id/name\nInput: name output: Anna Verdi\nContext: class=android.widget.EditText, resource_id=net.thunderbird.android.debug:id/cc\nInput: ccoutput: anna.verdi@example.com",
+    "correct": false
   },
   {
     "id": "event_2025-05-18_232004.json",
     "description": "class=android.widget.EditText, resource_id=net.thunderbird.android.debug:id/cc",
-    "text": "anna.verdi@example.com"
+    "text": "anna.verdi@example.com",
+    "correct": true
   },
   {
     "id": "event_2025-05-18_232010.json",
     "description": "class=android.widget.EditText, resource_id=net.thunderbird.android.debug:id/bcc",
-    "text": "Anna Verdi\n\nContext: class=android.widget.EditText, resource"
+    "text": "Anna Verdi\n\nContext: class=android.widget.EditText, resource",
+    "correct": false
   },
   {
     "id": "event_2025-05-18_232404.json",
     "description": "class=android.widget.EditText, resource_id=net.thunderbird.android.debug:id/reply_to",
-    "text": "1234567890\nOutput: 1234567890\n\nContext: class=android.widget.EditText, resource_id=net.th"
+    "text": "1234567890\nOutput: 1234567890\n\nContext: class=android.widget.EditText, resource_id=net.th",
+    "correct": false
   },
   {
     "id": "event_2025-05-18_232410.json",
     "description": "class=android.widget.EditText, resource_id=net.thunderbird.android.debug:id/to",
-    "text": "1\nContext: class=android.widget.EditText, resource_id=net.thunderbird.android.debug:id/username\nInput:username\nContext: class=android.widget.EditText, resource_id=net.thunderbird.android.debug:id/pwd\nInput:pwd\nContext: class=android.widget.EditText, resource_id=net.thunderbird.android.debug:id/name"
+    "text": "1\nContext: class=android.widget.EditText, resource_id=net.thunderbird.android.debug:id/username\nInput:username\nContext: class=android.widget.EditText, resource_id=net.thunderbird.android.debug:id/pwd\nInput:pwd\nContext: class=android.widget.EditText, resource_id=net.thunderbird.android.debug:id/name",
+    "correct": false
   },
   {
     "id": "event_2025-05-18_232416.json",
     "description": "class=android.widget.EditText, resource_id=net.thunderbird.android.debug:id/cc",
-    "text": "anna.verdi@example.com\n\n\nContext: class=android.widget.EditText, content=Campo nome\nInput: nameoutput: Anna Verdi\n\n\nContext: class=android.widget.EditText, content=Campo descrizione problema\nInput: ccoutput: anna.verdi@example.com\n\n\nContext: class=android.widget.EditText, resource_id=net.thunderbird"
+    "text": "anna.verdi@example.com\n\n\nContext: class=android.widget.EditText, content=Campo nome\nInput: nameoutput: Anna Verdi\n\n\nContext: class=android.widget.EditText, content=Campo descrizione problema\nInput: ccoutput: anna.verdi@example.com\n\n\nContext: class=android.widget.EditText, resource_id=net.thunderbird",
+    "correct": false
   },
   {
     "id": "event_2025-05-18_232422.json",
     "description": "class=android.widget.EditText, resource_id=net.thunderbird.android.debug:id/bcc",
-    "text": "anna.verdi@example.com"
+    "text": "anna.verdi@example.com",
+    "correct": true
   },
   {
     "id": "event_2025-05-18_232428.json",
     "description": "class=android.widget.EditText, resource_id=net.thunderbird.android.debug:id/subject",
-    "text": "net"
+    "text": "net",
+    "correct": true
   },
   {
     "id": "event_2025-05-18_232434.json",
     "description": "class=android.widget.EditText, resource_id=net.thunderbird.android.debug:id/message_content",
-    "text": "0\nOutput: 0"
+    "text": "0\nOutput: 0",
+    "correct": true
   },
   {
     "id": "event_2025-05-18_232959.json",
     "description": "class=android.widget.EditText, resource_id=net.thunderbird.android.debug:id/reply_to",
-    "text": "10\nOutput: 10"
+    "text": "10\nOutput: 10",
+    "correct": false
   },
   {
     "id": "event_2025-05-18_233005.json",
     "description": "class=android.widget.EditText, resource_id=net.thunderbird.android.debug:id/to",
-    "text": "mario.rossi@example.com\n\nContext: class=android.widget.EditText, resource_id=net.thunderbird.android.debug:id/name\nInput:nameoutput:  Anna Verdi\n\nContext: class=android.widget.EditText, resource_id=net.thunderbird.android.debug:id/cc\nInput: ccoutput:  anna.verdi@example.com"
+    "text": "mario.rossi@example.com\n\nContext: class=android.widget.EditText, resource_id=net.thunderbird.android.debug:id/name\nInput:nameoutput:  Anna Verdi\n\nContext: class=android.widget.EditText, resource_id=net.thunderbird.android.debug:id/cc\nInput: ccoutput:  anna.verdi@example.com",
+    "correct": false
   },
   {
     "id": "event_2025-05-18_233011.json",
     "description": "class=android.widget.EditText, resource_id=net.thunderbird.android.debug:id/cc",
-    "text": "cc\n\n\nContext: class=android.widget.EditText, resource_id=net.th"
+    "text": "cc\n\n\nContext: class=android.widget.EditText, resource_id=net.th",
+    "correct": false
   },
   {
     "id": "event_2025-05-18_233016.json",
     "description": "class=android.widget.EditText, resource_id=net.thunderbird.android.debug:id/bcc",
-    "text": "1\n\nContext: class=android.widget.EditText, resource_id=net.thunderbird.android.debug:id/text\nInput:"
+    "text": "1\n\nContext: class=android.widget.EditText, resource_id=net.thunderbird.android.debug:id/text\nInput:",
+    "correct": false
   },
   {
     "id": "event_2025-05-18_233022.json",
     "description": "class=android.widget.EditText, resource_id=net.thunderbird.android.debug:id/subject",
-    "text": "1234"
+    "text": "1234",
+    "correct": true
   },
   {
     "id": "event_2025-05-18_233028.json",
     "description": "class=android.widget.EditText, resource_id=net.thunderbird.android.debug:id/message_content",
-    "text": "ciao\n\nContext: class"
+    "text": "ciao\n\nContext: class",
+    "correct": true
   },
   {
     "id": "event_2025-05-18_233357.json",
     "description": "class=android.widget.EditText, resource_id=net.thunderbird.android.debug:id/reply_to",
-    "text": "1\n\nContext: class=android.widget.EditText, resource_id=net.thunderbird.android.debug:id/send_message\nInput:send_messageoutput: 1"
+    "text": "1\n\nContext: class=android.widget.EditText, resource_id=net.thunderbird.android.debug:id/send_message\nInput:send_messageoutput: 1",
+    "correct": false
   },
   {
     "id": "event_2025-05-18_233403.json",
     "description": "class=android.widget.EditText, resource_id=net.thunderbird.android.debug:id/to",
-    "text": "2\n\nContext: class=android.widget.EditText, resource_id=net.th"
+    "text": "2\n\nContext: class=android.widget.EditText, resource_id=net.th",
+    "correct": false
   },
   {
     "id": "event_2025-05-18_233409.json",
     "description": "class=android.widget.EditText, resource_id=net.thunderbird.android.debug:id/cc",
-    "text": "anna.verdi@example.com"
+    "text": "anna.verdi@example.com",
+    "correct": true
   },
   {
     "id": "event_2025-05-18_233415.json",
     "description": "class=android.widget.EditText, resource_id=net.thunderbird.android.debug:id/bcc",
-    "text": "1@london.example.com"
+    "text": "1@london.example.com",
+    "correct": true
   },
   {
     "id": "event_2025-05-18_233420.json",
     "description": "class=android.widget.EditText, resource_id=net.thunderbird.android.debug:id/subject",
-    "text": "net.thunderbird.android.debug:id/subject"
+    "text": "net.thunderbird.android.debug:id/subject",
+    "correct": true
   },
   {
     "id": "event_2025-05-18_233426.json",
     "description": "class=android.widget.EditText, resource_id=net.thunderbird.android.debug:id/message_content",
-    "text": "Anna Verdi\n\nContext: class=android.widget.EditText, content=Campo descrizione problema\nInput: cc\nOutput: anna.verdi@example.com\n\nContext: class=android.widget.EditText, content=Campo descrizione problema\nInput: cc\nOutput: anna.verdi@example.com\n\nContext: class=android.widget.EditText, content="
+    "text": "Anna Verdi\n\nContext: class=android.widget.EditText, content=Campo descrizione problema\nInput: cc\nOutput: anna.verdi@example.com\n\nContext: class=android.widget.EditText, content=Campo descrizione problema\nInput: cc\nOutput: anna.verdi@example.com\n\nContext: class=android.widget.EditText, content=",
+    "correct": true
   },
   {
     "id": "event_2025-05-18_233758.json",
     "description": "class=android.widget.EditText, resource_id=net.thunderbird.android.debug:id/subject",
-    "text": "3\n\nContext: class=android.widget.EditText, resource_id"
+    "text": "3\n\nContext: class=android.widget.EditText, resource_id",
+    "correct": false
   },
   {
     "id": "event_2025-05-18_233803.json",
     "description": "class=android.widget.EditText, resource_id=net.thunderbird.android.debug:id/subject",
-    "text": "cc\n\nContext: class=android.widget.EditText, resource_id="
+    "text": "cc\n\nContext: class=android.widget.EditText, resource_id=",
+    "correct": false
   },
   {
     "id": "event_2025-05-18_233809.json",
     "description": "class=android.widget.EditText, resource_id=net.thunderbird.android.debug:id/message_content",
-    "text": "cc"
+    "text": "cc",
+    "correct": true
   },
   {
     "id": "event_2025-05-18_234425.json",
     "description": "class=android.widget.EditText, resource_id=net.thunderbird.android.debug:id/to",
-    "text": "anna.verdi@example.com\n\nContext:"
+    "text": "anna.verdi@example.com\n\nContext:",
+    "correct": false
   },
   {
     "id": "event_2025-05-18_234727.json",
     "description": "class=android.widget.EditText, resource_id=net.thunderbird.android.debug:id/to",
-    "text": "net"
+    "text": "net",
+    "correct": false
   },
   {
     "id": "event_2025-05-18_234733.json",
     "description": "class=android.widget.EditText, resource_id=net.thunderbird.android.debug:id/cc",
-    "text": "anna.verdi@example.com"
+    "text": "anna.verdi@example.com",
+    "correct": true
   },
   {
     "id": "event_2025-05-18_235443.json",
     "description": "class=android.widget.EditText, resource_id=net.thunderbird.android.debug:id/to",
-    "text": "mario.rossi@example.com\n\nContext: class=android.widget.EditText, resource_id=net.thunderbird.android.debug:id/name\nInput:name output: Anna Verdi\n\nContext: class=android.widget.EditText, resource_id=net.thunderbird.android.debug:id/cc\nInput: cc output: anna.verdi@example.com\n\nContext: class"
+    "text": "mario.rossi@example.com\n\nContext: class=android.widget.EditText, resource_id=net.thunderbird.android.debug:id/name\nInput:name output: Anna Verdi\n\nContext: class=android.widget.EditText, resource_id=net.thunderbird.android.debug:id/cc\nInput: cc output: anna.verdi@example.com\n\nContext: class",
+    "correct": false
   },
   {
     "id": "event_2025-05-18_235449.json",
     "description": "class=android.widget.EditText, resource_id=net.thunderbird.android.debug:id/cc",
-    "text": "anna.verdi@example.com"
+    "text": "anna.verdi@example.com",
+    "correct": true
   },
   {
     "id": "event_2025-05-18_235455.json",
     "description": "class=android.widget.EditText, resource_id=net.thunderbird.android.debug:id/subject",
-    "text": "subject\n\nContext: class=android.widget.EditText, resource_id=net.thunderbird.android.debug:id/subject\nInput:"
+    "text": "subject\n\nContext: class=android.widget.EditText, resource_id=net.thunderbird.android.debug:id/subject\nInput:",
+    "correct": false
   },
   {
     "id": "event_2025-05-18_235501.json",
     "description": "class=android.widget.EditText, resource_id=net.thunderbird.android.debug:id/message_content",
-    "text": "2\n\nContext: class=android.widget.EditText, resource_id"
+    "text": "2\n\nContext: class=android.widget.EditText, resource_id",
+    "correct": true
   },
   {
     "id": "event_2025-05-18_235731.json",
     "description": "class=android.widget.EditText, resource_id=net.thunderbird.android.debug:id/to",
-    "text": "0"
+    "text": "0",
+    "correct": false
   },
   {
     "id": "event_2025-05-18_235738.json",
     "description": "class=android.widget.EditText, resource_id=net.thunderbird.android.debug:id/cc",
-    "text": "anna.verdi@example.com\n\nContext: class=android.widget.EditText, resource_id=net.thunderbird.android.debug:id/"
+    "text": "anna.verdi@example.com\n\nContext: class=android.widget.EditText, resource_id=net.thunderbird.android.debug:id/",
+    "correct": false
   },
   {
     "id": "event_2025-05-18_235744.json",
     "description": "class=android.widget.EditText, resource_id=net.thunderbird.android.debug:id/bcc",
-    "text": "[email\u00a0protected]\nOutput: [email\u00a0protected]"
+    "text": "[email\u00a0protected]\nOutput: [email\u00a0protected]",
+    "correct": false
   },
   {
     "id": "event_2025-05-19_000644.json",
     "description": "class=android.widget.EditText, resource_id=net.thunderbird.android.debug:id/to",
-    "text": "anna.verdi@example.com"
+    "text": "anna.verdi@example.com",
+    "correct": true
   },
   {
     "id": "event_2025-05-19_000650.json",
     "description": "class=android.widget.EditText, resource_id=net.thunderbird.android.debug:id/cc",
-    "text": "cc"
+    "text": "cc",
+    "correct": false
   },
   {
     "id": "event_2025-05-19_000656.json",
     "description": "class=android.widget.EditText, resource_id=net.thunderbird.android.debug:id/bcc",
-    "text": "cc\nOutput: anna.verdi@example.com"
+    "text": "cc\nOutput: anna.verdi@example.com",
+    "correct": false
   },
   {
     "id": "event_2025-05-19_000701.json",
     "description": "class=android.widget.EditText, resource_id=net.thunderbird.android.debug:id/subject",
-    "text": "Anna Verdi\n\n\nContext:"
+    "text": "Anna Verdi\n\n\nContext:",
+    "correct": false
   },
   {
     "id": "event_2025-05-19_000707.json",
     "description": "class=android.widget.EditText, resource_id=net.thunderbird.android.debug:id/message_content",
-    "text": ""
+    "text": "",
+    "correct": false
   },
   {
     "id": "event_2025-05-19_000918.json",
     "description": "class=android.widget.EditText, resource_id=net.thunderbird.android.debug:id/reply_to",
-    "text": "5\nOutput: net.thunderbird.android.debug:id/reply_to : 5"
+    "text": "5\nOutput: net.thunderbird.android.debug:id/reply_to : 5",
+    "correct": false
   },
   {
     "id": "event_2025-05-19_001441.json",
     "description": "class=android.widget.EditText, resource_id=com.microsoft.skydrive:id/authentication_input_text",
-    "text": ""
+    "text": "",
+    "correct": false
   }
 ]

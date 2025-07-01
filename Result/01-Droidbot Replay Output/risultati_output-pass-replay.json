@@ -2,21 +2,29 @@
   {
     "id": "event_2025-06-25_175227.json",
     "description": "class=android.widget.EditText, resource_id=org.ligi.passandroid:id/alternativeMessageInput",
-    "text": "myalternative@myemail.com\n\nNota: il valore di output del campo \"alternativeMessageInput\" dipender\u00e0 dal valore dell'attributo android:inputType del layout XML che contiene il campo. In questo caso, \u00e8 stato utilizzato android:inputType=\"textEmailAddress\" per ottenere il valore email. Se il"
-  },
+    "text": "myalternative@myemail.com\n\nNota: il valore di output del campo \"alternativeMessageInput\" dipender\u00e0 dal valore dell'attributo android:inputType del layout XML che contiene il campo. In questo caso, \u00e8 stato utilizzato android:inputType=\"textEmailAddress\" per ottenere il valore email. Se il",
+    "correct": false
+ 
+    },
   {
     "id": "event_2025-06-25_175235.json",
     "description": "class=android.widget.EditText, resource_id=org.ligi.passandroid:id/alternativeMessageInput",
-    "text": "anna.verdi@example.com\nOutput"
-  },
+    "text": "anna.verdi@example.com\nOutput",
+    "correct": false
+ 
+    },
   {
     "id": "event_2025-06-25_175259.json",
     "description": "class=android.widget.EditText, resource_id=org.ligi.passandroid:id/passTitle",
-    "text": ""
-  },
+    "text": "",
+    "correct": false
+ 
+    },
   {
     "id": "event_2025-06-25_175306.json",
     "description": "class=android.widget.EditText, resource_id=org.ligi.passandroid:id/passTitle",
-    "text": "mario.rossi@example.com\n\nContext: class"
+    "text": "mario.rossi@example.com\n\nContext: class",
+    "correct": false
+
   }
 ]

@@ -2,106 +2,127 @@
   {
     "id": "event_2025-06-27_155332.json",
     "description": "class=android.widget.EditText",
-    "text": "1"
+    "text": "1",
+    "correct": false
   },
   {
     "id": "event_2025-06-27_155338.json",
     "description": "class=android.widget.EditText",
-    "text": "Laura Lee"
+    "text": "Laura Lee",
+    "correct": false
   },
   {
     "id": "event_2025-06-27_155345.json",
     "description": "class=android.widget.EditText",
-    "text": "2"
+    "text": "2",
+    "correct": false
   },
   {
     "id": "event_2025-06-27_155351.json",
     "description": "class=android.widget.EditText",
-    "text": "2"
+    "text": "2",
+    "correct": false
   },
   {
     "id": "event_2025-06-27_155413.json",
     "description": "class=android.widget.EditText",
-    "text": "2"
+    "text": "2",
+    "correct": false
   },
   {
     "id": "event_2025-06-27_155419.json",
     "description": "class=android.widget.EditText",
-    "text": "Laura Lee"
+    "text": "Laura Lee",
+    "correct": false
   },
   {
     "id": "event_2025-06-27_155431.json",
     "description": "class=android.widget.EditText",
-    "text": "2"
+    "text": "2",
+    "correct": false
   },
   {
     "id": "event_2025-06-27_155436.json",
     "description": "class=android.widget.EditText",
-    "text": "John Smith"
+    "text": "John Smith",
+    "correct": false
   },
   {
     "id": "event_2025-06-27_155442.json",
     "description": "class=android.widget.EditText",
-    "text": "2"
+    "text": "2",
+    "correct": false
   },
   {
     "id": "event_2025-06-27_155449.json",
     "description": "class=android.widget.EditText",
-    "text": "appcrawler3@gmail.com"
+    "text": "appcrawler3@gmail.com",
+    "correct": false
   },
   {
     "id": "event_2025-06-27_155455.json",
     "description": "class=android.widget.EditText",
-    "text": "2"
+    "text": "2",
+    "correct": false
   },
   {
     "id": "event_2025-06-27_155506.json",
     "description": "class=android.widget.EditText",
-    "text": "2"
+    "text": "2",
+    "correct": false
   },
   {
     "id": "event_2025-06-27_155638.json",
     "description": "class=android.widget.EditText",
-    "text": "1"
+    "text": "1",
+    "correct": false
   },
   {
     "id": "event_2025-06-27_155645.json",
     "description": "class=android.widget.EditText",
-    "text": "Laura Lee"
+    "text": "Laura Lee",
+    "correct": false
   },
   {
     "id": "event_2025-06-27_155651.json",
     "description": "class=android.widget.EditText",
-    "text": "Laura Lee"
+    "text": "Laura Lee",
+    "correct": false
   },
   {
     "id": "event_2025-06-27_155658.json",
     "description": "class=android.widget.EditText",
-    "text": "appcrawler3@gmail.com"
+    "text": "appcrawler3@gmail.com",
+    "correct": true
   },
   {
     "id": "event_2025-06-27_155704.json",
     "description": "class=android.widget.EditText",
-    "text": "appcrawler3@gmail.com"
+    "text": "appcrawler3@gmail.com",
+    "correct": true
   },
   {
     "id": "event_2025-06-27_155738.json",
     "description": "class=android.widget.EditText",
-    "text": "Humad"
+    "text": "Humad",
+    "correct": false
   },
   {
     "id": "event_2025-06-27_155744.json",
     "description": "class=android.widget.EditText",
-    "text": "John Smith"
+    "text": "John Smith",
+    "correct": false
   },
   {
     "id": "event_2025-06-27_155749.json",
     "description": "class=android.widget.EditText",
-    "text": "Laura Lee"
+    "text": "Laura Lee",
+    "correct": false
   },
   {
     "id": "event_2025-06-27_155825.json",
     "description": "class=android.widget.EditText",
-    "text": "1"
+    "text": "1",
+    "correct": false
   }
 ]
