@@ -69,48 +69,48 @@
     "id": "event_2025-06-28_154956.json",
     "description": "class=android.widget.AutoCompleteTextView, resource_id=com.fsck.k9.debug:id/search_src_text",
     "text": "wireless headph",
-    "correct": false
+    "correct": true
   },
   {
     "id": "event_2025-06-28_155001.json",
     "description": "class=android.widget.AutoCompleteTextView, resource_id=com.fsck.k9.debug:id/search_src_text",
     "text": "wireless headph",
-    "correct": false
+    "correct": true
   },
   {
     "id": "event_2025-06-28_155100.json",
     "description": "class=android.widget.EditText, resource_id=com.fsck.k9.debug:id/message_content",
     "text": "<input>Message",
-    "correct": false
+    "correct": true
   },
   {
     "id": "event_2025-06-28_155106.json",
     "description": "class=android.widget.EditText, resource_id=com.fsck.k9.debug:id/message_content",
     "text": "<input>Message[",
-    "correct": false
+    "correct": true
   },
   {
     "id": "event_2025-06-28_155112.json",
     "description": "class=android.widget.EditText, resource_id=com.fsck.k9.debug:id/message_content",
     "text": "Message  ### Ex",
-    "correct": false
+    "correct": true
   },
   {
     "id": "event_2025-06-28_155119.json",
     "description": "class=android.widget.EditText, resource_id=com.fsck.k9.debug:id/message_content",
     "text": "Message  ### Ex",
-    "correct": false
+    "correct": true
   },
   {
     "id": "event_2025-06-28_155132.json",
     "description": "class=android.widget.EditText, resource_id=com.fsck.k9.debug:id/message_content",
     "text": "### Ex ### Ex #",
-    "correct": false
+    "correct": true
   },
   {
     "id": "event_2025-06-28_155138.json",
     "description": "class=android.widget.EditText, resource_id=com.fsck.k9.debug:id/message_content",
     "text": "### Ex ### Ex #",
-    "correct": false
+    "correct": true
   }
 ]
