@@ -6,10 +6,10 @@ Ecco la tabella con il formato corretto, mantenendo intatto il contenuto:
 
 | App            | DroidBot base | DroidBot Replay output | DroidBot + LLAMA | DroidBot + LLAMA + Scelta | Humanoid base | Humanoid Replay output | Humanoid + LLAMA |
 |----------------|:-------------:|:---------------------:|:----------------:|:-------------------------:|:-------------:|:----------------------:|:----------------:|
-| PassAndroid    |      RM       |          GM           |        RM        |           RM              |      MR       |          X             |       RM         |
-| TFA pre-log    |      X        |          X            |        RM        |           RM              |      MR       |          X             |       RM         |
-| TFA post-log   |      GM       |          GM           |        RM        |           RM              |      RM       |          X             |       RM         |
-| Omni-Notes     |      MR       |          GM           |        RM        |           RM              |      MR       |          X             |       RM         |
+| PassAndroid    |      RM       |          GM           |        RM        |           RM              |      MR       |          GM            |       RM         |
+| TFA pre-log    |      X        |          X            |        RM        |           X               |      MR       |          GM            |       RM         |
+| TFA post-log   |      GM       |          GM           |        RM        |           RM              |      RM       |          X            |       RM         |
+| Omni-Notes     |      MR       |          GM           |        RM        |           RM              |      MR       |          GM            |       RM         |
 
 
 Activity coverage e Valid set text in frazioni 
