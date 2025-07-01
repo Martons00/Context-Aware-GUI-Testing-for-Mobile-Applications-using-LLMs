@@ -22,10 +22,10 @@ Activity coverage e Valid set text in frazioni
 
 | Metric              | DroidBot base | DroidBot Replay output | DroidBot + LLAMA | DroidBot + LLAMA + Scelta | Humanoid base | Humanoid Replay output | Humanoid + LLAMA |
 |---------------------|:-------------:|:---------------------:|:----------------:|:-------------------------:|:-------------:|:----------------------:|:----------------:|
-| UTG state           |      12       |          15           |       18         |           20              |      14       |          16            |      19          |
-| UTG edge            |      22       |          25           |       28         |           30              |      24       |          26            |      29          |
-| Activity coverage   |      45       |          48           |       50         |           53              |      47       |          49            |      52          |
-| Valid set text      |      8        |          10           |       12         |           14              |      9        |          11            |      13          |
+| UTG state           |      110      |          110          |       214        |           77              |      170      |          170           |      119         |
+| UTG edge            |      200      |          200          |       2087       |           232             |      360      |          360           |      230         |
+| Activity coverage   |      4/15     |          4/15         |       4/15       |           5/15            |      4/15     |          4/15          |      5/15        |
+| Valid set text      |      0/66     |          0/66         |       0/31       |           7/182           |      0/224    |          0/224         |      8/289       |
 
 ## TFA pre-log
 
