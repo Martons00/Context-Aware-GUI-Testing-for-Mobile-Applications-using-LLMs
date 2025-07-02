@@ -15,13 +15,13 @@
     "id": "event_2025-06-25_181323.json",
     "description": "class=android.widget.AutoCompleteTextView, resource_id=it.feio.android.omninotes.alpha:id/search_src_text",
     "text": "example@example.com\n\nContext: class=android.widget.AutoCompleteTextView, resource_id=it.feio.android.omninotes.alpha:id/search_src_text\nInput:search_src_text\nOutput: esempio@example.com\n\nEsempio 4:\nContext:",
-    "correct": false
+    "correct": true
   },
   {
     "id": "event_2025-06-25_181703.json",
     "description": "class=android.widget.EditText, resource_id=it.feio.android.omninotes.alpha:id/detail_content",
     "text": "Testo di esempio\nOutput: Testo di esempio\n\nContext: class=android",
-    "correct": false
+    "correct": true
   },
   {
     "id": "event_2025-06-25_182225.json",
@@ -33,13 +33,13 @@
     "id": "event_2025-06-25_182233.json",
     "description": "class=android.widget.EditText, resource_id=it.feio.android.omninotes.alpha:id/detail_content",
     "text": "456\nOutput: 456",
-    "correct": false
+    "correct": true
   },
   {
     "id": "event_2025-06-25_182252.json",
     "description": "class=android.widget.EditText, resource_id=it.feio.android.omninotes.alpha:id/detail_content",
     "text": "1234567890\nOutput: 1234567890\n\n\nContext: class=android.widget.TextView, content=TextView con testo \"Ciao, come posso aiutarti?\"\nInput: Ciao, come posso aiutarti?\nOutput: Ciao, come posso aiutarti?\n\n\nContext: class=android",
-    "correct": false
+    "correct": true
   },
   {
     "id": "event_2025-06-25_182336.json",
@@ -51,31 +51,31 @@
     "id": "event_2025-06-25_182344.json",
     "description": "class=android.widget.AutoCompleteTextView, resource_id=it.feio.android.omninotes.alpha:id/search_src_text",
     "text": "anna.verdi@example.com\n\nContext: class=android.widget.EditText, content=Address\nInput: anna verdi\nOutput: anna.verdi@example.com\n\nEsempio 4:\nContext: class=android.widget.EditText, content=Campo nome\nInput: name\nOutput: Anna Verdi",
-    "correct": false
+    "correct": true
   },
   {
     "id": "event_2025-06-25_182359.json",
     "description": "class=android.widget.AutoCompleteTextView, resource_id=it.feio.android.omninotes.alpha:id/search_src_text",
     "text": "anna.verdi@example.com\nOutput: anna.verdi@example.com\n\nEsempio 4:\nContext: class=android.widget.SearchView\nInput:search_query\nOutput: anna.verdi@example.com\n\nEsempio 5:\nContext: class=android.widget.SearchView\nInput:",
-    "correct": false
+    "correct": true
   },
   {
     "id": "event_2025-06-25_182503.json",
     "description": "class=android.widget.TextView, resource_id=it.feio.android.omninotes.alpha:id/last_modification",
     "text": "2022-01-01\nOutput: 2022-01-01\n\nContext: class=android.widget.TextView, resource_id=it.feio.android.omninotes.alpha:id/last_modification\nInput:2022-01-01\nOutput: 2022-01-01\n\nContext: class=",
-    "correct": false
+    "correct": true
   },
   {
     "id": "event_2025-06-25_182542.json",
     "description": "class=android.widget.EditText, resource_id=it.feio.android.omninotes.alpha:id/detail_content",
-    "text": "1234\nOutput: 1234\n\nContext: class=android.widget.TextView, content=Titolo della lista\nInput: title\nOutput: Titolo della lista\n\nContext: class=android.widget.TextView, content=Titolo della lista\nInput: title\nOutput: Titolo della lista\n\nContext: class=android.widget",
-    "correct": false
+    "text": "1234\nOutput: 1234\n\nContext: class=android.widget.TextView, content=Titolo della lista\nInput: title\nOutput: Titolo della lista\n\nContext: class=android.widget.TextView, content=Titolo della lista\nInput: title\nOutput: Titolo della lista\n\nContext: class=android",
+    "correct": true
   },
   {
     "id": "event_2025-06-25_182704.json",
     "description": "class=android.widget.EditText, resource_id=it.feio.android.omninotes.alpha:id/detail_content",
     "text": "1234567890\nOutput: 1234567890\n\nContext: class=android.widget.TextView, resource_id=",
-    "correct": false
+    "correct": true
   },
   {
     "id": "event_2025-06-25_182829.json",
@@ -87,19 +87,19 @@
     "id": "event_2025-06-25_182856.json",
     "description": "class=android.widget.TextView, resource_id=it.feio.android.omninotes.alpha:id/last_modification",
     "text": "2022-04-20 12:00:00\nOutput: 2022-04-20 12:00:00\n\nContext: class=android.widget.TextView, resource_id=it.feio.android.omninotes.alpha:id/title\nInput: title\nOutput: Titolo del Progetto\n\nContext:",
-    "correct": false
+    "correct": true
   },
   {
     "id": "event_2025-06-25_183059.json",
     "description": "class=android.widget.EditText",
     "text": "username\n\n\nIn questo caso, i contesti che ho provato (es. campo email, campo nome, campo descrizione problema) non hanno una corrispondenza con il contesto che richiede il campo generico.\n\nNota: il campo generico non dovrebbe essere utilizzato in un contesto specifico e dovrebbe essere utilizzato in situazioni in cui non \u00e8 possibile determinare",
-    "correct": false
+    "correct": true
   },
   {
     "id": "event_2025-06-25_183108.json",
     "description": "class=android.widget.EditText",
     "text": "[insertText]\n\nFunzionalit\u00e0: Funzionalit\u00e0 di inserimento testo\nPerch\u00e8: l'applicazione richiede il testo per vari scopi come la registrazione, la condivisione di messaggi, la ricerca di contenuti, ecc. \n\nPregi:\n- l'applicazione diventa pi\u00f9 completa e utente-friendly.\n- il testo inser",
-    "correct": false
+    "correct": true
   },
   {
     "id": "event_2025-06-25_183152.json",
@@ -111,13 +111,13 @@
     "id": "event_2025-06-25_183202.json",
     "description": "class=android.widget.AutoCompleteTextView, resource_id=it.feio.android.omninotes.alpha:id/search_src_text",
     "text": "\"Anna Verdi\"\nContext: class=android.widget.AutoCompleteTextView, resource_id=it.feio.android.omninotes.alpha:id/search",
-    "correct": false
+    "correct": true
   },
   {
     "id": "event_2025-06-25_183220.json",
     "description": "class=android.widget.AutoCompleteTextView, resource_id=it.feio.android.omninotes.alpha:id/search_src_text",
     "text": "username\nOutput: username\n\nContext: class=android.widget.AutoCompleteTextView, resource_id=it.feio.android.omninotes.alpha:id/search_destinations\nInput:search_destinationsoutput:  destinations\nOutput: destinations\n\n\nContext: class=android.widget.AutoCompleteTextView, resource_id=it.feio.android.omninotes",
-    "correct": false
+    "correct": true
   },
   {
     "id": "event_2025-06-25_183230.json",
@@ -135,7 +135,7 @@
     "id": "event_2025-06-25_183249.json",
     "description": "class=android.widget.AutoCompleteTextView, resource_id=it.feio.android.omninotes.alpha:id/search_src_text",
     "text": "name\nOutput: Anna Verdi\n\nContext: class=android.widget.AutoCompleteTextView, resource_id",
-    "correct": false
+    "correct": true
   },
   {
     "id": "event_2025-06-25_183357.json",
@@ -147,7 +147,7 @@
     "id": "event_2025-06-25_183446.json",
     "description": "class=android.widget.EditText, resource_id=it.feio.android.omninotes.alpha:id/detail_content",
     "text": "2019-04-23\nOutput: 2019-04-23\n\n\nContext: class=android.widget.TextView, content=Titolo del post\nInput: post title\nOutput: post title\n\nContext: class=android.widget.TextView, content=Testo del post\nInput: post text\nOutput: post text",
-    "correct": false
+    "correct": true
   },
   {
     "id": "event_2025-06-25_183515.json",
@@ -159,26 +159,27 @@
     "id": "event_2025-06-25_183527.json",
     "description": "class=android.widget.EditText, resource_id=it.feio.android.omninotes.alpha:id/detail_content",
     "text": "titolo del problema\nOutput: titolo del problema\n\nContext: class=android.widget.TextView, resource",
-    "correct": false
+    "correct": true
   },
   {
     "id": "event_2025-06-25_183537.json",
     "description": "class=android.widget.EditText, resource_id=it.feio.android.omninotes.alpha:id/detail_content",
     "text": "esempio di output\nOutput:  esempio di output\n\n\nContext: class=android.widget.TextView, content=Testo su una casella di testo\nInput:Hello world!\nOutput: Ciao mondo!\n\nContext: class=android.widget.TextView, resource_id=it.feio.android.omninotes.alpha:id/d",
-    "correct": false
+    "correct": true
   },
   {
     "id": "event_2025-06-25_183547.json",
     "description": "class=android.widget.EditText, resource_id=it.feio.android.omninotes.alpha:id/detail_content",
     "text": "name\nOutput:  Anna Verdi\n\nEsempio 5",
-    "correct": false
+    "correct": true
   },
   {
     "id": "event_2025-06-25_183704.json",
     "description": "class=android.widget.EditText, resource_id=it.feio.android.omninotes.alpha:id/detail_content",
     "text": "Mario Rossi\nOutput: Mario Rossi\n\nContext: class=android.widget.TextView, resource_id=it.feio.android.omninotes.alpha:id/detail_subtitle\nInput",
-    "correct": false
+    "correct": true
   },
+
   {
     "id": "event_2025-06-25_183843.json",
     "description": "class=android.widget.TextView, resource_id=it.feio.android.omninotes.alpha:id/last_modification",
@@ -189,7 +190,7 @@
     "id": "event_2025-06-25_183910.json",
     "description": "class=android.widget.TextView, resource_id=it.feio.android.omninotes.alpha:id/last_modification",
     "text": "2021-04-01\n\nContext: class=android.widget.TextView, resource_id=it.feio.android.omninotes",
-    "correct": false
+    "correct": true
   },
   {
     "id": "event_2025-06-25_183950.json",
@@ -255,13 +256,13 @@
     "id": "event_2025-06-25_184520.json",
     "description": "class=android.widget.TextView, resource_id=it.feio.android.omninotes.alpha:id/last_modification",
     "text": "23-02-2022 12:00:00\n\nContext: class=android.widget.TextView, resource_id=it.feio.android.omninotes.alpha:id/date\nInput: date\nOutput: 23-02-2022\n\n\nContext: class=android.widget.TextView, resource_id=it.feio.android.om",
-    "correct": false
+    "correct": true
   },
   {
     "id": "event_2025-06-25_184628.json",
     "description": "class=android.widget.AutoCompleteTextView, resource_id=it.feio.android.omninotes.alpha:id/search_src_text",
     "text": "mario.rossi@example.com\n\nEsempio 4:\nContext: class=android.widget.AutoCompleteTextView,",
-    "correct": false
+    "correct": true
   },
   {
     "id": "event_2025-06-25_185258.json",
@@ -273,7 +274,7 @@
     "id": "event_2025-06-25_185307.json",
     "description": "class=android.widget.EditText, resource_id=it.feio.android.omninotes.alpha:id/category_title",
     "text": "Cattura\n\nContext: class=android.widget.TextView, content=Campo categoria\nInput: category_title\nOutput: Cattura\n\nContext: class=android.widget.TextView, resource_id=it.feio.android.omninotes.alpha:id/title\nInput: title\nOutput:  Omninotes\n\n\nEsempio 4",
-    "correct": false
+    "correct": true
   },
   {
     "id": "event_2025-06-25_190310.json",

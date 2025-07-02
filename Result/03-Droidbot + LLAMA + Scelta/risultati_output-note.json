@@ -45,7 +45,7 @@
     "id": "event_2025-06-29_131033.json",
     "description": "class=android.widget.AutoCompleteTextView, resource_id=it.feio.android.omninotes.alpha:id/search_src_text",
     "text": "Search in notes",
-    "correct": false
+    "correct": true
   },
   {
     "id": "event_2025-06-29_131040.json",
@@ -75,25 +75,25 @@
     "id": "event_2025-06-29_131147.json",
     "description": "class=android.widget.AutoCompleteTextView, resource_id=it.feio.android.omninotes.alpha:id/search_src_text",
     "text": "Notes",
-    "correct": false
+    "correct": true
   },
   {
     "id": "event_2025-06-29_131153.json",
     "description": "class=android.widget.AutoCompleteTextView, resource_id=it.feio.android.omninotes.alpha:id/search_src_text",
     "text": "Notes",
-    "correct": false
+    "correct": true
   },
   {
     "id": "event_2025-06-29_131159.json",
     "description": "class=android.widget.AutoCompleteTextView, resource_id=it.feio.android.omninotes.alpha:id/search_src_text",
     "text": "notes",
-    "correct": false
+    "correct": true
   },
   {
     "id": "event_2025-06-29_131205.json",
     "description": "class=android.widget.AutoCompleteTextView, resource_id=it.feio.android.omninotes.alpha:id/search_src_text",
     "text": "notes",
-    "correct": false
+    "correct": true
   },
   {
     "id": "event_2025-06-29_131214.json",
@@ -129,25 +129,25 @@
     "id": "event_2025-06-29_131328.json",
     "description": "class=android.widget.AutoCompleteTextView, resource_id=it.feio.android.omninotes.alpha:id/search_src_text",
     "text": "notes",
-    "correct": false
+    "correct": true
   },
   {
     "id": "event_2025-06-29_131334.json",
     "description": "class=android.widget.EditText, resource_id=it.feio.android.omninotes.alpha:id/detail_content",
     "text": "Content",
-    "correct": false
+    "correct": true
   },
   {
     "id": "event_2025-06-29_131345.json",
     "description": "class=android.widget.EditText, resource_id=it.feio.android.omninotes.alpha:id/detail_content",
     "text": "notes",
-    "correct": false
+    "correct": true
   },
   {
     "id": "event_2025-06-29_131350.json",
     "description": "class=android.widget.EditText, resource_id=it.feio.android.omninotes.alpha:id/detail_content",
     "text": "notes",
-    "correct": false
+    "correct": true
   },
   {
     "id": "event_2025-06-29_131357.json",
@@ -177,55 +177,59 @@
     "id": "event_2025-06-29_131420.json",
     "description": "class=android.widget.EditText, resource_id=it.feio.android.omninotes.alpha:id/detail_content",
     "text": "Add reminder",
-    "correct": false
+    "correct": true
   },
+
+
+
+
   {
     "id": "event_2025-06-29_131427.json",
     "description": "class=android.widget.EditText, resource_id=it.feio.android.omninotes.alpha:id/detail_content",
     "text": "reminder  ### E",
-    "correct": false
+    "correct": true
   },
   {
     "id": "event_2025-06-29_131433.json",
     "description": "class=android.widget.EditText, resource_id=it.feio.android.omninotes.alpha:id/detail_content",
     "text": "reminder  ### E",
-    "correct": false
+    "correct": true
   },
   {
     "id": "event_2025-06-29_131439.json",
     "description": "class=android.widget.EditText, resource_id=it.feio.android.omninotes.alpha:id/detail_content",
     "text": "reminder ### E",
-    "correct": false
+    "correct": true
   },
   {
     "id": "event_2025-06-29_131445.json",
     "description": "class=android.widget.EditText, resource_id=it.feio.android.omninotes.alpha:id/detail_content",
     "text": "reminder ### E",
-    "correct": false
+    "correct": true
   },
   {
     "id": "event_2025-06-29_131534.json",
     "description": "class=android.widget.AutoCompleteTextView, resource_id=it.feio.android.omninotes.alpha:id/search_src_text",
     "text": "Search in notes",
-    "correct": false
+    "correct": true
   },
   {
     "id": "event_2025-06-29_131539.json",
     "description": "class=android.widget.AutoCompleteTextView, resource_id=it.feio.android.omninotes.alpha:id/search_src_text",
     "text": "Search in notes",
-    "correct": false
+    "correct": true
   },
   {
     "id": "event_2025-06-29_131550.json",
     "description": "class=android.widget.AutoCompleteTextView, resource_id=it.feio.android.omninotes.alpha:id/search_src_text",
     "text": "2 days ago",
-    "correct": false
+    "correct": true
   },
   {
     "id": "event_2025-06-29_131629.json",
     "description": "class=android.widget.AutoCompleteTextView, resource_id=it.feio.android.omninotes.alpha:id/search_src_text",
     "text": "Search in notes",
-    "correct": false
+    "correct": true
   },
   {
     "id": "event_2025-06-29_131635.json",
@@ -309,7 +313,7 @@
     "id": "event_2025-06-29_131945.json",
     "description": "class=android.widget.AutoCompleteTextView, resource_id=it.feio.android.omninotes.alpha:id/search_src_text",
     "text": "Search in notes",
-    "correct": false
+    "correct": true
   },
   {
     "id": "event_2025-06-29_131952.json",
@@ -357,25 +361,25 @@
     "id": "event_2025-06-29_132121.json",
     "description": "class=android.widget.AutoCompleteTextView, resource_id=it.feio.android.omninotes.alpha:id/search_src_text",
     "text": "2 days ago",
-    "correct": false
+    "correct": true
   },
   {
     "id": "event_2025-06-29_132134.json",
     "description": "class=android.widget.EditText",
     "text": "wireless headph",
-    "correct": false
+    "correct": true
   },
   {
     "id": "event_2025-06-29_132140.json",
     "description": "class=android.widget.EditText",
     "text": "wireless headph",
-    "correct": false
+    "correct": true
   },
   {
     "id": "event_2025-06-29_132146.json",
     "description": "class=android.widget.EditText",
     "text": "New item",
-    "correct": false
+    "correct": true
   },
   {
     "id": "event_2025-06-29_132155.json",
@@ -411,19 +415,19 @@
     "id": "event_2025-06-29_132240.json",
     "description": "class=android.widget.EditText",
     "text": "New item",
-    "correct": false
+    "correct": true
   },
   {
     "id": "event_2025-06-29_132349.json",
     "description": "class=android.widget.AutoCompleteTextView, resource_id=it.feio.android.omninotes.alpha:id/search_src_text",
     "text": "Notes",
-    "correct": false
+    "correct": true
   },
   {
     "id": "event_2025-06-29_132400.json",
     "description": "class=android.widget.AutoCompleteTextView, resource_id=it.feio.android.omninotes.alpha:id/search_src_text",
     "text": "notes",
-    "correct": false
+    "correct": true
   },
   {
     "id": "event_2025-06-29_132412.json",
@@ -447,13 +451,13 @@
     "id": "event_2025-06-29_132510.json",
     "description": "class=android.widget.AutoCompleteTextView, resource_id=it.feio.android.omninotes.alpha:id/search_src_text",
     "text": "Notes",
-    "correct": false
+    "correct": true
   },
   {
     "id": "event_2025-06-29_132515.json",
     "description": "class=android.widget.AutoCompleteTextView, resource_id=it.feio.android.omninotes.alpha:id/search_src_text",
     "text": "notes",
-    "correct": false
+    "correct": true
   },
   {
     "id": "event_2025-06-29_132521.json",
@@ -465,7 +469,7 @@
     "id": "event_2025-06-29_132526.json",
     "description": "class=android.widget.AutoCompleteTextView, resource_id=it.feio.android.omninotes.alpha:id/search_src_text",
     "text": "2 days ago",
-    "correct": false
+    "correct": true
   },
   {
     "id": "event_2025-06-29_132533.json",
@@ -489,7 +493,7 @@
     "id": "event_2025-06-29_132919.json",
     "description": "class=android.widget.EditText",
     "text": "New item  Note:",
-    "correct": false
+    "correct": true
   },
   {
     "id": "event_2025-06-29_132928.json",
@@ -501,7 +505,7 @@
     "id": "event_2025-06-29_132937.json",
     "description": "class=android.widget.EditText",
     "text": "New item  Note:",
-    "correct": false
+    "correct": true
   },
   {
     "id": "event_2025-06-29_132945.json",
