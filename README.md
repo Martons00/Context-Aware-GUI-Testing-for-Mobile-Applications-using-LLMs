@@ -31,19 +31,19 @@ Activity coverage e Valid set text in frazioni
 
 | Metric              | DroidBot base | DroidBot Replay output | DroidBot + LLAMA | DroidBot + LLAMA + Scelta | Humanoid base | Humanoid Replay output | Humanoid + LLAMA |
 |---------------------|:-------------:|:---------------------:|:----------------:|:-------------------------:|:-------------:|:----------------------:|:----------------:|
-| UTG state           |      21       |          24           |       27         |           29              |      23       |          25            |      28          |
-| UTG edge            |      32       |          35           |       38         |           40              |      34       |          36            |      39          |
-| Activity coverage   |      55       |          58           |       60         |           63              |      57       |          59            |      62          |
-| Valid set text      |      13       |          15           |       17         |           19              |      14       |          16            |      18          |
+| UTG state           |     356       |          356          |       15         |           --              |      19       |          19            |      8           |
+| UTG edge            |     615       |          615          |       25         |           --              |      34       |          34            |      19          |
+| Activity coverage   |     3/31      |          3/31         |      2/28        |          -/--             |     2/28      |         2/28           |     2/28         |
+| Valid set text      |     0/70      |         12/70         |      0/10        |          -/--             |     0/9       |          0/9           |     2/21         |
 
 ## TFA post-log
 
 | Metric              | DroidBot base | DroidBot Replay output | DroidBot + LLAMA | DroidBot + LLAMA + Scelta | Humanoid base | Humanoid Replay output | Humanoid + LLAMA |
 |---------------------|:-------------:|:---------------------:|:----------------:|:-------------------------:|:-------------:|:----------------------:|:----------------:|
-| UTG state           |      31       |          34           |       37         |           39              |      33       |          35            |      38          |
-| UTG edge            |      42       |          45           |       48         |           50              |      44       |          46            |      49          |
-| Activity coverage   |      65       |          68           |       70         |           73              |      67       |          69            |      72          |
-| Valid set text      |      18       |          20           |       22         |           24              |      19       |          21            |      23          |
+| UTG state           |      226      |         226           |       30         |           54              |      291      |          291           |      37          |
+| UTG edge            |     1112      |         1112          |       58         |           86              |      642      |          642           |      79          |
+| Activity coverage   |     3/31      |         3/31          |      2/28        |          2/28             |     2/28      |         2/28           |     2/28         |
+| Valid set text      |    48/101     |        39/101         |      8/19        |          37/93            |    102/210    |        30/210          |    27/28         |
 
 ## Omni-Notes
 
