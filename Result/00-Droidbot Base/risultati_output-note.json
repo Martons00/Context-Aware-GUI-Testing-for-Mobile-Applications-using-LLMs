@@ -1,7 +1,7 @@
 [
   {
     "id": "event_2025-06-25_181300.json",
-    "description": "class=android.widget.AutoCompleteTextView, resource_id=it.feio.android.omninotes.alpha:id/search_src_text",
+    "description": "cld=it.feio.android.omninotes.alpha:id/search_src_text",
     "text": "Hello World",
     "correct": true
   },
