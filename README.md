@@ -49,10 +49,12 @@ Activity coverage e Valid set text in frazioni
 
 | Metric              | DroidBot base | DroidBot Replay output | DroidBot + LLAMA | DroidBot + LLAMA + Scelta | Humanoid base | Humanoid Replay output | Humanoid + LLAMA |
 |---------------------|:-------------:|:---------------------:|:----------------:|:-------------------------:|:-------------:|:----------------------:|:----------------:|
-| UTG state           |      41       |          44           |       47         |           49              |      43       |          45            |      48          |
-| UTG edge            |      52       |          55           |       58         |           60              |      54       |          56            |      59          |
-| Activity coverage   |      75       |          78           |       80         |           83              |      77       |          79            |      82          |
+| UTG states           |      73       |          73           |       296         |           18              |      169       |          169            |      52          |
+| UTG edges            |      173       |          173           |       787         |           32              |      419       |          419            |      125          |
+| Activity coverage   |      3/15       |          3/15           |       2/15         |           1/15              |      5/15       |          5/15            |      3/15          |
 | Valid set text      |      80.65% (50/62)       |          38.71% (24/62)           |       80.65% (25/31)         |           36.47% (31/85)              |      52.91% (91/172)       |          58.14% (100/172)           |       46.84% (74/158)          |
+
+Note: the 'Humanoid base' folder is hidden because it exceeds 100 MB and is included in the .gitignore file.
 
 ## Limitazioni
 
