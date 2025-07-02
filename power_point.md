@@ -145,9 +145,7 @@ Example: Given email form and buttons [0,1,2], Output: 1
 - **Questions?**
 - **Contatti** (opzionale)
 
-Ecco la tabella in Markdown con numero slide, titolo e colonna per chi la discute:
 
-```markdown
 | Slide | Titolo                                      | Chi la discute |
 |-------|---------------------------------------------|----------------|
 | 1     | Titolo                                      |   MR           |
@@ -166,4 +164,3 @@ Ecco la tabella in Markdown con numero slide, titolo e colonna per chi la discut
 | 13    | Discussione - LLM vs Manual Testing         |   GM           |
 | 14    | Conclusioni e Contributi                    |   *            |
 | 15    | Q&A                                         |   *            |
-```
