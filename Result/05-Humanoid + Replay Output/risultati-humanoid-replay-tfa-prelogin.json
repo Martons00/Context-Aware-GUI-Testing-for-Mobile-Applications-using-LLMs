@@ -9,7 +9,7 @@
     "id": "event_2025-05-18_171437.json",
     "description": "class=android.widget.EditText",
     "text": "example@example.com\n\n\n## Class: class\n### Description:\nReturns a class name identifier.\n\n## Parameters:\n- class (str): Class name identifier.\n\n## Returns:",
-    "correct": false
+    "correct": true
   },
   {
     "id": "event_2025-05-18_171552.json",

@@ -34,7 +34,7 @@ Activity coverage e Valid set text in frazioni
 | UTG state           |     356       |          356          |       15         |           --              |      19       |          19            |      8           |
 | UTG edge            |     615       |          615          |       25         |           --              |      34       |          34            |      19          |
 | Activity coverage   |     3/31      |          3/31         |      2/28        |          -/--             |     2/28      |         2/28           |     2/28         |
-| Valid set text      |     0/70      |         12/70         |      0/10        |          -/--             |     0/9       |          0/9           |     2/21         |
+| Valid set text      |     0/70      |         12/70         |      0/10        |          -/--             |     0/9       |          1/9           |     2/21         |
 
 ## TFA post-log
 
