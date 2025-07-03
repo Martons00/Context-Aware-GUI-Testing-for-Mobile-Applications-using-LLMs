@@ -57,7 +57,7 @@ Project_LLM_A3/
 ├── Script/                          # Analysis and data processing scripts
 │   ├── Correction_stats.ipynb      # Statistical analysis and corrections
 │   ├── Extract_info_from_json.ipynb # JSON data extraction utilities
-│   └── LLM_json.ipynb              # LLM integration scripts
+│   └── Replay_output_LLM.ipynb              # LLM integration scripts
 ├── LLM_Project_A3_Final_Report.pdf # Complete research report
 ├── LLM_Project_A3_Final_PPT.pdf    # Project presentation
 └── README.md                       # This file
@@ -158,7 +158,7 @@ Droidbot Repo LLAMA Integration: https://github.com/Martons00/droidbot/tree/LLam
 
 - **`Correction_stats.ipynb`**: Statistical analysis and data corrections
 - **`Extract_info_from_json.ipynb`**: Utilities for extracting information from test execution logs
-- **`LLM_json.ipynb`**: LLM integration and processing scripts
+- **`Replay_output_LLM.ipynb`**: LLM integration and processing scripts
 
 ## 📈 Metrics Explained
 
